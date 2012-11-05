@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="mztg"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="\usr\bin\xterm -T 'Lazarus Run Output' -e $(LazarusDir)\tools\runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="mztg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mztg"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="main"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="brute.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="brute"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="brutegen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmBruteGen"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="brutegen"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="wordlistextract.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmWordListExtract"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="wordlistextract"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="htmlutil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="htmlutil"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="hybridgen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="hybridgen"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="apputils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="apputils"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="about.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="about"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="threadattack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="threadattack"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="heuristic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmHeuristic"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="heuristic"/>
+      </Unit10>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="mztg"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <Checks>
+        <IOChecks Value="True"/>
+        <RangeChecks Value="True"/>
+        <OverflowChecks Value="True"/>
+        <StackChecks Value="True"/>
+      </Checks>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <UseValgrind Value="True"/>
+        <UseExternalDbgSyms Value="True"/>
+      </Debugging>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CustomOptions Value="UseCThreads"/>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

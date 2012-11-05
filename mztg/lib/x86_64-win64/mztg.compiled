@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.0\bin\x86_64-win64\fpc.exe" Date="1092385180"/>
+  <Params Value=" -MObjFPC -Scghi -Cirot -O1 -g -gl -gv -Xg -WG -vewnhi -l -FiC:\master\ceh\dict\tools\fpc\mztg\lib\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\master\ceh\dict\tools\fpc\mztg\ -FUC:\master\ceh\dict\tools\fpc\mztg\lib\x86_64-win64\ -dLCL -dLCLwin32 UseCThreads mztg.lpr"/>
+</CONFIG>

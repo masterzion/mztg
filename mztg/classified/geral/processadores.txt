@@ -1,0 +1,15 @@
+Hppa
+i386
+i486
+ia64
+m68k
+mips
+s390
+AMD64
+Alpha
+Intel
+Sparc
+SuperH
+mipsel
+PowerPC
+Macintosh

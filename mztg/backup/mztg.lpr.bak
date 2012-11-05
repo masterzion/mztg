@@ -1,0 +1,25 @@
+program mztg;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}
+    cthreads,
+    cmem, // the c memory manager is on some systems much faster for multi-threading
+  {$ENDIF}
+  Interfaces, // this includes the LCL widgetset
+  Forms, main, brute, brutegen, wordlistextract, htmlutil, hybridgen, apputils,
+  about, threadattack;
+
+{$R *.res}
+
+begin
+//  RequireDerivedFormResource := True;
+  Application.Initialize;
+  Application.CreateForm(TfrmMain, frmMain);
+  Application.CreateForm(TfrmBruteGen, frmBruteGen);
+  Application.CreateForm(TfrmWordListExtract, frmWordListExtract);
+  Application.CreateForm(TfrmAbout, frmAbout);
+  Application.Run;
+end.
+
