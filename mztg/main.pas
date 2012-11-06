@@ -296,7 +296,6 @@ var
          menuitem.Caption:= FindRec.Name;
          menuitem.Bitmap.LoadFromFile(strPath +  'lang' + PathDelim+FindRec.Name+PathDelim+'flag.bmp');
          menuitem.OnClick := @MenuItemLangClick;
-         menuitem.AutoCheck := False;
 
          MenuItem16.Add(menuitem);
        end;
@@ -518,15 +517,6 @@ begin
   memoLog.Clear;
   edtLastText.Clear;
   iMaxWordSize := 0;
-  if not SaveDialog1.execute then exit;
-  writelog('Start '+datetimetostr(now)+' ...');
-  sDirectory := ExtractFilePath(SaveDialog1.FileName);
-
-
-  btnOk.Visible := False;
-  btnCancel.Visible := True;
-  Application.ProcessMessages;
-  WordListTemp := TStringList.Create;
 
   attacks := TStringList.create();
   writelog('Search Checked itens  Objects...');
@@ -538,6 +528,25 @@ begin
                      attacks.add( LowerCase(chkl.Items[n2]) );
      end;
   end;
+
+  if attacks.Count = 0 then begin
+    ShowMessage('Select some format');
+    pgMain.ActivePage := tsHybrid;
+    attacks.Free;
+    exit;
+  end;
+
+  if not SaveDialog1.execute then exit;
+  writelog('Start '+datetimetostr(now)+' ...');
+  sDirectory := ExtractFilePath(SaveDialog1.FileName);
+
+
+  btnOk.Visible := False;
+  btnCancel.Visible := True;
+  Application.ProcessMessages;
+  WordListTemp := TStringList.Create;
+
+
 
   for n:= 0 to chklPwdCustom.Items.Count-1  do
     if chklPwdCustom.Checked[n] then
@@ -665,17 +674,20 @@ begin
 
     	  WordList := TStringList.Create;
 
-
     	  // load default WordList
-    	  if Length(flWordList.Text) > 0 then
+    	  if Length(flWordList.Text) > 0 then begin
     		 if FileExists(flWordList.Text) then
     			WordList.LoadFromFile(flWordList.Text);
+          end
+          else
+              WordList.Text := '';
 
     	  // load selected WordList
     	  for n:= 0 to lbSelectedFiles.Items.Count-1 do begin
-                 writelog('Loading ...' + PathDelim  +lbSelectedFiles.items[n]);
+                 writelog('Loading ' +lbSelectedFiles.items[n] + ' ...');
     		 WordListTemp.LoadFromFile( strPath+  'classified' + PathDelim  +lbSelectedFiles.items[n] );
-    		 WordList.add(WordListTemp.Text);
+    		 WordList.Text := WordList.Text + WordListTemp.Text;
+                 writelog( IntToStr( WordListTemp.Count ) + ' words added.' );
     	  end;
 
 

@@ -24,8 +24,8 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="275"/>
-        <CursorPos X="38" Y="299"/>
+        <TopLine Value="659"/>
+        <CursorPos X="83" Y="675"/>
         <UsageCount Value="206"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -60,10 +60,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="wordlistextract"/>
-        <EditorIndex Value="2"/>
+        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="175"/>
-        <CursorPos X="42" Y="144"/>
+        <TopLine Value="78"/>
+        <CursorPos X="66" Y="94"/>
         <UsageCount Value="249"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -128,7 +128,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="52" Y="58"/>
-        <UsageCount Value="53"/>
+        <UsageCount Value="54"/>
       </Unit10>
       <Unit11>
         <Filename Value="C:\lazarus\lcl\checklst.pas"/>
@@ -141,12 +141,10 @@
       <Unit12>
         <Filename Value="..\..\..\..\usr\share\lazarus\1.0.2\lcl\lclclasses.pp"/>
         <UnitName Value="LCLClasses"/>
-        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="16"/>
         <CursorPos X="10" Y="32"/>
         <UsageCount Value="12"/>
-        <Loaded Value="True"/>
       </Unit12>
       <Unit13>
         <Filename Value="..\..\..\..\usr\share\lazarus\1.0.2\lcl\interfaces\gtk2\gtk2widgetset.inc"/>
@@ -363,10 +361,12 @@
       <Unit40>
         <Filename Value="C:\lazarus\lcl\maskedit.pp"/>
         <UnitName Value="MaskEdit"/>
+        <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1168"/>
         <CursorPos X="1" Y="1188"/>
         <UsageCount Value="12"/>
+        <Loaded Value="True"/>
       </Unit40>
       <Unit41>
         <Filename Value="C:\lazarus\lcl\include\customcheckbox.inc"/>
@@ -407,10 +407,12 @@
       <Unit46>
         <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\objpas\strutils.pp"/>
         <UnitName Value="strutils"/>
+        <EditorIndex Value="5"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="27" Y="54"/>
         <UsageCount Value="10"/>
+        <Loaded Value="True"/>
       </Unit46>
     </Units>
     <General>
@@ -418,124 +420,124 @@
     </General>
     <JumpHistory Count="30" HistoryIndex="29">
       <Position1>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="9" Column="102" TopLine="1"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="696" Column="55" TopLine="668"/>
       </Position1>
       <Position2>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="20" Column="79" TopLine="13"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
       </Position2>
       <Position3>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="32" Column="17" TopLine="22"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="679" Column="1" TopLine="656"/>
       </Position3>
       <Position4>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="25" Column="28" TopLine="15"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="638" Column="80" TopLine="623"/>
       </Position4>
       <Position5>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="9" Column="13" TopLine="1"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
       </Position5>
       <Position6>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="21" Column="79" TopLine="7"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="204" Column="12" TopLine="182"/>
       </Position6>
       <Position7>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="46" Column="1" TopLine="24"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="247" Column="32" TopLine="225"/>
       </Position7>
       <Position8>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="20" Column="62" TopLine="8"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="249" Column="26" TopLine="227"/>
       </Position8>
       <Position9>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="44" Column="1" TopLine="24"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="280" Column="10" TopLine="258"/>
       </Position9>
       <Position10>
-        <Filename Value="wordlistextract.pas"/>
-        <Caret Line="134" Column="1" TopLine="134"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="281" Column="33" TopLine="259"/>
       </Position10>
       <Position11>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="44" Column="1" TopLine="24"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="283" Column="27" TopLine="267"/>
       </Position11>
       <Position12>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="78" TopLine="34"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="438" Column="61" TopLine="432"/>
       </Position12>
       <Position13>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="9" Column="113" TopLine="1"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
       </Position13>
       <Position14>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="24" TopLine="34"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="204" Column="12" TopLine="182"/>
       </Position14>
       <Position15>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="1" Column="1" TopLine="1"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="247" Column="32" TopLine="225"/>
       </Position15>
       <Position16>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="291" Column="51" TopLine="269"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="249" Column="26" TopLine="227"/>
       </Position16>
       <Position17>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="1" TopLine="34"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="280" Column="10" TopLine="258"/>
       </Position17>
       <Position18>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="44" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="281" Column="33" TopLine="259"/>
       </Position18>
       <Position19>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="283" Column="27" TopLine="261"/>
       </Position19>
       <Position20>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="46" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="286" Column="43" TopLine="264"/>
       </Position20>
       <Position21>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="291" Column="24" TopLine="269"/>
       </Position21>
       <Position22>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="46" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="297" Column="46" TopLine="275"/>
       </Position22>
       <Position23>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="45" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="339" Column="26" TopLine="317"/>
       </Position23>
       <Position24>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="46" Column="1" TopLine="31"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="356" Column="86" TopLine="334"/>
       </Position24>
       <Position25>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="36" Column="120" TopLine="25"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="337" Column="80" TopLine="337"/>
       </Position25>
       <Position26>
-        <Filename Value="wordlistextract.pas"/>
-        <Caret Line="225" Column="40" TopLine="218"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="666" Column="103" TopLine="659"/>
       </Position26>
       <Position27>
-        <Filename Value="wordlistextract.pas"/>
-        <Caret Line="169" Column="39" TopLine="156"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="677" Column="64" TopLine="662"/>
       </Position27>
       <Position28>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="16" Column="28" TopLine="5"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="675" Column="1" TopLine="662"/>
       </Position28>
       <Position29>
-        <Filename Value="apputils.pas"/>
-        <Caret Line="48" Column="3" TopLine="15"/>
+        <Filename Value="main.pas"/>
+        <Caret Line="678" Column="1" TopLine="662"/>
       </Position29>
       <Position30>
         <Filename Value="main.pas"/>
-        <Caret Line="299" Column="19" TopLine="275"/>
+        <Caret Line="682" Column="1" TopLine="662"/>
       </Position30>
     </JumpHistory>
   </ProjectSession>
