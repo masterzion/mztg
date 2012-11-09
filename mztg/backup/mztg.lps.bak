@@ -138,10 +138,11 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="sanitizer"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="4"/>
         <WindowIndex Value="0"/>
         <TopLine Value="231"/>
-        <CursorPos X="53" Y="237"/>
+        <CursorPos X="93" Y="243"/>
         <UsageCount Value="39"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -462,7 +463,6 @@
       <Unit52>
         <Filename Value="..\..\..\..\..\usr\local\share\lazarus\lcl\lclclasses.pp"/>
         <UnitName Value="LCLClasses"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="5"/>
         <WindowIndex Value="0"/>
         <TopLine Value="16"/>
@@ -474,7 +474,7 @@
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="30" HistoryIndex="29">
+    <JumpHistory Count="29" HistoryIndex="28">
       <Position1>
         <Filename Value="main.pas"/>
         <Caret Line="692" Column="1" TopLine="679"/>
@@ -591,10 +591,6 @@
         <Filename Value="sanitizer.pas"/>
         <Caret Line="213" Column="41" TopLine="203"/>
       </Position29>
-      <Position30>
-        <Filename Value="sanitizer.pas"/>
-        <Caret Line="237" Column="53" TopLine="231"/>
-      </Position30>
     </JumpHistory>
   </ProjectSession>
   <Debugging>
