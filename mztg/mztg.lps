@@ -4,7 +4,7 @@
     <PathDelim Value="\"/>
     <Version Value="9"/>
     <BuildModes Active="Default"/>
-    <Units Count="53">
+    <Units Count="51">
       <Unit0>
         <Filename Value="mztg.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -77,10 +77,11 @@
         <Filename Value="hybridgen.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="hybridgen"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="119"/>
-        <CursorPos X="42" Y="121"/>
+        <TopLine Value="118"/>
+        <CursorPos X="69" Y="150"/>
         <UsageCount Value="227"/>
         <Loaded Value="True"/>
       </Unit6>
@@ -88,7 +89,7 @@
         <Filename Value="apputils.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="apputils"/>
-        <EditorIndex Value="7"/>
+        <EditorIndex Value="5"/>
         <WindowIndex Value="0"/>
         <TopLine Value="70"/>
         <CursorPos X="35" Y="84"/>
@@ -140,8 +141,8 @@
         <UnitName Value="sanitizer"/>
         <EditorIndex Value="4"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="231"/>
-        <CursorPos X="53" Y="237"/>
+        <TopLine Value="204"/>
+        <CursorPos X="32" Y="204"/>
         <UsageCount Value="39"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -449,32 +450,11 @@
         <CursorPos X="64" Y="54"/>
         <UsageCount Value="12"/>
       </Unit50>
-      <Unit51>
-        <Filename Value="..\..\..\..\..\usr\local\share\lazarus\lcl\stdctrls.pp"/>
-        <UnitName Value="StdCtrls"/>
-        <EditorIndex Value="6"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="17"/>
-        <CursorPos X="27" Y="33"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit51>
-      <Unit52>
-        <Filename Value="..\..\..\..\..\usr\local\share\lazarus\lcl\lclclasses.pp"/>
-        <UnitName Value="LCLClasses"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="5"/>
-        <WindowIndex Value="0"/>
-        <TopLine Value="16"/>
-        <CursorPos X="10" Y="32"/>
-        <UsageCount Value="10"/>
-        <Loaded Value="True"/>
-      </Unit52>
     </Units>
     <General>
       <ActiveWindowIndexAtStart Value="0"/>
     </General>
-    <JumpHistory Count="30" HistoryIndex="29">
+    <JumpHistory Count="28" HistoryIndex="27">
       <Position1>
         <Filename Value="main.pas"/>
         <Caret Line="692" Column="1" TopLine="679"/>
@@ -587,14 +567,6 @@
         <Filename Value="main.pas"/>
         <Caret Line="826" Column="70" TopLine="811"/>
       </Position28>
-      <Position29>
-        <Filename Value="sanitizer.pas"/>
-        <Caret Line="213" Column="41" TopLine="203"/>
-      </Position29>
-      <Position30>
-        <Filename Value="sanitizer.pas"/>
-        <Caret Line="237" Column="53" TopLine="231"/>
-      </Position30>
     </JumpHistory>
   </ProjectSession>
   <Debugging>

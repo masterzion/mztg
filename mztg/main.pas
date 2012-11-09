@@ -8,6 +8,7 @@ uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ComCtrls,
   ExtCtrls, EditBtn, StdCtrls, Buttons, CheckLst, Spin, Menus, dateutils, INIFiles;
 
+  
 //const appThreadCount = 1;
 const AppVersion = 'MZTG 0.3';
 type
