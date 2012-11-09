@@ -9,6 +9,7 @@ uses
   , INIFiles,typinfo, Variants, Forms, ComCtrls,  ExtCtrls, StdCtrls, Menus, Controls, brute, dialogs, StrUtils   ;
 type
   TStringArray = array of string;
+  TCharArray = array of string;
 
 function IsStrANumber(const S: string): Boolean;
 function SplitTag(const Str: String; blackline : Boolean = false): TStringArray;
@@ -17,36 +18,64 @@ procedure RemoveSpecialChar(var WordList : TStringList);
 //Procedure MergeSort(name: string; var f: text);
 procedure WriteTranslation(strPath:string; form:TForm);
 procedure LoadTranslation(strPath:string; form:TForm);
+function MyListCompare(List: TStringList; Index1, Index2: Integer): Integer;
+function RemoveDiacritics(S :utf8string):utf8string;
 implementation
+
+function MyListCompare(List: TStringList; Index1, Index2: Integer): Integer;
+begin
+if (length(List[Index1]) < length(List[Index2]) ) then
+    result := -1
+else
+   if (length(List[Index1]) > length(List[Index2]) ) then
+      result := 1
+   else
+      result := 0;
+end;
+
+{
+Source from http://lazarus.freepascal.org/index.php?topic=15576.0
+}
+
+function RemoveDiacritics(S :utf8string):utf8string;
+// It should work for several languages
+// Portuguese, Spanish and Italian, maybe for French, German and more
+const
+  AccentedChars :array[0..63] of utf8string = ('á','à','ã','â','ä','é','è','ê','ë','í','ì','ï','î','ó','ò','õ','ô','ö' ,'ø','ú','ù','ü','û','ç','ñ','ÿ','ý','ǐ','ā','ē','ǎ','ǔ',
+                                               'Á','À','Ã','Â','Ä','É','È','Ê','Ë','Í','Ì','Ï','Î','Ó','Ò','Õ','Ô','Ö' ,'Ø','Ú','Ù','Ü','Û','Ç','Ñ','Y','Ý','Ǐ','Ā','Ē','Ǎ','Ǔ'
+                                               );
+
+  NormalChars   :array[0..63] of utf8string = ('a','a','a','a','a','e','e','e','e','i','i','i','i','o','o','o','o','oe','o','u','u','u','u','c','n','y','y','i','a','e','a','u',
+                                               'A','A','A','A','A','E','E','E','E','I','I','I','I','O','O','O','O','OE','O','U','U','U','U','C','N','Y','Y','I','A','E','A','U'
+                                               );
+var
+  i, j :integer;
+begin
+  Result := S;
+    for i := 0 to High(AccentedChars) do
+        Result := StringReplace(Result, AccentedChars[i], NormalChars[i], [rfReplaceAll]);
+end;
+
 
 procedure RemoveSpecialChar(var WordList : TStringList);
 var
-  n1, n2: integer;
-  sTemp1, sTemp2 : string;
+  n1, n2 : integer;
+  sTemp, sTemp1, sTemp2 : utf8string;
+
 begin
-  sTemp1 := symbols1+symbols2+'◄'+'“'+'”'+'¬';
-
+  sTemp1 := symbols1+symbols2+'◄'+'“'+'”'+'¬'+Numbers;
+  sTemp := WordList.Text;
+  WordList.BeginUpdate;
   for n1 := 1 to Length(sTemp1) do
-      WordList.Text := stringreplace(WordList.Text,sTemp1[n1], #10#13, [rfReplaceAll]);
+      sTemp := StringReplace(sTemp, sTemp1[n1], ' ', [rfReplaceAll]);
+
+  WordList.Text := RemoveDiacritics(sTemp);
 
 
-
-  for n1 := WordList.Count-1  downto 0 do
+   for n1 := WordList.Count-1  downto 0 do
      if WordList.Strings[n1] = '' then
         WordList.delete(n1);
-
-{
-  sTemp1 :=  strLowerSpecial+strUpperSpecial;
-  sTemp2 :=  strLowerSpecialConvert+strUpperSpecialConvert;
-
-
-
-  for n1 := length(sTemp2) downto 1 do begin
-      WordList.Text := StringReplace(WordList.Text,sTemp1[n1], sTemp2[n1], [rfReplaceAll]);
-      Application.ProcessMessages();
-  end;
- }
-
+   WordList.EndUpdate;
 end;
 
 procedure RemoveDuplicated(var WordList : TStringList);
@@ -55,6 +84,7 @@ var
   n     : Integer;
 begin
  stemp := '';
+ WordList.BeginUpdate;
  for n := WordList.Count-1 downto 0 do begin
  	if stemp = WordList.Strings[n] then
  	   WordList.Delete(n)
@@ -64,6 +94,7 @@ begin
  	   else
  		 stemp := WordList.Strings[n];
  end;
+  WordList.EndUpdate;
 end;
 
 function SplitTag(const Str: String; blackline : Boolean = false): TStringArray;

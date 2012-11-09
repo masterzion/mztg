@@ -6,10 +6,10 @@ interface
 
 uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ComCtrls,
-  ExtCtrls, EditBtn, StdCtrls, Buttons, ShellCtrls, CheckLst, Spin, Menus, dateutils, INIFiles;
+  ExtCtrls, EditBtn, StdCtrls, Buttons, CheckLst, Spin, Menus, dateutils, INIFiles;
 
 //const appThreadCount = 1;
-const AppVersion = 'MZTG 0.1';
+const AppVersion = 'MZTG 0.3';
 type
   { TfrmMain }
 
@@ -98,6 +98,7 @@ type
     MenuItem14: TMenuItem;
     MenuItem15: TMenuItem;
     MenuItem16: TMenuItem;
+    MenuItem17: TMenuItem;
     MenuItem2: TMenuItem;
     MenuItem3: TMenuItem;
     MenuItem4: TMenuItem;
@@ -189,6 +190,7 @@ type
     procedure FormCreate(Sender: TObject);
     procedure lstFolderClick(Sender: TObject);
     procedure MenuItem11Click(Sender: TObject);
+    procedure MenuItem17Click(Sender: TObject);
     procedure MenuItem2Click(Sender: TObject);
     procedure MenuItem4Click(Sender: TObject);
     procedure MenuItem5Click(Sender: TObject);
@@ -198,7 +200,6 @@ type
     procedure MenuItem9Click(Sender: TObject);
     procedure MenuItemLangClick(Sender: TObject);
     procedure pgMainChange(Sender: TObject);
-    procedure Timer1OnTimer(Value: TNotifyEvent);
   private
     { private declarations }
     strPath : string;
@@ -219,7 +220,6 @@ var
   bL33t,
   CancelProcess : Boolean;
 
-  iMaxWordSize,
   iLowerToUpperCase,
   iUpperToLowerCase: Integer;
 
@@ -234,7 +234,7 @@ var
 
 
 implementation
-uses brutegen, wordlistextract, hybridgen, about, apputils, threadattack, heuristic;
+uses brutegen, wordlistextract, hybridgen, about, apputils, heuristic, sanitizer;
 {$R *.lfm}
 
 { TfrmMain }
@@ -249,28 +249,14 @@ begin
  LoadTranslation( strPath+'lang'+PathDelim+strLang+PathDelim , self);
 end;
 
-procedure TfrmMain.Timer1OnTimer(Value: TNotifyEvent);
-begin
-  sleep(1);
-end;
 
-function MyListCompare(List: TStringList; Index1, Index2: Integer): Integer;
-begin
-if (length(List[Index1]) < length(List[Index2]) ) then
-    result := -1
-else
-   if (length(List[Index1]) > length(List[Index2]) ) then
-      result := 1
-   else
-      result := 0;
-end;
+
 
 procedure TfrmMain.FormCreate(Sender: TObject);
 //const arProperties :array [0..1] of string=('Caption', 'hint', 'Lines');
 var
-   n, n2  : integer;
    FindRec: TSearchRec;
-   chkl   : TCheckListBox ;
+//   chkl   : TCheckListBox ;
    INI:TINIFile;
    menuitem :TMenuItem;
  begin
@@ -284,9 +270,6 @@ var
 
 //  LanguageMessages  := TStringList.Create();
 //  LanguageMessages.LoadFromFile( strPath+'lang'+PathDelim+strLang+PathDelim+'messages.txt' );
-
-
-
 
  if  FindFirst( strPath +  'lang' + PathDelim  +'*', faAnyFile, FindRec) = 0 then
   repeat
@@ -396,7 +379,7 @@ end;
 procedure TfrmMain.btnAddCustomRule1Click(Sender: TObject);
 var
    n, LenLine : integer;
-   sTag, sTemp, sResult : string;
+   sTag, sResult : string;
    bExist : Boolean;
    SplitList : TStringArray;
     ItemValidation         : THybridValidation;
@@ -507,7 +490,7 @@ var
    HybridLine     : THybridLine;
    HybridItem     : THybrid;
    stemp, sDirectory : string;
-   ntemp : integer;
+   iMaxWordSize, ntemp, iMinWordSize : integer;
    BeginDate, EndDate : TDateTime;
 
    bListExists, haveDate, haveWord, haveSemiBrute, haveLoginPart  :Boolean;
@@ -517,6 +500,7 @@ begin
   memoLog.Clear;
   edtLastText.Clear;
   iMaxWordSize := 0;
+  iMinWordSize := 9999999;
 
   attacks := TStringList.create();
   writelog('Search Checked itens  Objects...');
@@ -553,7 +537,7 @@ begin
        attacks.add( LowerCase(chklPwdCustom.Items[n]) );
 
   writelog('Preparing Attack Objects...');
-  indexerror := MakeHybridArray(attacks, HybridAttack );
+  indexerror := MakeHybridArray(attacks, HybridAttack, iMaxWordSize,  iMinWordSize );
   if indexerror > 0 then begin
      ShowMessage('Sintax error in: '+attacks[indexerror] );
      attacks.free;
@@ -613,7 +597,7 @@ begin
                BeginDate := IncDay(BeginDate);
   	end;
 
-       writelog('Sorting dates...');
+//       writelog('Sorting dates...');
 //       WordListTemp.Sort();
 //  	  WordListTemp.CustomSort( @MyListCompare );
        sTemp := '';
@@ -686,38 +670,25 @@ begin
     	  for n:= 0 to lbSelectedFiles.Items.Count-1 do begin
                  writelog('Loading ' +lbSelectedFiles.items[n] + ' ...');
     		 WordListTemp.LoadFromFile( strPath+  'classified' + PathDelim  +lbSelectedFiles.items[n] );
-    		 WordList.Text := WordList.Text + WordListTemp.Text;
+    		 WordList.AddStrings(WordListTemp);
                  writelog( IntToStr( WordListTemp.Count ) + ' words added.' );
     	  end;
 
-
     	  writelog('Total: ' +IntToStr( WordList.Count ) + ' Words ...');
-    	  writelog('Max WordSize used : ' +IntToStr( iMaxWordSize ) + ' Words ...');
 
-          MinWordLen := 0;
+    	  writelog('Word Sizes used : ' + IntToStr( iMinWordSize ) + ' - ' +IntToStr( iMaxWordSize ) + ' Words ...');
+
+          MinWordLen := 99999;
           MaxWordLen := 0;
     	  //create wordlist array by size
     	  if WordList.Count > 0 then begin
          	 // Get Max and min size of
-      	        writelog('Removing big words ...');
-                for n :=  WordList.Count-1 downto 0 do begin
-                  WordList.Strings[n] := trim(WordList.Strings[n]);
-                  nTemp := Length(WordList.Strings[n]);
-                  if nTemp > iMaxWordSize then begin
-                    WordList.Delete(n);
-                  end
-                  else begin
-                    if nTemp < MinWordLen  then MinWordLen := nTemp;
-                    if nTemp > MaxWordLen  then MaxWordLen := nTemp;
-                  end;
-                end;
-                writelog('Total now: ' +IntToStr( WordList.Count ) + ' Words ...');
-                writelog('Sorting words ...');
-//         	WordList.Sort;
+                WordList.BeginUpdate;
 
-                Application.ProcessMessages;
-//                writelog('Indexing wordlist by size ...');
-//         	WordList.CustomSort( @MyListCompare );
+                writelog('Sorting words ...');
+                WordList.BeginUpdate;
+         	WordList.Sort;
+                WordList.EndUpdate;
 
                 Application.ProcessMessages;
          	writelog('Removing duplicated lines ...');
@@ -726,6 +697,44 @@ begin
          	writelog('Total now: ' +IntToStr( WordList.Count ) + ' Words ...');
          	WordList.savetofile(sDirectory+'wordlist.txt');
          	writelog('Temp Wordlist Saved...');
+
+                writelog('Populating...');
+     	        ntemp := 0;
+                SetLength(WordListbySize, iMaxWordSize+1);
+
+         	for n := iMinWordSize to iMaxWordSize do begin
+                    WordListbySize[ n  ] := TStringList.Create();
+                    WordListbySize[ n  ].BeginUpdate;
+                end;
+
+
+                for n :=  WordList.Count-1 downto 0 do begin
+                  WordList.Strings[n] := trim(WordList.Strings[n]);
+                  stemp := WordList.Strings[n];
+                  nTemp := Length(stemp);
+                  if ntemp > 10000 then begin
+                       ntemp := 0;
+                       Application.ProcessMessages();
+                  end;
+
+                  if ( nTemp > iMaxWordSize ) or (nTemp < iMinWordSize) then begin
+                    WordList.Delete(n);
+                  end
+                  else begin
+                    if nTemp < MinWordLen  then  MinWordLen := nTemp;
+                    if nTemp > MaxWordLen  then MaxWordLen := nTemp;
+                    WordListbySize[  nTemp  ].Add(stemp);
+                  end;
+                end;
+                WordList.EndUpdate;
+
+
+
+         	for n := iMinWordSize to iMaxWordSize do  WordListbySize[ n ].EndUpdate;
+
+
+
+                {
                 if WordList.Count > 0 then begin
                   stemp :=  WordList.Strings[0];
          	  MinWordLen := Length( stemp);
@@ -742,20 +751,7 @@ begin
                            WordListbySize[n] := TStringList.Create();
                   end;
 
-                end;
-
-
-                writelog('Populating...');
-     	        ntemp := 0;
-         	for n := 1 to WordList.Count-1 do begin
-                    if CancelProcess then Break;
-         	    stemp := WordList.Strings[n];
-                    if ntemp > 10000 then begin
-                       ntemp := 0;
-                       Application.ProcessMessages();
-                    end;
-                    WordListbySize[  Length( stemp )  ].Add( stemp );
-         	end;
+                end;}
     	  end;
           Application.ProcessMessages();
     	  WordListTemp.Free;
@@ -789,15 +785,16 @@ begin
     for HybridItem in  HybridLine do begin
        ntemp += 1;
        stemp += '['+arHybridTypes[HybridItem.HybridType]+inttostr(HybridItem.Size)+ ']';
-       if HybridItem.HybridType = arAttackTypeWord then
-             if ( HybridItem.Size < MinWordLen ) or  ( HybridItem.Size > MaxWordLen ) then bListExists :=False;
 
        if HybridItem.HybridType = arAttackTypeDate then
              if ( HybridItem.Size < MinDateLen ) or  ( HybridItem.Size > MaxDateLen ) then bListExists :=False;
 
        if (HybridItem.HybridType <> 7 ) and  (HybridItem.Size = 0)  then bListExists :=False;
 
-       if HybridItem.HybridType = arAttackTypeWord then
+       if bListExists and ( HybridItem.HybridType = arAttackTypeWord )  then begin
+          if ( HybridItem.Size < MinWordLen ) or  ( HybridItem.Size > MaxWordLen ) then bListExists :=False;
+
+
           if WordList.Count = 0 then
              bListExists :=False
           else
@@ -809,7 +806,9 @@ begin
                 else
                     if WordListbySize[  HybridItem.Size  ].Count = 0  then
                        bListExists :=False;
+       end;
 
+       if bListExists = false then Break;
     end;
 
 
@@ -904,6 +903,13 @@ begin
   frmAbout.ShowModal;
 end;
 
+procedure TfrmMain.MenuItem17Click(Sender: TObject);
+begin
+  frmSanitizer := TfrmSanitizer.Create(self);
+  frmSanitizer.ShowModal();
+
+end;
+
 
 
 
@@ -986,4 +992,4 @@ end;
 
 
 end.
-
+

@@ -9,7 +9,7 @@ object frmHeuristic: TfrmHeuristic
   ClientWidth = 402
   OnClose = FormClose
   Position = poDesktopCenter
-  LCLVersion = '1.0.1.3'
+  LCLVersion = '1.0.3.0'
   object spedtMinWordListSize: TSpinEdit
     Left = 48
     Height = 23
@@ -83,10 +83,10 @@ object frmHeuristic: TfrmHeuristic
     ParentColor = False
   end
   object btnCancel: TBitBtn
-    Left = 280
+    Left = 272
     Height = 49
     Hint = 'Cancel'
-    Top = 264
+    Top = 265
     Width = 71
     Glyph.Data = {
       36100000424D3610000000000000360000002800000020000000200000000100
@@ -225,7 +225,7 @@ object frmHeuristic: TfrmHeuristic
     Visible = False
   end
   object btnClose: TBitBtn
-    Left = 40
+    Left = 32
     Height = 49
     Top = 265
     Width = 75
@@ -365,7 +365,7 @@ object frmHeuristic: TfrmHeuristic
     TabOrder = 5
   end
   object btnOk: TBitBtn
-    Left = 280
+    Left = 272
     Height = 49
     Hint = 'Start'
     Top = 265

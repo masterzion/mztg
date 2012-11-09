@@ -15,6 +15,7 @@ Zone
 Alwil
 Avast
 Avira
+DrWeb
 FRISK
 GData
 Hauri
@@ -39,7 +40,6 @@ ClamAV
 ClamTk
 Comodo
 Doctor
-Dr.Web
 Etrust
 IKARUS
 McAfee

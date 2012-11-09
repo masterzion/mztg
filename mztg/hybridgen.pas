@@ -54,7 +54,7 @@ type
 
 
   function CheckTagSyntax(const tag:String  ):THybridValidation;
-  function  MakeHybridArray(const AttackList: TStringList; var hybridarray: THybridAttack  ): integer;
+  function  MakeHybridArray(const AttackList: TStringList; var hybridarray: THybridAttack ; var iMaxWordSize, iMinWordSize : Integer  ): integer;
 
   procedure WriteAttack(const preText: String; const Line: THybridLine; const objIndex, objIndexSize:integer; postext : String   );
   procedure TextInteraction(const Text:String; var InteractionList: TStringList);
@@ -108,6 +108,8 @@ const
   arru : string =   'ABEILOSTZ';
   arr1 : string =   '483110572';
   arr2 : string =   '@83110572';
+  arr3 : string =   '483110$72';
+  arr4 : string =   '@83110$72';
 var
 //
   n, len :integer;
@@ -137,11 +139,15 @@ begin
        if pos(arrl[n], sLower) > 0 then begin
           InteractionList.Add(  StringReplace( sLower, arrl[n], arr1[n], [rfReplaceAll] ) );
           InteractionList.Add(  StringReplace( sLower, arrl[n], arr2[n], [rfReplaceAll] ) );
+          InteractionList.Add(  StringReplace( sLower, arrl[n], arr3[n], [rfReplaceAll] ) );
+          InteractionList.Add(  StringReplace( sLower, arrl[n], arr4[n], [rfReplaceAll] ) );
        end;
 
        if pos(arru[n], sUpper) > 0 then begin
           InteractionList.Add(  StringReplace( sUpper, arru[n], arr1[n], [rfReplaceAll] ) );
           InteractionList.Add(  StringReplace( sUpper, arru[n], arr2[n], [rfReplaceAll] ) );
+          InteractionList.Add(  StringReplace( sUpper, arru[n], arr3[n], [rfReplaceAll] ) );
+          InteractionList.Add(  StringReplace( sUpper, arru[n], arr4[n], [rfReplaceAll] ) );
        end;
 
      end;
@@ -323,7 +329,7 @@ begin
     end;
 end;
 
-function MakeHybridArray(const AttackList: TStringList; var hybridarray: THybridAttack  ): integer;
+function MakeHybridArray(const AttackList: TStringList; var hybridarray: THybridAttack; var iMaxWordSize, iMinWordSize : Integer  ): integer;
 var
   LenAttack, LineCount, LenLine, n1, n2, n3, lenbrute : integer;
   SplitList              : TStringArray;
@@ -401,8 +407,10 @@ begin
                   HybridItemIndexed.HybridType := ItemValidation[0];
                   HybridItemIndexed.Size := ItemValidation[1];
                   HybridLine[LenLine-1] := HybridItemIndexed;
-                  if HybridItemIndexed.HybridType = arAttackTypeWord then
+                  if HybridItemIndexed.HybridType = arAttackTypeWord then begin
                      if ( HybridItemIndexed.Size  > iMaxWordSize ) then  iMaxWordSize := HybridItemIndexed.Size;
+                     if ( HybridItemIndexed.Size  < iMinWordSize ) then  iMinWordSize := HybridItemIndexed.Size;
+                  end;
               end
               else begin
                   HybridItemBrute := THybridBrute.create;

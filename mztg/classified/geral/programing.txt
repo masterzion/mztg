@@ -76,13 +76,12 @@ JOSS
 Java
 Jcon
 Joie
+Kids
 LIFO
 Lisp
 Logo
 Nice
 OPUS
-PL/1
-PL/M
 Pawn
 Perl
 QUEL
@@ -134,10 +133,9 @@ DisCo
 Dylan
 Forth
 Green
-Gödel
+Godel
 Inger
 Iswim
-Kid's
 Limbo
 Lingo
 Lista
@@ -148,7 +146,6 @@ Mundo
 Pilha
 Query
 REBOL
-Ruby/
 SETL2
 Scala
 Suomi
@@ -179,7 +176,6 @@ Common
 Cshell
 Delphi
 Dotnet
-Editar
 Eiffel
 Entrar
 FORMAC
@@ -221,7 +217,7 @@ TACPOL
 Tabela
 Teoria
 Turing
-Türkçe
+Turkce
 Unicon
 Visual
 WATFIV
@@ -229,8 +225,7 @@ WinDev
 XQuery
 Yorick
 atuais
-bokmål
-inglês
+bokmal
 ligada
 srpski
 testes
@@ -273,6 +268,7 @@ Windows
 binaria
 lazarus
 arvoreB
+RubyNET
 Assembly
 AutoLISP
 Autocode
@@ -281,7 +277,7 @@ Conteudo
 Dataflex
 DynamicC
 Euphoria
-Français
+Francais
 Graforth
 Historia
 Hrvatski
@@ -289,13 +285,11 @@ Informar
 Informix
 Italiano
 Language
-Latviešu
-Mudanças
+Latviesu
 Phrogram
 Portugol
 Programa
 Progress
-Ruby/NET
 Scriptol
 Squirrel
 SrMichel
@@ -306,7 +300,6 @@ Ubercode
 VBScript
 Winbatch
 dinamico
-eminglês
 notation
 paralelo
 recentes
@@ -339,7 +332,7 @@ destacado
 historico
 principal
 arvoreAVL
-ADS/Online
+ADSOnline
 ColdFusion
 CommonLisp
 Criarconta
@@ -348,7 +341,7 @@ HaskellNET
 JavaScript
 Linguagens
 Nederlands
-Plankalkül
+Plankalkul
 PostScript
 PowerShell
 Slovencina
@@ -360,7 +353,7 @@ Criarpagina
 Listaligada
 Lotusscript
 Programming
-Slovenšcina
+Slovenscina
 Speedcoding
 TransactSQL
 Transaction

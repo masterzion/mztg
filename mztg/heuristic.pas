@@ -30,8 +30,10 @@ type
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
   private
     { private declarations }
+    bContinue : boolean;
   public
     strPath : String;
+
     { public declarations }
   end;
 
@@ -41,7 +43,7 @@ var
 implementation
 uses main;
 
-var bContinue : boolean;
+
 {$R *.lfm}
 
 { TfrmHeuristic }
@@ -135,7 +137,7 @@ begin
             FindClose(FindRec);
             ProgressBar1.Position :=  ProgressBar1.Position + 1;
     end;
-    btnOk.Visible := True;
+//    btnOk.Visible := True;
     btnCancel.Visible := False;
 
 end;

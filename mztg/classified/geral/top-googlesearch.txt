@@ -13,7 +13,7 @@ gaga
 h1n1
 heat
 ipad
-jörg
+jorg
 katy
 lady
 live
@@ -158,7 +158,7 @@ duracell
 euro2008
 facebook
 football
-fröhlich
+frohlich
 htcevo4g
 kraloyun
 ladygaga
@@ -236,7 +236,7 @@ heathledger
 leaderboard
 millionaire
 mundial2010
-nürburgring
+nurburgring
 peliculasid
 restaurants
 selenagomez
@@ -266,14 +266,14 @@ blackberryapps
 confederations
 duracellmygrid
 habibsdelivery
-jörgkachelmann
+jorgkachelmann
 michaeljackson
 myspacelayouts
 redcrosscanada
 donatenowbutton
 guacamolerecipe
 lequipefootball
-menowinfröhlich
+menowinfrohlich
 narutoshippuden
 pacquiaovscotto
 pokerfacelyrics

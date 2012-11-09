@@ -31,12 +31,15 @@
         <LaunchingApplication PathPlusParams="\usr\bin\xterm -T 'Lazarus Run Output' -e $(LazarusDir)\tools\runwait.sh $(TargetCmdLine)"/>
       </local>
     </RunParams>
-    <RequiredPackages Count="1">
+    <RequiredPackages Count="2">
       <Item1>
-        <PackageName Value="LCL"/>
+        <PackageName Value="SynEdit"/>
       </Item1>
+      <Item2>
+        <PackageName Value="LCL"/>
+      </Item2>
     </RequiredPackages>
-    <Units Count="11">
+    <Units Count="12">
       <Unit0>
         <Filename Value="mztg.lpr"/>
         <IsPartOfProject Value="True"/>
@@ -107,6 +110,14 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="heuristic"/>
       </Unit10>
+      <Unit11>
+        <Filename Value="sanitizer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSanitizer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="sanitizer"/>
+      </Unit11>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -156,4 +167,4 @@
       </Item3>
     </Exceptions>
   </Debugging>
-</CONFIG>
+</CONFIG>

@@ -22,8 +22,7 @@ symbols2: String = '<>;:?[]{}~^''"\/=';
 strLowerSpecial          : String = 'áéíóúâêîôûäëïöüãõàèùòç';
 strUpperSpecial          : String = 'ÁÉÍÓÚÂÊÎÔÛÄËÏÖÜÃÕÀÈÙÒÇ';
 
-strLowerSpecialConvert   : String = 'aeiouaeiouaeiouaoaeuoc';
-strUpperSpecialConvert   : String = 'AEIOUAEIOUAEIOUAOAEUOC';
+
 
 
 function BruteForce(Chars, strLastPos:String):String;

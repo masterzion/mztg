@@ -1,7 +1,7 @@
 Alba
 Asti
 Cava
-Doña
+Dona
 Gavi
 Gris
 Jesi
@@ -106,7 +106,7 @@ Barbaresco
 Beaujolais
 Brancellao
 Chardonnay
-DoñaBlanca
+DonaBlanca
 Mavrodafni
 Monastrell
 Montalcino
