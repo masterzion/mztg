@@ -25,7 +25,6 @@ Cidades
 Cocanha
 Davy
 DiYu
-Eden
 Eldorado
 Elisios
 fantasia
@@ -45,7 +44,6 @@ Ilhafantasma
 IlhaPepys
 Ilhas
 Inferno
-Jade
 Jardim
 JardimdoEden
 Jones

@@ -3,24 +3,20 @@ ABIT
 ASUS
 Acer
 Alps
-Base
 BenQ
 CNet
 Club
 CoKG
 Corp
-Dell
 EPoX
 Eizo
 GeIL
 GmbH
 Labs
-Lian
 Link
 Lite
 Mach
 NZXT
-Nova
 QTec
 Sony
 Soyo
@@ -42,11 +38,9 @@ Apple
 Areca
 Beach
 Canon
-DELTA
 DLink
 Eagle
 Epson
-Focus
 Forsa
 Group
 HIPRO
@@ -65,7 +59,6 @@ Neovo
 Octal
 Palit
 Point
-Power
 Quest
 Razer
 Ricoh
@@ -78,7 +71,6 @@ Trust
 Xclio
 ZIPPY
 Zonet
-brand
 maker
 quiet
 A4Tech
@@ -93,7 +85,6 @@ Club3D
 Compaq
 Cooler
 Elixir
-Elpida
 Encore
 GSkill
 Galaxy
@@ -155,7 +146,6 @@ Ideazon
 Kingwin
 Klipsch
 Kyocera
-Lansing
 Leadtek
 Lexmark
 Linksys
@@ -184,7 +174,6 @@ SonyNEC
 Sparkle
 Sunsway
 Systems
-Thomson
 Toshiba
 TwinMOS
 Western
@@ -205,7 +194,6 @@ Gigabyte
 Grande50
 Graphics
 Infineon
-Kingston
 Logitech
 MagicPro
 Microtek
@@ -218,7 +206,6 @@ Pinnacle
 Prexviel
 Robotics
 Rosewill
-Sapphire
 Seasonic
 TRENDnet
 TerraTec

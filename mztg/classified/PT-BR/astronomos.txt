@@ -2,22 +2,17 @@ Aaronson
 Alexei
 Argentieri
 Arrhenius
-Bart
 BartBok
 Brahe
-Camille
-Carl
 CarlSagan
 Christiaan
 Copernico
 deGrasse
-Edwin
 Einstein
 Filippenko
 Flammarion
 Galilei
 Galileu
-Georges
 Geryl
 Hawking
 Hicetas
@@ -25,20 +20,15 @@ Hiparco
 Hubble
 Humason 
 Huygens
-Iosif
-Johannes
 Kaku
 Kepler
 La Salle
 Lemaitre
 Leverrier
-Lowell
 MarcAaronson
 MaxTegmark
 Michio
 MichioKaku
-Milton
-Neil
 Nicolas 
 Nicolau
 Olaus Romer
@@ -49,9 +39,7 @@ Romulo
 Sagan
 Seki
 Shklovsky
-Stephen
 Svante
-Tsutomu
 Tycho
 TychoBrahe
 Tyson

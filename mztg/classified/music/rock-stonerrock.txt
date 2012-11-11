@@ -2,7 +2,6 @@ Acid
 Band
 Burn
 Dead
-Emil
 Fang
 Haze
 King
@@ -13,10 +12,7 @@ from
 Above
 Bjork
 Black
-Blake
 Blood
-Boris
-Brant
 Bulls
 Death
 Dozer
@@ -26,7 +22,6 @@ Mondo
 Natas
 River
 Sleep
-Stone
 Sword
 Unida
 Atomic
@@ -47,7 +42,6 @@ Solace
 Wizard
 Alabama
 Drawing
-Hermano
 Masters
 Miracle
 Monster

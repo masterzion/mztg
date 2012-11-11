@@ -70,7 +70,6 @@ Adefago
 Adeona
 Admeta
 Admeto
-Adonis
 Adoreas
 Adramo
 Adrasta
@@ -166,7 +165,6 @@ Alfeu
 Alias
 Alipes
 Alirotio
-Alison
 Aliterio
 Alixotoe
 Almon
@@ -178,11 +176,8 @@ Alope
 Alsvior
 Alteia
 Altepo
-Althea
 Amalteia
 Amaraco
-Amata
-Amato
 Amatonte
 Amatuzia
 Ambarvais
@@ -207,7 +202,6 @@ Anacletra
 Anadiomena
 Anagogias
 AnaPerena
-Anatole
 Anax
 Anaxabia
 Anaxandra
@@ -240,7 +234,6 @@ Anfitriao
 Anfitrite
 Anfotero
 Anfriso
-Angelo
 Angerona
 Angeronais
 Anguipedes
@@ -260,7 +253,6 @@ Antesforias
 Antesterias
 Anteu
 Antevorta
-Anthea
 Antias
 Anticleia
 Antifates
@@ -314,11 +306,9 @@ Argira
 Argo
 Argos
 Argyra
-Ariadne
 Arimaspos
 Arion
 Aristeu
-Arne
 Arrunte
 Arte
 Artemis
@@ -354,13 +344,11 @@ Astreu
 Astrofe
 Astros
 Atabirio
-Atalanta
 Atamas
 Atena
 Ateneias
 Ateneu
 Atis
-Atlante
 Atlantidas
 Atlas
 Atreu
@@ -369,7 +357,6 @@ Augelmir
 Augias
 Aulis
 Aurigena
-Aurora
 Auscesia
 Ausonio
 Auspicios
@@ -419,7 +406,6 @@ Boreas
 Boreasmas
 Briareu
 Brimo
-Briseida
 Briseis
 Britomarte
 Brizo
@@ -462,7 +448,6 @@ Calpar
 Calunia
 Camenas
 Camerina
-Camila
 Campitais
 Campos
 CamposElisios
@@ -491,14 +476,11 @@ Cardea
 Caribdis
 Cario
 Carites
-Carmelo
 Carmenta
 Carna
-Caron
 Caronte
 Carpo
 Carvatis
-Cassandra
 Cassiopea
 Castalia
 Castalidas
@@ -544,7 +526,6 @@ Cheron
 Chiliombo
 Chione
 Chipre
-Chloris
 Ciane
 Cianipo
 Cibele
@@ -584,9 +565,7 @@ Cleia
 Cleobis
 Cleodora
 Cleones
-Cleopatra
 Climene
-Clio
 Clitenestra
 Clitia
 Clito
@@ -598,11 +577,9 @@ Colina
 Colofon
 Como
 Comus
-Concordia
 Consualias
 Consus
 Corcira
-Core
 Coresos
 Coribantes
 Coricia
@@ -612,7 +589,6 @@ Coronis
 Cotito
 Coto
 Cotos
-Crane
 Crateis
 Crateu
 Cratos
@@ -672,11 +648,9 @@ Delficola
 Delfinio
 Delfis
 Delfos
-Delia
 Delias
 Delmentino
 Delos
-Demeter
 Demofoon
 Dendroforias
 Dendroforos
@@ -684,19 +658,15 @@ Destino
 Deucaliao
 Deverra
 Diamastigose
-Diana
 Dicea
 Dictimna
 Dictis
-Dido
 Dike
 Diluvio
 Dimon
 Dindimo
-Dino
 Diogenes
 Diomedes
-Dione
 Dionea
 Dionisiacas
 Dionisio
@@ -716,7 +686,6 @@ Domiduca
 Domitio
 Dorcadas
 Dorilas
-Doris
 Doto
 Dragao
 Driades
@@ -758,13 +727,11 @@ Egon
 Eione
 Eirene
 Elara
-Electra
 Eleeno
 Eleusinias
 Eleusis
 Eleuteria
 Eleuterias
-Elisa
 Elisios
 Emulo
 Encelado
@@ -802,13 +769,11 @@ Erifila
 Erigone
 Erilo
 Erimanto
-Erina
 Eris
 Erisicton
 Eritreu
 Erix
 Erope
-Eros
 Erotidas
 Esaco
 Eschmun
@@ -844,7 +809,6 @@ Eumalpo
 Eumenides
 Eumeu
 Eumolpo
-Eunice
 Eunomia
 Eunosto
 Euriale
@@ -928,7 +892,6 @@ Fidio
 Filarco
 Filax
 Filemon
-Filia
 Filira
 Filis
 Filocteto
@@ -944,7 +907,6 @@ Flegetonte
 Flegias
 Flegon
 Flins
-Flora
 Fobetor
 Focida
 Foelia
@@ -995,7 +957,6 @@ Gerionte
 Gigantomaquia
 Gigas
 Giges
-Ginn
 Glauce
 Glaucos
 Gnomos
@@ -1016,7 +977,6 @@ Halesio
 Halia
 Hamadriades
 Hamon
-Harmonia
 Harokel
 Harpalos
 Harpocrates
@@ -1034,8 +994,6 @@ Hefesto
 Hegemone
 Heitor
 Hele
-Helen
-Helena
 Heleno
 Heliacas
 Helicon
@@ -1043,14 +1001,12 @@ Helios
 Hemera
 Hemo
 Hemon
-Hera
 Heracleas
 Heracles
 Hercules
 Heresides
 Hermafrodita
 Hermes
-Hermione
 Hermontino
 Hero
 Herofila
@@ -1064,7 +1020,6 @@ Heso
 Hesper
 Hesperides
 Hespero
-Hestia
 Hetairas
 Hiacinto
 Hiale
@@ -1143,15 +1098,12 @@ Iolas
 Iolco
 Ione
 Ionides
-Irene
-Iris
 Iros
 Ismenia
 Ismenides
 Ismeno
 Istimicos
 Itaca
-Italo
 Itifalo
 Itis
 Ixion
@@ -1213,10 +1165,8 @@ Laomedonte
 Lapetia
 Lapitas
 Laquesis
-Lara
 Larario
 Lares
-Larissa
 Larvas
 Laterano
 Latibulo
@@ -1227,10 +1177,7 @@ Latmos
 Latona
 Latonico
 Laurencia
-Laverna
-Lavinia
 Leandro
-Leda
 Lelaps
 Lelex
 Lemniades
@@ -1266,13 +1213,11 @@ Linceu
 Lincos
 Linos
 Liriope
-Lissa
 Loci
 Locuntins
 Lotus
 Lubentia
 Lubentina
-Lucina
 Luperca
 Luperco
 Macaon
@@ -1285,7 +1230,6 @@ Macisto
 Macris
 Magnes
 Magnete
-Maia
 Malcandro
 Malora
 Mamona
@@ -1320,7 +1264,6 @@ Meleagro
 Meliades
 Melibeia
 Melicerto
-Melissa
 Melobosis
 Melona
 Melpomene
@@ -1336,7 +1279,6 @@ Menon
 Mens
 Menta
 Mentira
-Mentor
 Meon
 Mera
 Mercedona
@@ -1357,7 +1299,6 @@ Mimas
 Mimon
 Mineides
 Mineo
-Minerva
 Minos
 Minotauro
 Minuncio
@@ -1382,7 +1323,6 @@ Monico
 Montano
 Mopso
 Morfeu
-Morgana
 Morte
 Muda
 Murcea
@@ -1404,7 +1344,6 @@ Naxos
 Nebrofono
 Necessidade
 Nectar
-Neda
 Neera
 Nefele
 Neleu
@@ -1473,7 +1412,6 @@ Oileu
 Oinopion
 Okeano
 Olen
-Olimpia
 Olimpo
 Onfale
 Onocentaurus
@@ -1525,7 +1463,6 @@ Panda
 Pandareo
 Pandaro
 Pandion
-Pandora
 Panfago
 Paniscos
 Panope
@@ -1562,7 +1499,6 @@ Pelope
 Pelopeias
 Peloro
 Penates
-Penelope
 Peneu
 Penia
 Pentesilea
@@ -1646,7 +1582,6 @@ Pomerum
 Pomona
 Ponto
 Populonia
-Porfirio
 Poro
 Portunais
 Portuno
@@ -1707,7 +1642,6 @@ Ranis
 Ranusia
 Reia
 ReiaSilvia
-Remo
 Resos
 Ridiculo
 Rifeo
@@ -1723,7 +1657,6 @@ Romulo
 Rumia
 Rungina
 Rurina
-Saba
 Sabadio
 Sabasia
 Sabasio
@@ -1752,7 +1685,6 @@ Sebetis
 Segetia
 Seia
 Seiron
-Selene
 Semele
 Sementinas
 Semideus
@@ -1765,9 +1697,6 @@ Serpentes
 Silencio
 Sileno
 Silenos
-Silvano
-Silvia
-Silvio
 Simeto
 Simois
 Simplegadas
@@ -1781,7 +1710,6 @@ Smilax
 Sminteheo
 Sminto
 Sonhos
-Sono
 Sorte
 Soter
 Spatale
@@ -1820,7 +1748,6 @@ Talar
 Talate
 Talestris
 Taleton
-Talia
 Talo
 Talusias
 Tamiris
@@ -1867,7 +1794,6 @@ Termesia
 Terminais
 Teron
 Terpsicore
-Terra
 Terror
 Tersandro
 Tersites
@@ -1879,9 +1805,7 @@ Tespiades
 Tespio
 Testis
 Tetis
-Thalia
 Thallo
-Thia
 Tiades
 Tiasos
 Tiberino
@@ -1942,7 +1866,6 @@ Uterina
 Vacuna
 Vagitano
 Vala
-Valentia
 Valonia
 Vanilia
 Vatica
@@ -1955,7 +1878,6 @@ Velocino
 VelodeOuro
 Venerais
 Venilia
-Venus
 Verdade
 Verjugodmno
 Vertuno
@@ -1968,7 +1890,6 @@ Vibila
 Vinais
 Violneica
 Virtude
-Vitoria
 Vituno
 Volumna
 Volupia

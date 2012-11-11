@@ -45,7 +45,6 @@ accomplishing
 accordance
 according
 accordingly
-accounting
 accounts
 accreting
 accumulated
@@ -70,7 +69,6 @@ acronymized
 acronyms
 acrz
 acting
-action
 actions
 active
 activehigh
@@ -94,7 +92,6 @@ adding
 addisonwesley
 additionally
 additions
-addons
 addressable
 addressbook
 addressed
@@ -120,7 +117,6 @@ adjr
 adjusted
 adjusting
 adm
-admin
 administered
 administration
 administrations
@@ -270,7 +266,6 @@ anarchosurrealist
 anarchoverbiage
 ancestors
 andpersand
-andres
 android
 androids
 anglebracket
@@ -290,7 +285,6 @@ annoyingly
 annoys
 anointed
 anothers
-ans
 ansee
 answered
 answering
@@ -376,7 +370,6 @@ archiving
 areal
 areas
 aree
-arent
 arg
 args
 argued
@@ -385,7 +378,6 @@ argv
 arises
 arising
 arl
-armando
 armorplated
 armpitnet
 arms
@@ -405,7 +397,6 @@ articulation
 artificially
 artist
 artists
-arts
 ascending
 ascii
 asciimonospace
@@ -660,7 +651,6 @@ behaves
 behaving
 behavior
 behindthescenes
-bei
 beings
 beleaguered
 believed
@@ -674,7 +664,6 @@ belonging
 beloved
 belts
 benchmarks
-benefits
 beranek
 berkeleyism
 berkliks
@@ -755,7 +744,6 @@ bitty
 bitwide
 bix
 bixie
-bjarne
 bl
 blacklettergothic
 blackonblack
@@ -806,7 +794,6 @@ bluntended
 blurred
 bnf
 boards
-boas
 bobbles
 bodily
 bodylanguage
@@ -944,7 +931,6 @@ brohk
 brohket
 brokenness
 broket
-brooks
 brookss
 brotherinlaw
 brotherly
@@ -961,7 +947,6 @@ btest
 btests
 btw
 buckling
-buckminster
 bucky
 buddhanature
 budy
@@ -979,7 +964,6 @@ buglix
 bugs
 buhg
 buhkee
-building
 buildings
 bulletinboard
 bulletproof
@@ -1160,7 +1144,6 @@ charges
 charityware
 chars
 charter
-chas
 chasing
 chatter
 chdr
@@ -1382,7 +1365,6 @@ communicators
 communities
 community
 commuter
-comp
 compactness
 companies
 companys
@@ -1771,7 +1753,6 @@ ctrlaltdel
 ctss
 cty
 cu
-cubicle
 cubing
 cuckoos
 cues
@@ -1816,7 +1797,6 @@ dadazen
 daemon
 daemons
 dahnkn
-daily
 dain
 daisychained
 dak
@@ -1898,7 +1878,6 @@ decsystem
 dectape
 dedicated
 deduced
-deedee
 deedeetee
 deemed
 deemon
@@ -1958,7 +1937,6 @@ demonstration
 demos
 demoted
 denary
-deni
 denies
 denizens
 denomination
@@ -1981,9 +1959,7 @@ deprecated
 deprecates
 depressed
 deprived
-dept
 depths
-der
 deranged
 dereferencing
 derez
@@ -2033,7 +2009,6 @@ determinedly
 determining
 deterministic
 deterministically
-dev
 devastating
 developed
 developer
@@ -2110,7 +2085,6 @@ directly
 directories
 directorybrowsing
 directs
-dirk
 disable
 disabled
 disadvantages
@@ -2144,7 +2118,6 @@ discordianism
 discount
 discourage
 discourse
-discover
 discovered
 discreetly
 discriminating
@@ -2227,7 +2200,6 @@ divisors
 dma
 dms
 dmu
-doc
 doch
 doco
 docs
@@ -2372,7 +2344,6 @@ earths
 earthshattering
 easier
 easily
-easter
 easywriter
 eating
 eats
@@ -2394,7 +2365,6 @@ editing
 editions
 editors
 edp
-edsger
 edu
 educated
 education
@@ -2621,7 +2591,6 @@ equations
 equipment
 equivalently
 equivalents
-er
 eradicated
 eras
 erased
@@ -2631,7 +2600,6 @@ erotics
 errorcorrecting
 errordetecting
 errors
-es
 esc
 escalator
 escapades
@@ -2918,7 +2886,6 @@ ferrosity
 fertilizer
 fet
 fewer
-feynman
 feynmans
 ff
 fflush
@@ -3054,7 +3021,6 @@ flushed
 flushing
 flutzpahs
 flyback
-flying
 flytrap
 fmh
 foaf
@@ -3280,7 +3246,6 @@ gained
 gaining
 gains
 gak
-galileo
 gallaher
 galls
 galore
@@ -3316,7 +3281,6 @@ geekdom
 geeks
 gefingerpoken
 gems
-gen
 generality
 generalization
 generalizations
@@ -3343,7 +3307,6 @@ gensym
 gensymmed
 gentlemans
 genuinely
-geoff
 geographical
 geometry
 gerfl
@@ -3661,7 +3624,6 @@ hardweirilee
 hardwired
 harmless
 harmlessness
-harper
 harried
 harriss
 harts
@@ -3794,7 +3756,6 @@ holy
 homebrew
 homebrewed
 homes
-honor
 honorable
 hooked
 hookers
@@ -3829,7 +3790,6 @@ hows
 hp
 hpsux
 hpux
-hq
 huhngg
 humanfactors
 humanid
@@ -4238,7 +4198,6 @@ irritating
 irritatingly
 irritation
 irritations
-isa
 isabus
 isbn
 isi
@@ -4290,7 +4249,6 @@ jedgr
 jedr
 jee
 jeesee
-jen
 jerst
 jews
 jfcl
@@ -4300,7 +4258,6 @@ jiaozi
 jiffies
 jifkl
 jiga
-jilly
 jips
 jkg
 jn
@@ -4335,7 +4292,6 @@ jumpa
 jumped
 jumping
 jumps
-jun
 junked
 junkfood
 junkie
@@ -4346,7 +4302,6 @@ kahuna
 kajiya
 kaleid
 kar
-karla
 karmic
 kayjeebeevaks
 kazar
@@ -4361,7 +4316,6 @@ ked
 keepen
 keeping
 keeps
-keir
 kells
 kellybootle
 kellys
@@ -4437,7 +4391,6 @@ kohkbotl
 kom
 kompyootron
 kons
-konstantin
 konz
 kopeeleft
 korean
@@ -4469,7 +4422,6 @@ kuhl
 kuhlr
 kuhmpielr
 kuhspee
-kung
 kurtzs
 kuttner
 kwertee
@@ -4514,7 +4466,6 @@ largesite
 largest
 largish
 larn
-laser
 lasers
 laserwriter
 lastinfirstout
@@ -4548,7 +4499,6 @@ leaders
 leading
 leadingedge
 leads
-learned
 learning
 learsiegler
 leaves
@@ -4578,7 +4528,6 @@ lensman
 ler
 lerp
 lerps
-les
 lesser
 lessthan
 lets
@@ -4594,7 +4543,6 @@ lettrs
 levels
 levys
 lewiss
-lex
 lexer
 lexers
 lexiphage
@@ -4786,7 +4734,6 @@ luster
 luvs
 lwall
 lyrics
-maarten
 macdink
 macdinking
 macerated
@@ -4903,7 +4850,6 @@ marketroid
 markets
 marking
 markup
-markus
 marvelmans
 marvelously
 mascot
@@ -4976,7 +4922,6 @@ meeces
 meegoh
 meem
 meenoh
-meeting
 mega
 megabytes
 megabytesofmainstore
@@ -5029,7 +4974,6 @@ messdross
 messed
 messloss
 messydos
-meta
 metainformation
 metalanguage
 metalcutting
@@ -5051,7 +4995,6 @@ metiks
 mftl
 mgmt
 mhz
-michal
 microbased
 microcentury
 microcode
@@ -5090,14 +5033,12 @@ middleinitial
 middlename
 middlepart
 migrated
-mil
 milder
 mildly
 mililamp
 milkshakes
 millennarian
 millennialong
-milli
 milliard
 millifortnight
 millilampson
@@ -5219,7 +5160,6 @@ modularity
 modulation
 mody
 mohbee
-mohd
 mohtahs
 mohtohs
 molecules
@@ -5249,7 +5189,6 @@ morals
 moree
 moreorless
 morf
-moria
 morning
 mornings
 moro
@@ -5391,7 +5330,6 @@ nastier
 nastiest
 nastygram
 nather
-national
 nationallampoonnerd
 nativelanguage
 naturally
@@ -5488,7 +5426,6 @@ nights
 niklaus
 nineteenseventies
 nineteensixtyx
-ning
 nism
 niven
 nlietz
@@ -5946,14 +5883,12 @@ padgett
 padme
 paged
 pagelayout
-pages
 paging
 painfully
 painlessly
 paints
 paired
 pairs
-pak
 paleontologically
 palms
 panels
@@ -5961,7 +5896,6 @@ panfried
 pao
 paperbased
 papernet
-papers
 paradoxes
 paragraphplusoffset
 parallaxsecond
@@ -6020,8 +5954,6 @@ pastiches
 pasting
 pastyfaced
 patched
-patches
-patching
 patented
 patently
 patents
@@ -6090,7 +6022,6 @@ perh
 periodically
 periods
 peripherals
-perl
 perlis
 perliss
 permanently
@@ -6127,8 +6058,6 @@ pesiml
 pessimize
 pessimizing
 pestered
-peta
-peter
 petscii
 petskee
 ph
@@ -6166,7 +6095,6 @@ pictures
 pidl
 pieces
 piesliceshaped
-piet
 piggishly
 piglets
 pigs
@@ -6418,7 +6346,6 @@ previously
 prewinchester
 prex
 prices
-pricing
 primarily
 primer
 primitives
@@ -6444,7 +6371,6 @@ prob
 probability
 probable
 probably
-problems
 problemsolving
 problm
 proboscatory
@@ -6747,7 +6673,6 @@ rebooted
 rebooting
 rebuild
 rebuilt
-rec
 recall
 recalls
 recapitulation
@@ -6798,7 +6723,6 @@ reduced
 reduces
 reducing
 redundantly
-ree
 reeling
 reels
 ref
@@ -7202,7 +7126,6 @@ sagas
 sailing
 sais
 salamin
-sales
 salescritter
 salescritters
 salesdroid
@@ -7525,7 +7448,6 @@ sie
 sieberkruhd
 sieberpuhnk
 sieberspays
-sig
 sighted
 sigint
 signalled
@@ -7559,7 +7481,6 @@ simplyconnected
 simpsons
 simulated
 simulating
-simulation
 simulations
 simulator
 simultaneously
@@ -7584,7 +7505,6 @@ siphon
 sisee
 sisfrog
 sisop
-sissy
 sitee
 sitename
 sitenames
@@ -7656,7 +7576,6 @@ smashed
 smeared
 smears
 smells
-smiley
 smiths
 smokeproducing
 smokey
@@ -7980,7 +7899,6 @@ stupidly
 stylebooks
 styles
 stylistically
-su
 subatomic
 subclasses
 subconscious
@@ -8109,8 +8027,6 @@ suspicions
 sussman
 sussmans
 sustained
-suzie
-suzy
 svid
 swabbie
 swallowed
@@ -8155,7 +8071,6 @@ syntactically
 synthesize
 synthesizer
 synthesizes
-sys
 sysadmin
 sysadmins
 sysfrog
@@ -8177,9 +8092,7 @@ taboos
 tabs
 tabulating
 tabulatingmachine
-tac
 tactics
-tak
 takeout
 takeovers
 takes
@@ -8209,7 +8122,6 @@ tasks
 tasted
 tastefulness
 tastes
-tata
 taxpayers
 tayste
 tayt
@@ -8217,7 +8129,6 @@ tbs
 tcb
 tcp
 tdm
-te
 teacher
 teaches
 teaching
@@ -8227,7 +8138,6 @@ techie
 techies
 teching
 techinician
-technical
 technically
 technicalspecialist
 techniques
@@ -8280,7 +8190,6 @@ tenthyear
 tenured
 tenyeared
 ter
-tera
 teraflop
 termed
 terminak
@@ -8304,7 +8213,6 @@ testers
 testing
 tests
 teteatete
-tex
 texhacker
 texhax
 texi
@@ -8567,7 +8475,6 @@ treating
 tredecimal
 treekiller
 treekillers
-trees
 tremendously
 trendoid
 trends
@@ -8986,7 +8893,6 @@ vacuumcleaner
 vacuumvax
 vad
 vadding
-vadim
 vading
 vaguely
 vahr
@@ -9018,7 +8924,6 @@ varies
 varieties
 variously
 varying
-vax
 vaxectomy
 vaxen
 vaxism
@@ -9065,7 +8970,6 @@ vgrep
 vgrind
 vhll
 vhlls
-vic
 viceversa
 victimized
 victims
@@ -9096,7 +9000,6 @@ visits
 visually
 vlsi
 vlsis
-vm
 vms
 vnet
 vocabularies
@@ -9151,7 +9054,6 @@ wanted
 wants
 wargames
 wargaming
-warner
 warning
 warranties
 warrens
@@ -9266,7 +9168,6 @@ wimp
 wimps
 wimpy
 windmills
-windowing
 windows
 winged
 winitood
@@ -9426,7 +9327,6 @@ youre
 youve
 yoyo
 yoyos
-yu
 yucky
 yup
 yushiang

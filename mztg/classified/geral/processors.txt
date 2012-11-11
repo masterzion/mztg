@@ -1,10 +1,8 @@
 5k86
-Core
 Hppa
 K62P
 Kuma
 Quad
-Rana
 SSA5
 Xeon
 i386
@@ -66,7 +64,6 @@ Propus
 Sargas
 Sparta
 SuperH
-Taylor
 Toledo
 Venice
 aka29K
@@ -117,7 +114,6 @@ Core2Duo
 Corvette
 DualCore
 Embedded
-Montreal
 Pentium4
 PentiumD
 PentiumM

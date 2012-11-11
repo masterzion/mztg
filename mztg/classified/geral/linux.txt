@@ -1,16 +1,12 @@
 AJUS
-Arch
 Arco
 CCux
 Card
-Core
 Damn
 FIRE
 FVWM
 From
 Gobo
-Joli
-KeeP
 LXDE
 Live
 Mint
@@ -19,7 +15,6 @@ PCOS
 Resu
 Slax
 SuSE
-Tiny
 Whax
 Whim
 XIGE
@@ -30,8 +25,6 @@ tcsh
 AIGLX
 AriOS
 BRLix
-Beryl
-CLive
 Caixa
 Dream
 Fenix
@@ -77,14 +70,12 @@ Deepin
 Dingux
 Ekaaty
 Endian
-Fedora
 Framer
 Fusion
 GALPon
 Gentoo
 Hymera
 JoliOS
-Karmen
 Legacy
 Librix
 Linius
@@ -171,7 +162,6 @@ BigLinux
 Blackbox
 Bootable
 BrazilFW
-Business
 Edubuntu
 Embedded
 Enhanced

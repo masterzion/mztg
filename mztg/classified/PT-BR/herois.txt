@@ -19,7 +19,6 @@ ChapolinColorado
 Codorna
 Coisa
 Comics
-Danny
 DannyPhantom
 DCComics
 ElTigre
@@ -62,12 +61,10 @@ NovosTitas
 OFantasma
 OMaskara
 Phantom
-Robin
 Seiya
 Spawn
 SrFantastico
 Superman
-Thor
 Titas
 Tocha
 Tocha Humana

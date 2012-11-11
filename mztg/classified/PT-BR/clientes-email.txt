@@ -1,9 +1,6 @@
 Apple
 AppleInc
-Becky
-Calypso
 Entourage
-Eudora
 Evolution
 Express
 Gmail
@@ -14,7 +11,6 @@ Lotus
 Lotusorganizer
 Magic
 MagicSeven
-Mail
 Microsoft
 Mozilla
 Novell
@@ -26,7 +22,6 @@ OutlookExpress
 Pegasus
 Pine
 Secure
-Seven
 Sylpheed
 Thunderbird
 yahoo

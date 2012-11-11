@@ -1,6 +1,5 @@
 Abelha
 acuario
-Adriano
 Aerostatici
 Aerostatico
 Aerostaticus
@@ -59,8 +58,6 @@ Caput
 Caputis
 CaputisMedusae
 CaputMedusa
-Carina
-Carlos
 Carolii
 Carolinum
 Cassiopeia
@@ -123,7 +120,6 @@ Ganso
 Gato
 Gemeos
 Gemini
-George
 Georgii
 Gliese
 Globi
@@ -133,13 +129,11 @@ Grande
 Grus
 Guardiao
 GuardiaodoPolo
-Halley
 Harpa
 Haumea
 Hell
 Hercules
 Herculis
-Herschel
 Herschelius
 Herschelli
 Hevelius
@@ -206,7 +200,6 @@ Minoris
 Monoceros
 Mons
 MonsMaenalus
-Monte
 MonteMenale
 Montis
 MontisMaenali
@@ -224,7 +217,6 @@ Nilotica
 Niloticae
 Noctua
 Noctuae
-Norma
 Normae
 NormaNilotica
 Norte
@@ -243,7 +235,6 @@ Pegasus
 Perseus
 Phoenicopteri
 Phoenicopterus
-Phoenix
 Pictor
 Pisces
 Piscis
@@ -277,7 +268,6 @@ Rangifer
 Rangiferis
 Regua
 ReguaEgipcia
-Rena
 Reticulum
 RioJordao
 Robe
@@ -318,7 +308,6 @@ Taurus
 Telescopii
 Telescopio
 Telescopium
-Terra
 Testudi
 Testudo
 Tigre
@@ -338,12 +327,10 @@ Typographica
 Typographicae
 Upsilon
 Urano
-Ursa
 UrsaMajor
 UrsaMinor
 Vela
 Venatici
-Venus
 Vespa
 Vespae
 ViaLactea

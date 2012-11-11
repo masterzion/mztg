@@ -51,7 +51,6 @@ type
     procedure Timer1Timer(Sender: TObject);
   private
     ContinuaLista : Boolean;
-    contpalavra : Integer;
     Erros, ArquivoSaida : TStringList;
     Extensao : String;
      { Private declarations }
@@ -84,94 +83,23 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
              end;
             Result := Texto;
           end;
-
-{
-          procedure VarreLinha(Linha:widestring);
-          var
-            Palavra, sTemp : String;
-            nTemp : Integer;
-          begin
-            sTemp := Linha;
-            while (sTemp <> '') do begin
-              if Extensao = 'INI' then begin
-                nTemp := pos('=',sTemp);
-                if (nTemp = 0) then begin
-                  Application.ProcessMessages;
-                  palavra := sTemp;
-                  sTemp := '';
-                end
-                else begin
-                  Palavra := trim(copy(sTemp, 0, nTemp-1));
-                  delete(sTemp,1,nTemp);
-                end;
-              end
-              else begin
-                nTemp := pos(' ',sTemp);
-                if (nTemp = 0) then begin
-                  Application.ProcessMessages;
-                  palavra := sTemp;
-                  sTemp := '';
-                end
-                else begin
-                  Palavra := trim(copy(sTemp, 0, nTemp));
-                  delete(sTemp,1,nTemp);
-                end;
-              end;
-              if chkRemoveChars.Checked then Palavra := trim(RemoveCaracter(Palavra));
-              if (length(Palavra) >= spedtMin.Value) then
-                 AdicionaPalavra(Palavra);
-            end;
-
-          end;}
-
-        procedure AdicionaPalavra(Palavra:TStringList);
-        var
-         n1, n2, ntemp  : Integer;
-         bNovo : Boolean;
-         Saida: widestring;
-        begin
-
-
-          for n1 := 0 to Palavra.Count-1 do begin
-             Saida := Palavra.Strings[n1];
-             Application.ProcessMessages;
-             ntemp := length(Saida);
-             if  (Saida <> '') and (ntemp <= spedtMax.Value)and (ntemp >= spedtMin.Value) and ( not( IsStrANumber(Saida) ) ) then begin
-               bNovo := True;
-               for n2 := 0 to ArquivoSaida.Count-1 do
-                 if (ArquivoSaida.Strings[n2] = Saida) then begin
-                   bNovo := False;
-                   break;
-                 end;
-               if bNovo then begin
-                  ArquivoSaida.Add(Saida);
-                  contpalavra := contpalavra+1;
-               end;
-             end;
-          end;
-
-        end;
       var
        fArquivo: textfile;
-       lastword, stemp,  Linha: widestring;
+       lastword, stemp: widestring;
        lst : TStringList;
-       ntemp, n : integer;
-
-
-
-
       begin
          try
               lst := TStringList.Create;
               lst.LoadFromFile(Arquivo);
+              lst.BeginUpdate;
               if (Extensao = 'HTML') or (Extensao = 'HTM') then  StripHTMLTags( trim (lst.Text) );
 
-              lst.Text := UTF8Decode( stringreplace(lst.Text, ' ' , #10#13, [rfReplaceAll]) );
+              lst.Text := stringreplace(lst.Text, ' ' , #10#13, [rfReplaceAll]) ;
               if chkLower.Checked then lst.Text := lowercase( lst.Text);
 
               if chkRemoveChars.Checked then  RemoveSpecialChar( lst );
-              AdicionaPalavra( lst );
-
+              ArquivoSaida.AddStrings(lst);
+              lst.EndUpdate;
               lst.Free;
 
          except
@@ -219,12 +147,16 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
         FindNext(SR);
       end;
     end;
-
+var
+   ntemp, n:integer;
+   Saida : string;
 begin
   if DirectoryEdit1.Text = '' then exit;
   if (SaveDialog1.Execute) then begin
-     contpalavra := 0;
+     if SaveDialog1.FileName = '' then exit;
+     Timer1.Enabled:= True;
      ArquivoSaida := TStringList.Create;
+     ArquivoSaida.BeginUpdate;
      Erros := TStringList.Create;
      btnStart.Visible := False;
      btnClose.Visible := False;
@@ -233,8 +165,19 @@ begin
 
      ContinuaLista := True;
      ListaDir(DirectoryEdit1.Text);
+     ArquivoSaida.text := StringReplace(ArquivoSaida.text, ' ', #10#13, [rfReplaceAll]);
+     ArquivoSaida.text := StringReplace(ArquivoSaida.text, #9, #10#13, [rfReplaceAll]);
+     for n := ArquivoSaida.Count-1 downto 0 do begin
+        Saida := ArquivoSaida.Strings[n];
+        Application.ProcessMessages;
+        ntemp := length(Saida);
+        if  (Saida = '') or (ntemp > spedtMax.Value) or (ntemp < spedtMin.Value) or ( IsStrANumber(Saida)  ) then ArquivoSaida.Delete(n);
+     end;
      ArquivoSaida.Sort();
+     ArquivoSaida.EndUpdate;
      RemoveDuplicated(ArquivoSaida);
+     Timer1.Enabled:= False;
+
 
      ArquivoSaida.SaveToFile(SaveDialog1.FileName);
      Erros.SaveToFile(SaveDialog1.FileName+'.err');
@@ -244,6 +187,7 @@ begin
      btnStart.Visible := True;
      btnClose.Visible := True;
      LabelFim.Caption := '';
+     ShowMessage('Done!');
   end;
 end;
 
@@ -286,7 +230,8 @@ end;
 
 procedure TfrmWordListExtract.Timer1Timer(Sender: TObject);
 begin
-   LabelTotal.Caption := inttostr(contpalavra);
+   if Assigned(ArquivoSaida) then   LabelTotal.Caption := inttostr(ArquivoSaida.Count);
+   Application.ProcessMessages;
 end;
 
 end.

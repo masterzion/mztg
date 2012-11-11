@@ -66,15 +66,11 @@ end;
 
 procedure TfrmHeuristic.btnOkClick(Sender: TObject);
 var
+//  ListaTemp,
   ListSearch, ListCustom : TStringList;
   FindRec: TSearchRec;
   folder :string;
   n, n2, n3, Count, nTemp : Integer;
-
-
-
-
-
 begin
     btnOk.Visible := False;
     btnCancel.Visible := True;
@@ -92,11 +88,13 @@ begin
     RemoveDuplicated(ListCustom);
 
     frmMain.lbSelectedFiles.Items.Clear;
+    ListCustom.BeginUpdate;
     for n := ListCustom.Count -1 downto 0 do begin
            nTemp := length( trim( ListCustom.Strings[n] ) );
            if ( nTemp < spedtMinWordListSize.Value ) or ( nTemp > spedtMaxWordListSize.Value ) then
               ListCustom.Delete(n);
     end;
+    ListCustom.EndUpdate;
     ListCustom.SaveToFile(frmMain.flWordList.Text+'_saida.txt');
 
     ProgressBar1.Max := frmMain.lstFolder.Count-1;
@@ -110,19 +108,24 @@ begin
                  if (FindRec.Name <> '.') and (FindRec.Name <> '..') and ( FindRec.Size <= (spedtMaxfileSize.Value * 1024) )  then begin
                    ListSearch.LoadFromFile(strPath + 'classified' + PathDelim  + folder + PathDelim + FindRec.Name);
                    frmMain.writelog('Checking file ...'+folder + PathDelim + FindRec.Name);
+                   ListSearch.BeginUpdate;
                    for n2 := ListSearch.Count -1 downto 0 do begin
                           nTemp := length( trim( ListSearch.Strings[n2] ) );
                           if ( nTemp < spedtMinWordListSize.Value ) or ( nTemp > spedtMaxWordListSize.Value ) then ListSearch.Delete(n2);
                    end;
+                   ListSearch.EndUpdate;
 //                   ListaTemp.Text := '';
                    ListSearch.Text := lowercase(ListSearch.Text);
+                   Count := 0;
                    for n2 := ListCustom.Count -1 downto 0 do begin
                           for n3 := ListSearch.Count -1 downto 0 do begin
-                             if ( ListCustom.Strings[n2] = ListSearch.Strings[n3] ) then Count += 1;
+                             if ( ListCustom.Strings[n2] = ListSearch.Strings[n3] ) then begin
+                               Count += 1;
 //                               ListaTemp.Add(ListSearch.Strings[n3]);
+                             end;
                              if ( Count >= spedtMinWordCountList.Value ) then break;
                           end;
-                          if ( Count >= spedtMinWordCountList.Value ) then break;
+                         if ( Count >= spedtMinWordCountList.Value ) then break;
                    end;
 
                    if ( Count >= spedtMinWordCountList.Value ) then  begin
@@ -131,7 +134,6 @@ begin
 //                     if count < 20 then frmMain.writelog(ListaTemp.Text);
                    end;
 //                   ListaTemp.Text := '';
-                   Count := 0;
                  end;
             Until FindNext(FindRec)<>0;
             FindClose(FindRec);

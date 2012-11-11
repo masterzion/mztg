@@ -51,7 +51,6 @@ checa
 chileno
 chines
 cingalesa
-Cocos
 colombiano
 Colon
 comorense
@@ -101,12 +100,10 @@ Fiji
 filipino
 Florim
 forte
-Franco
 FrancoCFP
 Francosuico
 gambiano
 Gana
-Georgia
 georgiano
 Gibraltar
 Grivnia
@@ -117,7 +114,6 @@ guianense
 guineense
 Gurde
 haitiano
-Helena
 Herzegovina
 hondurenha
 Honguecongue
@@ -131,7 +127,6 @@ IlhasCaimao
 IlhasCocos
 IlhasCook
 IlhasSalomao
-indiana
 indonesia
 iraniano
 iraquiano
@@ -155,12 +150,10 @@ Kwacha
 Kwanza
 Kyat
 KyatMianmar
-Lari
 Lats
 Latsletao
 Lekalbanes
 Lempira
-Leone
 leonino
 Lesoto
 letao
@@ -174,7 +167,6 @@ Libra
 Libraegipcia
 Librasiria
 Lilangeni
-Lira
 Liraturca
 Litas
 Litaslituano
@@ -189,7 +181,6 @@ maldiva
 malgaxe
 Malvinas
 Manat
-Marco
 marroquino
 mauricia
 mauritana
@@ -212,7 +203,6 @@ nigeriano
 niueano
 norte
 norueguesa
-Nova
 Novo
 NovoTaiua
 omanense
@@ -240,8 +230,6 @@ queniano
 Quetzal
 quirguiz
 Quiribati
-Rand
-Real
 Rial
 Rialiemenita
 Rialiraniano
@@ -265,7 +253,6 @@ Sanduiche
 Santa
 saudita
 Seicheles
-serra
 servio
 siclo
 Singapura
@@ -289,10 +276,8 @@ Talasamoana
 tanzaniano
 Tengue
 Tobago
-Tome
 tonganesa
 Trindade
-Tristao
 Tugrik
 Tugrikmongol
 tunisino

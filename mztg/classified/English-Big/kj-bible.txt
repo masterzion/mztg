@@ -2,7 +2,6 @@
 #
 # From the on-line version of the King James bible, acquired by doing:
 # cat KJbible/* | tr -cs A-Za-z '\012' | tr A-Z a-z | sort | uniq
-aaron
 aaronites
 abaddon
 abagtha
@@ -19,7 +18,6 @@ abdi
 abdiel
 abdon
 abednego
-abel
 abelbethmaachah
 abelmaim
 abelmeholah
@@ -48,7 +46,6 @@ abiel
 abiezer
 abiezrite
 abiezrites
-abigail
 abihail
 abihu
 abihud
@@ -87,8 +84,6 @@ aboundeth
 abounding
 about
 above
-abraham
-abram
 abroad
 absalom
 absence
@@ -113,7 +108,6 @@ accepted
 acceptest
 accepteth
 accepting
-access
 accho
 acclaimed
 accompanied
@@ -128,7 +122,6 @@ according
 accordingly
 account
 accounted
-accounting
 accounts
 accurate
 accursed
@@ -168,16 +161,13 @@ acquit
 acre
 acres
 act
-action
 actions
 activity
 acts
 actually
 adadah
-adah
 adaiah
 adalia
-adam
 adamah
 adamant
 adami
@@ -190,7 +180,6 @@ added
 adder
 adders
 addeth
-addi
 addicted
 addition
 additions
@@ -198,12 +187,10 @@ addon
 ader
 adiel
 adin
-adina
 adino
 adithaim
 adjure
 adjured
-adlai
 admah
 admatha
 administered
@@ -219,7 +206,6 @@ admonishing
 admonition
 adna
 adnah
-ado
 adonibezek
 adonijah
 adonikam
@@ -234,7 +220,6 @@ adorneth
 adorning
 adrammelech
 adramyttium
-adria
 adriel
 adullam
 adullamite
@@ -377,7 +362,6 @@ aijalon
 ailed
 aileth
 ain
-air
 ajah
 ajalon
 akan
@@ -391,7 +375,6 @@ alarm
 alas
 albeit
 alemeth
-alexander
 alexandria
 alexandrians
 algum
@@ -449,7 +432,6 @@ alway
 always
 am
 amad
-amal
 amalek
 amalekite
 amalekites
@@ -466,7 +448,6 @@ amaziah
 ambassador
 ambassadors
 ambassage
-amber
 ambush
 ambushes
 ambushment
@@ -477,7 +458,6 @@ amends
 amerce
 american
 amethyst
-ami
 amiable
 aminadab
 amiss
@@ -494,14 +474,12 @@ ammon
 ammonite
 ammonites
 ammonitess
-amnon
 amok
 amon
 among
 amongst
 amorite
 amorites
-amos
 amounting
 amoz
 amphipolis
@@ -510,7 +488,6 @@ amram
 amramites
 amraphel
 amzi
-an
 anab
 anah
 anaharath
@@ -533,13 +510,11 @@ anchors
 ancient
 ancients
 and
-andrew
 andronicus
 anem
 aner
 anethothite
 anetothite
-angel
 angels
 anger
 angered
@@ -551,7 +526,6 @@ anim
 anise
 ankle
 ankles
-anna
 annas
 anoint
 anointed
@@ -560,7 +534,6 @@ anointest
 anointing
 anon
 another
-ans
 answer
 answerable
 answered
@@ -657,7 +630,6 @@ aprons
 apt
 aquila
 ar
-ara
 arab
 arabah
 arabia
@@ -665,7 +637,6 @@ arabian
 arabians
 arad
 arah
-aram
 aramis
 aramitess
 aran
@@ -700,9 +671,7 @@ arguing
 argument
 arguments
 aridai
-aridatha
 arieh
-ariel
 aright
 arimathaea
 arioch
@@ -749,7 +718,6 @@ arriving
 arrogancy
 arrow
 arrows
-art
 artaxerxes
 artemas
 article
@@ -757,14 +725,12 @@ articles
 artificer
 artificers
 artillery
-arts
 aruboth
 arumah
 arvad
 arvadite
 arza
 as
-asa
 asahel
 asahiah
 asaiah
@@ -782,7 +748,6 @@ ascribe
 ascribed
 asenath
 aser
-ash
 ashamed
 ashan
 ashbea
@@ -809,7 +774,6 @@ ashtoreth
 ashur
 ashurites
 ashvath
-asia
 aside
 asiel
 ask
@@ -915,7 +879,6 @@ author
 authorities
 authority
 authors
-ava
 available
 availeth
 aven
@@ -1113,9 +1076,7 @@ bars
 barsabas
 bartholomew
 bartimaeus
-baruch
 barzillai
-base
 based
 baser
 bases
@@ -1137,7 +1098,6 @@ bathe
 bathed
 bathrabbim
 baths
-bathsheba
 bathshua
 bats
 battered
@@ -1195,7 +1155,6 @@ bedchamber
 bedeiah
 beds
 bedstead
-bee
 beeliada
 beelzebub
 been
@@ -1255,8 +1214,6 @@ beholding
 behoved
 being
 bekah
-bel
-bela
 belah
 belaites
 belch
@@ -1273,7 +1230,6 @@ believes
 believest
 believeth
 believing
-bell
 bellies
 bellow
 bellows
@@ -1290,7 +1246,6 @@ belteshazzar
 bemoan
 bemoaned
 bemoaning
-ben
 benaiah
 benammi
 benches
@@ -1301,14 +1256,12 @@ beneath
 beneberak
 benefactors
 benefit
-benefits
 benejaakan
 benevolence
 benhadad
 benhail
 benhanan
 beninu
-benjamin
 benjamite
 benjamites
 beno
@@ -1332,13 +1285,11 @@ beriah
 beriites
 berites
 berith
-bernice
 berodachbaladan
 berothah
 berothai
 berothite
 berries
-beryl
 besai
 beseech
 beseeching
@@ -1361,7 +1312,6 @@ beten
 bethabara
 bethanath
 bethanoth
-bethany
 betharabah
 betharam
 betharbel
@@ -1427,7 +1377,6 @@ better
 bettered
 between
 betwixt
-beulah
 bewail
 bewailed
 bewaileth
@@ -1459,18 +1408,15 @@ bilgah
 bilgai
 bilhah
 bilhan
-bill
 billows
 bilshan
 bimhal
-bin
 bind
 bindeth
 binding
 binea
 binnui
 biography
-bird
 birds
 birsha
 birth
@@ -1478,7 +1424,6 @@ birthday
 birthright
 birzavith
 bishlam
-bishop
 bishoprick
 bishops
 bit
@@ -1561,7 +1506,6 @@ blueness
 blunt
 blush
 bmers
-bnr
 boanerges
 boar
 board
@@ -1666,9 +1610,7 @@ brake
 brakest
 bramble
 brambles
-branch
 branches
-brand
 brandish
 brands
 brasen
@@ -1710,14 +1652,12 @@ bribes
 brick
 brickkiln
 bricks
-bride
 bridechamber
 bridegroom
 bridle
 bridles
 bridleth
 briefly
-brier
 briers
 brigandine
 brigandines
@@ -1743,8 +1683,6 @@ brokenfooted
 brokenhanded
 brokenhearted
 brood
-brook
-brooks
 broth
 brother
 brotherhood
@@ -1765,7 +1703,6 @@ bucket
 buckets
 buckler
 bucklers
-bud
 budded
 buds
 buffet
@@ -1777,7 +1714,6 @@ builder
 builders
 buildest
 buildeth
-building
 buildings
 built
 bukki
@@ -1795,7 +1731,6 @@ bunch
 bunches
 bundle
 bundles
-bunni
 burden
 burdened
 burdens
@@ -1820,7 +1755,6 @@ bushel
 bushes
 bushy
 busied
-business
 busy
 busybodies
 busybody
@@ -1878,9 +1812,7 @@ calve
 calved
 calves
 calveth
-calvin
 came
-camel
 camels
 camest
 camon
@@ -1895,7 +1827,6 @@ canaanite
 canaanites
 canaanitess
 canaanitish
-candace
 candle
 candles
 candlestick
@@ -1927,7 +1858,6 @@ carchemish
 care
 careah
 cared
-career
 careful
 carefully
 carefulness
@@ -1937,7 +1867,6 @@ cares
 carest
 careth
 caring
-carmel
 carmelite
 carmelitess
 carmi
@@ -1952,14 +1881,11 @@ carriages
 carried
 carriest
 carrieth
-carry
 carrying
 carshena
-cart
 carved
 carvingg
 carvings
-case
 casement
 cases
 casiphia
@@ -2041,7 +1967,6 @@ chamois
 champaign
 champion
 chanaan
-chance
 chancellor
 chanceth
 change
@@ -2074,7 +1999,6 @@ charging
 chariot
 chariots
 charitably
-charity
 charmed
 charmer
 charmers
@@ -2126,7 +2050,6 @@ chephirah
 cheran
 cherethims
 cherethites
-cherish
 cherished
 cherisheth
 cherith
@@ -2170,7 +2093,6 @@ chislon
 chislothtabor
 chittim
 chiun
-chloe
 chode
 choice
 choicest
@@ -2188,14 +2110,12 @@ chose
 chosen
 chozeba
 christ
-christian
 christians
 christs
 chronicles
 chrysolyte
 chrysoprasus
 chub
-chun
 church
 churches
 churl
@@ -2205,7 +2125,6 @@ chushanrishathaim
 chuza
 cieled
 cilicia
-cinnamon
 cinneroth
 circle
 circuit
@@ -2235,11 +2154,9 @@ clap
 clapped
 clappeth
 clauda
-claudia
 claudius
 clave
 claws
-clay
 clean
 cleanness
 cleanse
@@ -2258,11 +2175,9 @@ cleaveth
 cleft
 clefts
 clemency
-clement
 cleopas
 cleophas
 clh
-cliff
 cliffs
 clift
 clifts
@@ -2620,17 +2535,13 @@ coppersmith
 copulation
 copy
 cor
-coral
 corban
-cord
 cords
-core
 coriander
 corinth
 corinthians
 cormorant
 corn
-cornelius
 corner
 corners
 cornet
@@ -2673,7 +2584,6 @@ counselled
 counsellor
 counsellors
 counsels
-count
 counted
 countenance
 countenances
@@ -2694,7 +2604,6 @@ courageous
 courageously
 course
 courses
-court
 courteous
 courteously
 courts
@@ -2729,7 +2638,6 @@ craftsman
 craftsmen
 crafty
 crag
-crane
 crashing
 craved
 craveth
@@ -2793,7 +2701,6 @@ crush
 crushed
 cry
 crying
-crystal
 cubit
 cubits
 cuckow
@@ -2851,23 +2758,19 @@ cyrene
 cyrenian
 cyrenians
 cyrenius
-cyrus
 dabareh
 dabbasheth
 daberath
 dagger
 dagon
-daily
 dainties
 dainty
 dalaiah
-dale
 dalmanutha
 dalmatia
 dalphon
 dam
 damage
-damaris
 damascenes
 damascus
 damnable
@@ -2875,7 +2778,6 @@ damnation
 damned
 damsel
 damsels
-dan
 dance
 danced
 dances
@@ -2883,12 +2785,9 @@ dancing
 dandled
 danger
 dangerous
-daniel
 danites
 danjaan
 dannah
-dara
-darda
 dare
 darius
 dark
@@ -2913,10 +2812,7 @@ daubing
 daughers
 daughter
 daughters
-dave
 davem
-david
-dawn
 dawning
 day
 days
@@ -2938,7 +2834,6 @@ dealing
 dealings
 deals
 dealt
-dear
 dearly
 dearth
 death
@@ -2947,7 +2842,6 @@ debase
 debate
 debates
 debir
-deborah
 debt
 debtor
 debtors
@@ -3052,7 +2946,6 @@ delightest
 delighteth
 delights
 delightsome
-delilah
 deliver
 deliverance
 deliverances
@@ -3070,14 +2963,12 @@ demanded
 demas
 demetrius
 demonstration
-den
 denial
 denials
 denied
 denieth
 denounce
 dens
-deny
 denying
 depart
 departed
@@ -3114,7 +3005,6 @@ deserve
 deserveth
 deserving
 desirable
-desire
 desired
 desiredst
 desires
@@ -3182,8 +3072,6 @@ devout
 dew
 diadem
 dial
-diamond
-diana
 diblaim
 diblath
 dibon
@@ -3225,7 +3113,6 @@ dimnah
 dimness
 dimon
 dimonah
-dinah
 dinaites
 dine
 dined
@@ -3270,7 +3157,6 @@ discontinue
 discord
 discourage
 discouraged
-discover
 discovered
 discovereth
 discovering
@@ -3378,8 +3264,6 @@ divorce
 divorced
 divorcement
 dizahab
-do
-doctor
 doctors
 doctrine
 doctrines
@@ -3403,9 +3287,7 @@ doings
 doleful
 dominion
 dominions
-don
 done
-door
 doorkeeper
 doorkeepers
 doors
@@ -3463,7 +3345,6 @@ dressed
 dresser
 dressers
 dresseth
-drew
 drewest
 dried
 driedst
@@ -3498,19 +3379,16 @@ drunkard
 drunkards
 drunken
 drunkenness
-drusilla
 dry
 dryshod
 due
 dues
-duke
 dukes
 dulcimer
 dull
 dumah
 dumb
 dumping
-dung
 dungeon
 dunghill
 dunghills
@@ -3542,7 +3420,6 @@ ear
 eared
 earing
 early
-earnest
 earnestly
 earneth
 earring
@@ -3559,7 +3436,6 @@ eased
 easier
 easily
 east
-easter
 eastward
 easy
 eat
@@ -3575,13 +3451,9 @@ ebedmelech
 ebenezer
 eber
 ebiasaph
-ebony
 ebronah
-ecclesiastes
 echo
-ed
 edar
-eden
 eder
 edge
 edged
@@ -3593,7 +3465,6 @@ edify
 edifying
 edition
 editors
-edmund
 edom
 edomite
 edomites
@@ -3611,7 +3482,6 @@ eglon
 egypt
 egyptian
 egyptians
-ehi
 ehud
 eight
 eighteen
@@ -3657,18 +3527,14 @@ eliah
 eliahba
 eliakim
 eliam
-elias
 eliasaph
 eliashib
 eliathah
 elidad
 eliel
 elienai
-eliezer
 elihoenai
 elihoreph
-elihu
-elijah
 elika
 elim
 elimelech
@@ -3678,9 +3544,7 @@ eliphalet
 eliphaz
 elipheleh
 eliphelet
-elisabeth
 eliseus
-elisha
 elishah
 elishama
 elishaphat
@@ -3697,7 +3561,6 @@ elms
 elnaam
 elnathan
 eloi
-elon
 elonbethhanan
 elonites
 eloquent
@@ -3705,7 +3568,6 @@ eloth
 elpaal
 elpalet
 elparan
-else
 eltekeh
 eltekon
 eltolad
@@ -3729,7 +3591,6 @@ emerods
 emims
 eminent
 emins
-emmanuel
 emmaus
 emmor
 empire
@@ -3875,7 +3736,6 @@ ephesus
 ephlal
 ephod
 ephphatha
-ephraim
 ephraimite
 ephraimites
 ephratah
@@ -3892,8 +3752,6 @@ equality
 equally
 equals
 equity
-er
-eran
 eranites
 erastus
 ere
@@ -3947,7 +3805,6 @@ esteem
 esteemed
 esteemeth
 esteeming
-esther
 estimate
 estimation
 estimations
@@ -3957,7 +3814,6 @@ etc
 eternal
 eternity
 etham
-ethan
 ethanim
 ethbaal
 ether
@@ -3967,7 +3823,6 @@ ethiopians
 ethnan
 ethni
 eubulus
-eunice
 eunuch
 eunuchs
 euodias
@@ -3976,7 +3831,6 @@ euroclydon
 eutychus
 evangelist
 evangelists
-eve
 even
 evening
 evenings
@@ -4119,7 +3973,6 @@ ezer
 eziongaber
 eziongeber
 eznite
-ezra
 ezrahite
 ezri
 fables
@@ -4146,7 +3999,6 @@ fairer
 fairest
 fairly
 fairs
-faith
 faithful
 faithfully
 faithfulness
@@ -4173,9 +4025,7 @@ famines
 famish
 famished
 famous
-fan
 fanners
-far
 fare
 fared
 farewell
@@ -4188,7 +4038,6 @@ fashioned
 fashioneth
 fashioning
 fashions
-fast
 fasted
 fasten
 fastened
@@ -4251,7 +4100,6 @@ feign
 feigned
 feignedly
 feignest
-felix
 fell
 felled
 feller
@@ -4296,8 +4144,6 @@ fewest
 fewness
 fgrep
 fictional
-fidelity
-field
 fields
 fierce
 fierceness
@@ -4443,7 +4289,6 @@ flute
 fluttereth
 flux
 fly
-flying
 foal
 foals
 foam
@@ -4517,7 +4362,6 @@ foreseeth
 foreship
 foreskin
 foreskins
-forest
 forests
 foretell
 foretold
@@ -4589,7 +4433,6 @@ founder
 foundest
 fountain
 fountains
-four
 fourfold
 fourfooted
 fourscore
@@ -4617,7 +4460,6 @@ free
 freed
 freedom
 freely
-freeman
 freewill
 freewoman
 frequent
@@ -4682,18 +4524,15 @@ furtherance
 furthered
 furthermore
 fury
-gaal
 gaash
 gaba
 gabbai
 gabbatha
-gabriel
 gad
 gadarenes
 gaddest
 gaddi
 gaddiel
-gadi
 gadite
 gadites
 gaham
@@ -4740,13 +4579,11 @@ garner
 garners
 garnish
 garnished
-garrison
 garrisons
 gashmu
 gat
 gatam
 gate
-gates
 gath
 gather
 gathered
@@ -4759,7 +4596,6 @@ gathhepher
 gathrimmon
 gave
 gavest
-gay
 gaza
 gazathites
 gaze
@@ -4787,19 +4623,16 @@ geliloth
 gem
 gemalli
 gemariah
-gen
 gender
 gendered
 gendereth
 genealogies
 genealogy
-general
 generally
 generate
 generation
 generations
 genesis
-geneva
 genius
 gennesaret
 gentile
@@ -4846,7 +4679,6 @@ gibeonites
 giblites
 giddalti
 giddel
-gideon
 gideoni
 gidom
 gier
@@ -4862,7 +4694,6 @@ gilgal
 giloh
 gilonite
 gimzo
-gin
 ginath
 ginnetho
 ginnethon
@@ -4893,10 +4724,8 @@ givest
 giveth
 giving
 gizonite
-glad
 gladly
 gladness
-glass
 glasses
 glean
 gleaned
@@ -4915,7 +4744,6 @@ glorify
 glorifying
 glorious
 gloriously
-glory
 glorying
 glutton
 gluttonous
@@ -4927,7 +4755,6 @@ gnashing
 gnat
 gnaw
 gnawed
-go
 goad
 goads
 goat
@@ -4968,7 +4795,6 @@ goodman
 goodness
 goods
 gopher
-gore
 gored
 gorgeous
 gorgeously
@@ -4985,14 +4811,12 @@ governments
 governor
 governors
 gozan
-grace
 gracious
 graciously
 graff
 graffed
 grain
 grandmother
-grant
 granted
 grape
 grapegatherer
@@ -5013,7 +4837,6 @@ graveth
 graving
 gravings
 gravity
-gray
 grayheaded
 grease
 great
@@ -5033,12 +4856,10 @@ greeks
 green
 greenish
 greenness
-greet
 greeteth
 greeting
 greetings
 grew
-grey
 greyheaded
 greyhound
 grief
@@ -5098,8 +4919,6 @@ gush
 gushed
 gutter
 gutters
-guy
-ha
 haahashtari
 habaiah
 habakkuk
@@ -5144,7 +4963,6 @@ haggi
 haggiah
 haggites
 haggith
-hai
 hail
 hailstones
 hair
@@ -5153,15 +4971,11 @@ hairy
 hakkatan
 hakkoz
 hakupha
-hal
 halah
 halak
-hale
 half
 halhul
-hali
 haling
-hall
 hallohesh
 hallow
 hallowed
@@ -5222,7 +5036,6 @@ hanging
 hangings
 hangs
 haniel
-hannah
 hannathon
 hanniel
 hanoch
@@ -5236,7 +5049,6 @@ happened
 happeneth
 happens
 happier
-happy
 hara
 haradah
 haran
@@ -5261,10 +5073,8 @@ harim
 hariph
 harlot
 harlots
-harm
 harmless
 harmonies
-harmony
 harnepher
 harness
 harnessed
@@ -5306,7 +5116,6 @@ hasrah
 hassenaah
 hasshub
 hast
-haste
 hasted
 hasten
 hastened
@@ -5361,7 +5170,6 @@ hazarshual
 hazarsusah
 hazarsusim
 hazazontamar
-hazel
 hazelelponi
 hazerim
 hazeroth
@@ -5369,7 +5177,6 @@ hazezontamar
 haziel
 hazo
 hazor
-he
 head
 headbands
 headlong
@@ -5408,7 +5215,6 @@ hearts
 hearty
 heat
 heated
-heath
 heathen
 heave
 heaved
@@ -5454,7 +5260,6 @@ helekites
 helem
 heleph
 helez
-heli
 helkai
 helkath
 helkathhazzurim
@@ -5479,7 +5284,6 @@ hemdan
 hemlock
 hems
 hen
-hena
 henadad
 hence
 henceforth
@@ -5487,10 +5291,8 @@ henceforward
 henoch
 hepher
 hepherites
-hephzibah
 her
 herald
-herb
 herbs
 herd
 herdman
@@ -5514,7 +5316,6 @@ heritages
 hermas
 hermes
 hermogenes
-hermon
 hermonites
 herod
 herodians
@@ -5522,7 +5323,6 @@ herodias
 herodion
 heron
 hers
-herschel
 herself
 hesed
 heshbon
@@ -5601,7 +5401,6 @@ hivite
 hivites
 hizkiah
 hizkijah
-ho
 hoar
 hoarfrost
 hoary
@@ -5637,14 +5436,11 @@ holyday
 homam
 home
 homeborn
-homer
 homers
 honest
 honestly
 honesty
-honey
 honeycomb
-honor
 honour
 honourable
 honoured
@@ -5656,7 +5452,6 @@ hoof
 hoofs
 hook
 hooks
-hope
 hoped
 hopeth
 hophni
@@ -5700,7 +5495,6 @@ hospitality
 host
 hostages
 hosts
-hot
 hotham
 hothan
 hothir
@@ -5717,7 +5511,6 @@ households
 houses
 housetop
 housetops
-how
 howbeit
 however
 howl
@@ -5750,7 +5543,6 @@ hungred
 hungry
 hunt
 hunted
-hunter
 hunters
 huntest
 hunteth
@@ -5848,7 +5640,6 @@ imagined
 imagineth
 imla
 imlah
-immanuel
 immediately
 immer
 immortal
@@ -5884,7 +5675,6 @@ imputeth
 imputing
 imrah
 imri
-in
 inability
 inappropriate
 inasmuch
@@ -6038,7 +5828,6 @@ inwardly
 inwards
 iphedeiah
 ir
-ira
 irad
 iram
 iri
@@ -6051,7 +5840,6 @@ irrefutable
 irshemesh
 iru
 is
-isaac
 isaiah
 iscah
 iscariot
@@ -6063,7 +5851,6 @@ ishi
 ishiah
 ishijah
 ishma
-ishmael
 ishmaelite
 ishmaelites
 ishmaiah
@@ -6084,7 +5871,6 @@ ismachiah
 ismaiah
 isn
 ispah
-israel
 israelite
 israelites
 israelitish
@@ -6117,7 +5903,6 @@ ittahkazin
 ittai
 ituraea
 ivah
-ivory
 izehar
 izeharites
 izhar
@@ -6150,8 +5935,6 @@ jachan
 jachin
 jachinites
 jacinth
-jacob
-jada
 jadau
 jaddua
 jadon
@@ -6184,12 +5967,9 @@ jakeh
 jakim
 jalon
 jambres
-james
-jamin
 jaminites
 jamlech
 jangling
-janna
 jannes
 janoah
 janohah
@@ -6201,7 +5981,6 @@ japhleti
 japho
 jarah
 jareb
-jared
 jaresiah
 jarha
 jarib
@@ -6215,7 +5994,6 @@ jashub
 jashubilehem
 jashubites
 jasiel
-jason
 jasper
 jathniel
 jattir
@@ -6293,7 +6071,6 @@ jekabzeel
 jekameam
 jekamiah
 jekuthiel
-jemima
 jemuel
 jeoparded
 jeopardy
@@ -6305,10 +6082,8 @@ jerahmeel
 jerahmeelites
 jered
 jeremai
-jeremiah
 jeremias
 jeremoth
-jeremy
 jeriah
 jeribai
 jericho
@@ -6338,12 +6113,10 @@ jeshuah
 jeshurun
 jesiah
 jesimiel
-jesse
 jesting
 jesui
 jesuites
 jesurun
-jesus
 jether
 jetheth
 jethlah
@@ -6353,7 +6126,6 @@ jeuel
 jeush
 jeuz
 jew
-jewel
 jewels
 jewess
 jewish
@@ -6375,7 +6147,6 @@ jhu
 jhuapl
 jibsam
 jidlaph
-jim
 jimna
 jimnah
 jimnites
@@ -6385,22 +6156,17 @@ jireh
 joab
 joah
 joahaz
-joanna
 joash
 joatham
-job
 jobab
 jochebed
-joe
 joed
-joel
 joelah
 joezer
 jogbehah
 jogli
 joha
 johanan
-john
 johns
 joiada
 joiakim
@@ -6418,30 +6184,23 @@ jokneam
 jokshan
 joktan
 joktheel
-jona
 jonadab
-jonah
 jonan
 jonas
-jonathan
 joppa
 jorah
 jorai
 joram
-jordan
 jorim
 jorkoam
 josabad
 josaphat
-jose
 josedech
-joseph
 joses
 joshah
 joshaphat
 joshaviah
 joshbekashah
-joshua
 josiah
 josias
 josibiah
@@ -6456,13 +6215,11 @@ journeyed
 journeying
 journeyings
 journeys
-joy
 joyed
 joyful
 joyfully
 joyfulness
 joying
-joyous
 jozabad
 jozachar
 jozadak
@@ -6471,9 +6228,7 @@ jubile
 jucal
 juda
 judaea
-judah
 judas
-jude
 judea
 judge
 judged
@@ -6483,18 +6238,13 @@ judgeth
 judging
 judgment
 judgments
-judith
 juice
-julia
-julius
 jumping
-junia
 juniper
 jupiter
 jurisdiction
 jushabhesed
 just
-justice
 justification
 justified
 justifier
@@ -6525,7 +6275,6 @@ kedemah
 kedemoth
 kedesh
 kedeshnaphtali
-keep
 keeper
 keepers
 keepest
@@ -6552,7 +6301,6 @@ keros
 kettle
 keturah
 key
-keys
 kezia
 keziz
 kibrothhattaavah
@@ -6570,7 +6318,6 @@ killest
 killeth
 killing
 kiln
-kin
 kinah
 kind
 kindle
@@ -6655,11 +6402,9 @@ korah
 korahite
 korahites
 korathites
-kore
 korhites
 koz
 kushaiah
-kwan
 laadah
 laadan
 laban
@@ -6711,7 +6456,6 @@ lamentations
 lamented
 lamp
 lamps
-lance
 lancets
 land
 landed
@@ -6782,7 +6526,6 @@ leadest
 leadeth
 leaf
 league
-leah
 lean
 leaned
 leaneth
@@ -6793,7 +6536,6 @@ leap
 leaped
 leaping
 learn
-learned
 learning
 leasing
 least
@@ -6864,7 +6606,6 @@ levite
 levites
 levitical
 leviticus
-levy
 lewd
 lewdly
 lewdness
@@ -6930,12 +6671,10 @@ likhi
 liking
 lilies
 lillywhite
-lily
 lime
 limit
 limited
 limiteth
-line
 lineage
 linen
 lines
@@ -6943,7 +6682,6 @@ lingered
 lingereth
 lintel
 lintels
-linus
 lion
 lioness
 lionesses
@@ -6975,7 +6713,6 @@ loaden
 loadeth
 loaf
 loammi
-loan
 loathe
 loatheth
 loathsome
@@ -6999,9 +6736,7 @@ loftiness
 lofty
 log
 loins
-lois
 london
-long
 longed
 longedst
 longer
@@ -7064,14 +6799,12 @@ lowliness
 lowly
 lubim
 lubims
-lucas
 lucifer
 lucius
 lucre
 lud
 ludim
 luhith
-luke
 lukewarm
 lump
 lunatick
@@ -7083,11 +6816,9 @@ lusteth
 lusting
 lusts
 lusty
-luz
 lycaonia
 lycia
 lydda
-lydia
 lydians
 lying
 lysanias
@@ -7129,7 +6860,6 @@ madness
 madon
 magbish
 magdala
-magdalene
 magdiel
 magician
 magicians
@@ -7156,15 +6886,12 @@ mahershalalhashbaz
 mahlah
 mahli
 mahlites
-mahlon
 mahol
-maid
 maiden
 maidens
 maids
 maidservant
 maidservants
-mail
 maimed
 mainsail
 maintain
@@ -7208,7 +6935,6 @@ mallows
 malluch
 mammon
 mamre
-man
 manaen
 manahath
 manahethites
@@ -7240,19 +6966,15 @@ maoch
 maon
 maonites
 mar
-mara
 marah
 maralah
 maranatha
 marble
-march
 marched
 marchedst
-marcus
 mareshah
 mariners
 marishes
-mark
 marked
 markest
 market
@@ -7273,7 +6995,6 @@ marrying
 mars
 marsena
 mart
-martha
 martyr
 martyrs
 marvel
@@ -7282,8 +7003,6 @@ marvellous
 marvellously
 marvelously
 marvels
-mary
-marys
 mash
 mashal
 masons
@@ -7297,7 +7016,6 @@ masteries
 masters
 mastery
 masts
-mat
 matches
 mate
 material
@@ -7317,17 +7035,13 @@ matter
 matters
 matthan
 matthat
-matthew
-matthias
 mattithiah
 mattock
 mattocks
 maul
 maw
-may
 mayest
 mazzaroth
-me
 meadow
 meadows
 meah
@@ -7369,12 +7083,10 @@ meekness
 meet
 meetest
 meeteth
-meeting
 meets
 megiddo
 megiddon
 mehetabeel
-mehetabel
 mehida
 mehir
 meholathite
@@ -7393,8 +7105,6 @@ melchizedek
 melea
 melech
 melicu
-melita
-melody
 melons
 melt
 melted
@@ -7438,7 +7148,6 @@ merchants
 mercies
 merciful
 mercurius
-mercy
 mercyseat
 mered
 merely
@@ -7456,8 +7165,6 @@ merodachbaladan
 merom
 meronothite
 meroz
-merrily
-merry
 merryhearted
 mesech
 mesh
@@ -7475,7 +7182,6 @@ meshullemeth
 mesobaite
 mesopotamia
 mess
-message
 messenger
 messengers
 messes
@@ -7494,14 +7200,11 @@ miamin
 mibhar
 mibsam
 mibzar
-micah
 micaiah
 mice
 micha
-michael
 michah
 michaiah
-michal
 michmas
 michmash
 michmethah
@@ -7545,8 +7248,6 @@ milk
 mill
 millet
 millions
-millo
-mills
 millstone
 millstones
 mincing
@@ -7568,7 +7269,6 @@ ministering
 ministers
 ministration
 ministry
-minni
 minnith
 minstrel
 minstrels
@@ -7578,7 +7278,6 @@ miphkad
 miracle
 miracles
 mire
-miriam
 mirma
 mirth
 miry
@@ -7593,7 +7292,6 @@ miseries
 misery
 misgab
 mishael
-mishal
 misham
 misheal
 mishma
@@ -7601,7 +7299,6 @@ mishmannah
 mishraites
 mispereth
 misrephothmaim
-miss
 missed
 missing
 mist
@@ -7666,7 +7363,6 @@ month
 monthly
 months
 monuments
-moon
 moons
 morasthite
 mordecai
@@ -7771,10 +7467,7 @@ mutter
 muttered
 mutual
 muzzle
-my
-myra
 myrrh
-myrtle
 myself
 mysia
 mysteries
@@ -7809,7 +7502,6 @@ nahath
 nahbi
 nahor
 nahshon
-nahum
 nail
 nailing
 nails
@@ -7822,7 +7514,6 @@ named
 namely
 names
 nameth
-naomi
 naphish
 naphtali
 naphtuhim
@@ -7833,7 +7524,6 @@ narrow
 narrowed
 narrower
 narrowly
-nathan
 nathanael
 nathanmelech
 nation
@@ -7944,7 +7634,6 @@ networks
 never
 nevertheless
 neverthless
-new
 newborn
 newly
 newness
@@ -7959,7 +7648,6 @@ nibshan
 nicanor
 nicodemus
 nicolaitanes
-nicolas
 nicopolis
 niger
 nigh
@@ -7982,7 +7670,6 @@ nisroch
 nitre
 no
 noadiah
-noah
 nob
 nobah
 noble
@@ -8004,7 +7691,6 @@ noonday
 noontide
 noph
 nophah
-nor
 north
 northern
 northward
@@ -8130,7 +7816,6 @@ og
 oh
 ohad
 ohel
-ohio
 oil
 oiled
 ointment
@@ -8138,15 +7823,12 @@ ointments
 ok
 old
 oldness
-olive
 olives
 olivet
 oliveyard
 oliveyards
 olympas
-omar
 omega
-omer
 omers
 omit
 omitted
@@ -8166,7 +7848,6 @@ ono
 onward
 onycha
 onyx
-open
 opened
 openest
 openeth
@@ -8216,7 +7897,6 @@ ordinance
 ordinances
 ordinary
 oreb
-oren
 organ
 organization
 organs
@@ -8371,7 +8051,6 @@ pans
 pant
 panted
 panteth
-paper
 paphos
 paps
 parable
@@ -8446,7 +8125,6 @@ pathros
 pathrusim
 paths
 pathway
-patience
 patient
 patiently
 patmos
@@ -8457,8 +8135,6 @@ patrobas
 pattern
 patterns
 pau
-paul
-paulus
 paved
 pavement
 pavilion
@@ -8475,7 +8151,6 @@ peaceable
 peaceably
 peacemakers
 peacocks
-pearl
 pearls
 peculiar
 pedahel
@@ -8497,12 +8172,10 @@ peleth
 pelethites
 pelican
 pelonite
-pen
 pence
 peniel
 peninnah
 penknife
-penny
 pennyworth
 pentateuch
 pentecost
@@ -8569,10 +8242,8 @@ persecutions
 persecutor
 persecutors
 perseverance
-persia
 persian
 persians
-persis
 person
 persons
 perspectives
@@ -8599,7 +8270,6 @@ pestilence
 pestilences
 pestilent
 pestle
-peter
 pethahiah
 pethor
 pethuel
@@ -8624,14 +8294,12 @@ pharosh
 pharpar
 pharzites
 phaseah
-phebe
 phenice
 phenicia
 phichol
 philadelphia
 philemon
 philetus
-philip
 philipians
 philippi
 philippians
@@ -8656,7 +8324,6 @@ physician
 physicians
 physics
 pibeseth
-pick
 pictures
 piece
 pieces
@@ -8682,7 +8349,6 @@ pillow
 pillows
 pilots
 piltai
-pin
 pine
 pineth
 pining
@@ -8702,7 +8368,6 @@ pison
 pispah
 piss
 pisseth
-pit
 pitch
 pitched
 pitcher
@@ -8834,7 +8499,6 @@ porch
 porches
 porcius
 port
-porter
 porters
 portion
 portions
@@ -8879,7 +8543,6 @@ pourtrayed
 poverty
 powder
 powders
-power
 powerful
 powers
 practices
@@ -8978,10 +8641,7 @@ principal
 principalities
 principality
 principles
-print
 printed
-prisca
-priscilla
 prised
 prison
 prisoner
@@ -8995,7 +8655,6 @@ prize
 probability
 problem
 problematic
-problems
 proceed
 proceeded
 proceedeth
@@ -9098,7 +8757,6 @@ provoked
 provokedst
 provoketh
 provoking
-prudence
 prudent
 prudently
 prune
@@ -9121,7 +8779,6 @@ publickly
 publish
 published
 publisheth
-publius
 pudens
 puffed
 puffeth
@@ -9236,7 +8893,6 @@ raca
 race
 rachab
 rachal
-rachel
 raddai
 rafters
 ragau
@@ -9249,7 +8905,6 @@ rags
 raguel
 rahab
 raham
-rahel
 rail
 railed
 railer
@@ -9269,8 +8924,6 @@ raisins
 rakem
 rakkath
 rakkon
-ram
-rama
 ramah
 ramath
 ramathaimzophim
@@ -9288,9 +8941,7 @@ rang
 range
 ranges
 ranging
-rank
 ranks
-ransom
 ransomed
 rapha
 raphu
@@ -9302,7 +8953,6 @@ rate
 rather
 rattleth
 rattling
-raven
 ravening
 ravenous
 ravens
@@ -9317,7 +8967,6 @@ reached
 reaches
 reacheth
 reaching
-read
 reader
 readest
 readeth
@@ -9346,9 +8995,6 @@ reasonably
 reasoned
 reasoning
 reasons
-reba
-rebecca
-rebekah
 rebel
 rebelled
 rebellest
@@ -9406,7 +9052,6 @@ redeeming
 redemption
 redness
 redound
-reed
 reeds
 reel
 reelaiah
@@ -9637,7 +9282,6 @@ returneth
 returning
 returns
 reu
-reuben
 reubenite
 reubenites
 reuel
@@ -9686,14 +9330,12 @@ rezin
 rezon
 rhegium
 rhesa
-rhoda
 rhodes
 rib
 ribai
 ribband
 riblah
 ribs
-rich
 richer
 riches
 richly
@@ -9707,7 +9349,6 @@ riders
 rideth
 ridges
 riding
-rie
 rifled
 right
 righteous
@@ -9732,7 +9373,6 @@ ripe
 ripening
 riphath
 ripped
-rise
 risen
 risest
 riseth
@@ -9753,22 +9393,18 @@ roarings
 roast
 roasted
 roasteth
-rob
 robbed
 robber
 robbers
 robbery
 robbeth
 robe
-robertson
 robes
 roboam
 rock
 rocks
-rod
 rode
 rods
-roe
 roebuck
 roebucks
 roes
@@ -9781,7 +9417,6 @@ rolleth
 rolling
 rolls
 romamtiezer
-roman
 romans
 rome
 roof
@@ -9793,7 +9428,6 @@ rooted
 roots
 rope
 ropes
-rose
 rosh
 rot
 rotten
@@ -9803,12 +9437,10 @@ roughly
 round
 rouse
 rovers
-row
 rowed
 rowers
 rowing
 rows
-royal
 rubbing
 rubbish
 rubies
@@ -9846,7 +9478,6 @@ rushes
 rusheth
 rushing
 rust
-ruth
 sabachthani
 sabaoth
 sabbath
@@ -9881,32 +9512,26 @@ safeguard
 safely
 safety
 saffron
-said
 saidst
 sail
 sailed
 sailing
 sailors
-saint
 saints
 saith
 sake
 sakes
 sala
-salah
 salamis
 salathiel
 salcah
 salchah
 sale
 salem
-salim
 sallai
 sallu
-salma
 salmon
 salmone
-salome
 salt
 salted
 saltness
@@ -9918,7 +9543,6 @@ salute
 saluted
 saluteth
 salvation
-samaria
 samaritan
 samaritans
 same
@@ -9929,7 +9553,6 @@ samothracia
 sample
 samson
 samsung
-samuel
 sanballat
 sanctification
 sanctified
@@ -9939,17 +9562,12 @@ sanctuaries
 sanctuary
 sand
 sandals
-sang
 sank
 sansannah
 sap
 saph
 saphir
-sapphira
-sapphire
 sapphires
-sara
-sarah
 sarai
 saraph
 sardine
@@ -9978,7 +9596,6 @@ satisfying
 saturday
 satyr
 satyrs
-saul
 save
 saved
 savest
@@ -10015,7 +9632,6 @@ scarce
 scarcely
 scarceness
 scarest
-scarlet
 scatter
 scattered
 scattereth
@@ -10136,7 +9752,6 @@ seir
 seirath
 seize
 seized
-sela
 selah
 selahammahlekoth
 selected
@@ -10210,7 +9825,6 @@ serving
 servitor
 servitude
 set
-seth
 sethur
 setter
 settest
@@ -10221,7 +9835,6 @@ settle
 settled
 settlest
 settling
-seven
 sevenfold
 sevens
 seventeen
@@ -10271,7 +9884,6 @@ shalmai
 shalman
 shalmaneser
 shalt
-shama
 shamariah
 shambles
 shame
@@ -10299,12 +9911,10 @@ shapham
 shaphan
 shaphat
 shapher
-sharai
 sharaim
 sharar
 share
 sharezer
-sharon
 sharonite
 sharp
 sharpen
@@ -10335,7 +9945,6 @@ shearing
 shearjashub
 sheath
 sheaves
-sheba
 shebah
 shebam
 shebaniah
@@ -10572,7 +10181,6 @@ sibmah
 sibraim
 sichem
 sick
-sickle
 sickly
 sickness
 sicknesses
@@ -10605,7 +10213,6 @@ signifying
 signs
 sihon
 sihor
-silas
 silence
 silent
 silk
@@ -10617,11 +10224,9 @@ silvanus
 silver
 silverlings
 silversmith
-simeon
 simeonites
 similitude
 similitudes
-simon
 simple
 simplicity
 simply
@@ -10658,7 +10263,6 @@ sins
 sion
 siphmoth
 sippai
-sir
 sirah
 sirion
 sirs
@@ -10691,14 +10295,12 @@ skilfulness
 skill
 skin
 skins
-skip
 skipped
 skippedst
 skipping
 skirt
 skirts
 skull
-sky
 slack
 slacked
 slackness
@@ -10763,7 +10365,6 @@ smite
 smiters
 smitest
 smiteth
-smith
 smiths
 smiting
 smitten
@@ -10836,7 +10437,6 @@ solemnly
 soles
 solitarily
 solitary
-solomon
 solution
 solve
 some
@@ -10847,8 +10447,6 @@ something
 sometime
 sometimes
 somewhat
-son
-song
 songs
 sons
 soon
@@ -11049,10 +10647,8 @@ standest
 standeth
 standing
 stank
-star
 stare
 stargazers
-stars
 starts
 state
 stately
@@ -11083,7 +10679,6 @@ steep
 stem
 step
 stephanas
-stephen
 stepped
 steppeth
 steps
@@ -11113,14 +10708,12 @@ stirred
 stirreth
 stirring
 stirs
-stock
 stocks
 stoicks
 stole
 stolen
 stomach
 stomacher
-stone
 stoned
 stones
 stonesquarers
@@ -11143,8 +10736,6 @@ storehouse
 storehouses
 stories
 stork
-storm
-stormy
 story
 stout
 stouthearted
@@ -11274,7 +10865,6 @@ suckling
 sucklings
 sudden
 suddenly
-sue
 suffer
 suffered
 sufferest
@@ -11291,15 +10881,12 @@ suggests
 suit
 suits
 sukkiims
-sum
 summer
 sumptuously
-sun
 sunday
 sunder
 sundered
 sundry
-sung
 sunk
 sunrising
 sup
@@ -11338,8 +10925,6 @@ surname
 surnamed
 surprised
 susanchites
-susanna
-susi
 suspiciously
 sustain
 sustained
@@ -11413,7 +10998,6 @@ taberah
 tabering
 tabernacle
 tabernacles
-tabitha
 table
 tables
 tablets
@@ -11462,7 +11046,6 @@ taller
 talmai
 talmon
 tamah
-tamar
 tame
 tamed
 tammuz
@@ -11474,7 +11057,6 @@ tapestry
 taphath
 tappuah
 tar
-tarah
 taralah
 tare
 tarea
@@ -11623,7 +11205,6 @@ thankworthy
 thara
 tharshish
 that
-the
 theatre
 thebez
 thee
@@ -11696,7 +11277,6 @@ thistle
 thistles
 thither
 thitherward
-thomas
 thongs
 thorn
 thorns
@@ -11794,8 +11374,6 @@ timnathserah
 timnite
 timon
 timotheus
-timothy
-tin
 tingle
 tinkling
 tip
@@ -11872,7 +11450,6 @@ torn
 toronto
 tortoise
 tortured
-toss
 tossed
 tossings
 totally
@@ -11955,7 +11532,6 @@ treasuries
 treasury
 treatise
 tree
-trees
 tremble
 trembled
 trembleth
@@ -12064,7 +11640,6 @@ ucla
 uel
 ulai
 ulam
-ulla
 ummah
 unaccustomed
 unadvisedly
@@ -12214,7 +11789,6 @@ urbane
 urge
 urged
 urgent
-uri
 uriah
 urias
 uriel
@@ -12262,7 +11836,6 @@ vain
 vainglory
 vainly
 vajezatha
-vale
 valiant
 valiantest
 valiantly
@@ -12277,7 +11850,6 @@ vanish
 vanished
 vanisheth
 vanities
-vanity
 vapour
 vapours
 variableness
@@ -12285,7 +11857,6 @@ variance
 variety
 various
 vashni
-vashti
 vats
 vaunt
 vaunteth
@@ -12304,7 +11875,6 @@ veracity
 verbatim
 verified
 verily
-verity
 vermilion
 version
 versions
@@ -12319,7 +11889,6 @@ vex
 vexation
 vexations
 vexed
-vi
 vial
 vials
 vice
@@ -12558,7 +12127,6 @@ weight
 weightier
 weights
 weighty
-welcome
 welfare
 well
 wellbeloved
@@ -12566,14 +12134,12 @@ wellfavoured
 wellpleasing
 wells
 wellspring
-wen
 wench
 went
 wentest
 wept
 were
 wert
-west
 western
 westward
 wet
@@ -12623,7 +12189,6 @@ whisperer
 whisperers
 whisperings
 whit
-white
 whited
 whiter
 whither
@@ -12661,21 +12226,17 @@ wilderness
 wiles
 wilfully
 wilily
-will
 willeth
 willing
 willingly
-willow
 willows
 wilt
 wimples
-win
 wind
 winding
 window
 windows
 winds
-windy
 wine
 winebibber
 winebibbers
@@ -12683,7 +12244,6 @@ winefat
 winepress
 winepresses
 wines
-wing
 winged
 wings
 wink
@@ -12746,7 +12306,6 @@ wizards
 woe
 woeful
 woes
-wolf
 wolves
 woman
 womankind
@@ -12871,14 +12430,12 @@ yielded
 yieldeth
 yielding
 yn
-yoke
 yoked
 yokefellow
 yokes
 yonder
 york
 you
-young
 younger
 youngest
 your
@@ -12916,8 +12473,6 @@ zamzummims
 zanoah
 zaphnathpaaneah
 zaphon
-zara
-zarah
 zareah
 zareathites
 zared
@@ -12985,7 +12540,6 @@ zeruiah
 zetham
 zethan
 zethar
-zia
 ziba
 zibeon
 zibia
@@ -13024,14 +12578,12 @@ zoar
 zoba
 zobah
 zobebah
-zohar
 zoheleth
 zoheth
 zophah
 zophai
 zophar
 zophim
-zorah
 zorathites
 zoreah
 zorites
@@ -13039,6 +12591,5 @@ zorobabel
 zuar
 zuph
 zur
-zuriel
 zurishaddai
 zuzims

@@ -1,12 +1,10 @@
 ANTI
 Agax
-Data
 Eset
 Free
 Heal
 Kojm
 Labs
-Leon
 Live
 Prot
 Scan
@@ -21,7 +19,6 @@ GData
 Hauri
 Linux
 MacOS
-Micro
 NOD32
 Panda
 Prevx
@@ -39,12 +36,9 @@ Active
 ClamAV
 ClamTk
 Comodo
-Doctor
 Etrust
 IKARUS
 McAfee
-Norman
-Norton
 Online
 Pocket
 Rising
@@ -53,7 +47,6 @@ Server
 Shield
 Sophos
 Sybari
-Tomasz
 Vexira
 cillin
 ediçao
@@ -70,7 +63,6 @@ ClamXav
 Command
 Empresa
 Malware
-Matheus
 OneCare
 Outpost
 PCTools

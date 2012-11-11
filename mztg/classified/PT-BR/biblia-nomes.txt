@@ -9,8 +9,6 @@ Abdiel
 Abdir
 Abdon
 Abdonio
-Abe
-Abel
 Abessalao
 Abia
 Abiao
@@ -19,7 +17,6 @@ Abiatar
 Abidenego
 Abiel
 Abiezer
-Abigail
 Abimeleque
 Abinaao
 Abinadab
@@ -29,9 +26,7 @@ Abisur
 Abiu
 Abiude
 Abner
-Abra
 Abraao
-Abram
 Abrao
 Absalao
 Absalom
@@ -41,8 +36,6 @@ Acaz
 Aclima
 Acsa
 Acursio
-Ada
-Adah
 Adaliah
 Adameire
 Adamina
@@ -50,11 +43,7 @@ Adams
 Adao
 Adiel
 Adilson 
-Adina
 Adira
-Adlai
-Admin
-Ado
 Adom
 Adonai
 Adonias
@@ -76,9 +65,7 @@ Amariah
 Amintor
 Amon
 Amorreu
-Amos
 Ampliato
-Ana
 Anael
 Ananias
 Andromico
@@ -91,16 +78,11 @@ Apelis
 Aquias
 Aquilao
 Aquilas
-Ara
 Arao
-Ari
-Ariel
 Aristobulo
 Arnon
-Aron
 Ary
 Arza
-Asa
 Asael
 Asenate
 Asher
@@ -409,7 +391,6 @@ Mara
 Maria 
 Mariah 
 Mariel 
-Marilena
 Marilene 
 Marisa 
 Marla 
@@ -545,7 +526,6 @@ Salomao
 Salome 
 Salomon 
 Sam 
-Samanta
 Samantha 
 Samara 
 Sampaio 

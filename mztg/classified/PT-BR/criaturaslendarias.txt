@@ -85,7 +85,6 @@ Lestrigoes
 Leviata
 Licantropo
 Lich
-Lilith
 Lobisomem
 Loup
 LoupGarou
@@ -100,15 +99,12 @@ Monstro
 Morte
 Mortovivo
 Mumia
-Musa
 Naga
 Naiade
 Nephilim
 Nereida
 Nereu
-Nessie
 Ninfas
-Nixie
 Oceanide
 Oceano
 Ogro
@@ -146,7 +142,6 @@ Troll
 Unicornio
 Urias
 Ushioni
-Valquiria
 Vampiro
 Vanara
 Veela

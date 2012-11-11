@@ -2,7 +2,6 @@ Agente
 Agentes
 AgenteSmith
 Agents
-Anderson
 Animatrix
 Apoc
 Architect
@@ -43,19 +42,15 @@ Noljinor
 Novalis
 oescolhido
 Oraculo
-Osiris
 Pequod
 Persephone
 Polaris
 Priestess
 Prometheus
 Rhineheart
-Sati
 Seraph
-Smith
 Switch
 Tank
-Thomas
 ThomasAAnderson
 ThomasAnderson
 Trinity

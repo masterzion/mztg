@@ -4,7 +4,6 @@ Abichita
 Acantita
 Actinolita
 Adamite
-Agata
 Agua
 Aguamarinha
 Alabastro
@@ -31,7 +30,6 @@ Andaluzita
 Andersonita
 Andradite
 Anfibola
-Angelita
 Anglesita
 Anidrita
 Ankerita
@@ -128,7 +126,6 @@ Criolita
 Crisoberilo
 Crisolita
 Crisotila
-Cristal
 Cristalderocha
 Crocidolita
 Cromita
@@ -152,7 +149,6 @@ Epsom
 Epsomita
 Esfalerite
 Esmectite
-Esmeralda
 EsmeraldaFalsa
 especie
 Espessartite
@@ -217,9 +213,7 @@ Idocrasio
 Illita
 Ilmenita
 impura
-indiana
 intermedio
-Jade
 Jadeindiana
 Jaspe
 Jaspedesangue
@@ -298,7 +292,6 @@ oxidos
 Palagonite
 para
 Paracrisotilo
-Paulo
 Pecheblenda
 Pedregulho
 pelo
@@ -335,9 +328,7 @@ Rocha
 Rochacristal
 Rodocrosita
 Rodonita
-rosa
 Roumanite
-Rubi
 Rutilo
 Sabugalite
 Safira
@@ -438,7 +429,6 @@ Uranio
 Uranofano
 Uvarovite
 Uvite
-valida
 valido,
 Vanadinite
 variedade
@@ -459,7 +449,6 @@ Witherita
 Wollastonite
 Wulfenite
 Xenotimo
-Xisto
 Yttria
 Zabuyelite
 Zaccagnaite

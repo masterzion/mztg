@@ -33,7 +33,6 @@ ChurenHimal
 Crown
 CrownPeak
 Dakshin
-Devi
 Dhaulagiri
 DhaulagiriII
 DhaulagiriIV
@@ -45,7 +44,6 @@ DistaghilSar
 Este
 Everest
 Gamin
-Ganesh
 GaneshI
 Gangapurna
 Gangkhar
@@ -72,7 +70,6 @@ Haramosh
 Himal
 Himalchuli
 Hiunchuli
-Ismail
 Istor
 IstoroNal
 Jannu
@@ -81,7 +78,6 @@ Jongsong
 Kabru
 KabruN
 Kamet
-Kang
 Kangchenjunga
 Kangpenqing
 Kangphu
@@ -126,7 +122,6 @@ MinyaKonka
 Molamenqing
 Momhil
 MomhilSar
-Monte
 MonteEverest
 MonteOgre
 Mukut
@@ -153,7 +148,6 @@ Parbat
 Pasu
 PasuSar
 Peak
-Peri
 Pico
 PicoJongsong
 Picos
@@ -177,7 +171,6 @@ Saser
 SaserKangriI
 SaserKangriIIE
 SaserKangriIII
-Shan
 Sherpi
 SherpiKangri
 Shishapangma

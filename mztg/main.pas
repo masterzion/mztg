@@ -8,7 +8,6 @@ uses
   Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, ComCtrls,
   ExtCtrls, EditBtn, StdCtrls, Buttons, CheckLst, Spin, Menus, dateutils, INIFiles;
 
-  
 //const appThreadCount = 1;
 const AppVersion = 'MZTG 0.3';
 type
@@ -203,11 +202,11 @@ type
     procedure pgMainChange(Sender: TObject);
   private
     { private declarations }
+  public
+    { public declarations }
     strPath : string;
     strLang : string;
 
-  public
-    { public declarations }
     procedure WriteLog(s:string);
   end;
 
@@ -344,6 +343,7 @@ end;
 
 
 
+
 procedure TfrmMain.btnCloseClick(Sender: TObject);
 begin
      // Close App
@@ -451,6 +451,7 @@ begin
 
 
 end;
+
 
 procedure TfrmMain.btnCancelClick(Sender: TObject);
 begin
@@ -897,6 +898,8 @@ begin
         FindClose(FindRec);
      end;
 end;
+
+
 
 procedure TfrmMain.MenuItem11Click(Sender: TObject);
 begin

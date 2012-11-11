@@ -9,9 +9,6 @@ Agrale
 Alvorada
 Americar
 (apenas
-Apollo
-Astra
-Audi
 Automotiva
 Bandeirante
 Belcar
@@ -46,7 +43,6 @@ City
 Civic
 Classe
 Classic
-Clio
 Cobalt
 Companhia
 Corcel
@@ -62,7 +58,6 @@ Dauphine
 DKW
 DKWVemag
 Doblo
-Dodge
 Ducato
 E400
 Ecosport
@@ -81,7 +76,6 @@ Fielder
 Fiesta
 Fiorino
 Fissore
-Focus
 Ford
 Freemont
 Frontier
@@ -117,12 +111,9 @@ Karmann
 Kombi
 L200
 Lafer
-LeBaron
-Linea
 Livina
 LM
 Lobini
-Logan
 Logus
 Magnum
 Mahindra
@@ -130,7 +121,6 @@ Malzoni
 Marajo
 Marea
 Marrua
-Matilde
 Maverick
 Megane
 Meriva
@@ -217,7 +207,6 @@ Vemaguet
 Veraneio
 Verona
 Versailles
-Vito
 Volkswagen
 Voyage
 Weekend

@@ -8,15 +8,12 @@ Half
 Holy
 King
 Mars
-Mary
 Pere
 Trip
-Wolf
 Yuck
 from
 Above
 Black
-Boris
 Chain
 Crass
 Death
@@ -24,11 +21,8 @@ Dodos
 Erics
 Fecal
 Femme
-Glenn
 Image
-Jesus
 Liars
-Linda
 Molar
 Morta
 Rebel
@@ -38,7 +32,6 @@ Sonic
 Swans
 Tronn
 Youth
-Action
 Bloody
 Branca
 Fatale
@@ -83,7 +76,6 @@ HolyMolar
 Repetitor
 TheLocust
 Throbbing
-Valentine
 ActionBeat
 Deerhunter
 DinosaurJr

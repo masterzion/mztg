@@ -49,7 +49,6 @@ Congruence
 Cooley
 CooleyTukeyFFT
 CORDIC
-Count
 Counting
 Countingsort
 Countsort
@@ -59,7 +58,6 @@ curva
 DeBoor
 DeCasteljau
 DEFLATE
-Delta
 Diffie
 DiffieHellman
 digital
@@ -81,10 +79,7 @@ ExamedeGraham
 Exponentiating
 Falsa
 FalsaPosicao
-Fast
 Fatorizacao
-field
-Floyd
 FloydWarshall
 Ford
 FordFulkerson
@@ -94,12 +89,10 @@ Fusao
 Gauss
 GaussJordan
 GaussLegendre
-General
 Geradores
 Gnome
 Gnomesort
 Gonnet
-Graham
 Gram
 Hash
 Heapsort
@@ -112,7 +105,6 @@ Incremental
 insercao
 Instantaneo
 Inteiros
-Jordan
 Karp
 Knuth
 Kruskal
@@ -127,13 +119,10 @@ LZ77
 LZ78
 melhor
 MetododeNewton
-Miller
 MillerRabin
 Moore
-Morris
 Multiplicacao
 multivariada
-Newton
 NIST
 NTRUEncrypt
 number
@@ -185,7 +174,6 @@ Secante
 secreta
 selecao
 SHA1
-Shell
 Shellsort
 Shift
 ShiftAnd
@@ -214,6 +202,5 @@ transform
 Tukey
 Vetor
 Warshall
-Wheeler
 Yarrow
 Yates

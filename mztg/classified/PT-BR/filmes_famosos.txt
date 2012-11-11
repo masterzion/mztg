@@ -2,7 +2,6 @@ Amadeus
 Amnesia
 Amor
 Artista
-Barry
 BarryLyndon
 BenHur
 Boot
@@ -25,7 +24,6 @@ Fargo
 Fiction
 Gandhi
 Garoto
-General
 Gladiador
 Gran
 GranTorino
@@ -41,7 +39,6 @@ KingKong
 Kong
 Leao
 Lutador
-Lyndon
 Malvada
 Manhattan
 Matrix
@@ -68,7 +65,6 @@ ReiLeao
 Scarface
 Separacao
 Stalker
-Star
 StarTrek
 Story
 Suspeitos
@@ -78,7 +74,6 @@ Torino
 ToyStory
 Trek
 Tubarao
-Vida
 Wall
 WallE
 Wood

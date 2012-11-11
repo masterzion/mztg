@@ -40,7 +40,6 @@ Ajuru
 Ajurupreto
 Akee
 alata
-Alexia
 Alfarroba
 Algarobo
 Algodaozinho
@@ -66,7 +65,6 @@ Amelanchier
 Amendoa
 Amendoeira
 Amendoim
-America
 americana
 americano
 Amora
@@ -116,7 +114,6 @@ aromatica
 Aronia
 Artocarpus
 arvore
-Asia
 Asiatica
 Asiatico
 Asimina
@@ -256,10 +253,8 @@ Citrus
 Citruslimon
 Citrusmaxima
 Citrusmedica
-clementina
 Clusiaceae
 Coco
-Cocos
 comercial
 comestiveis
 commersonii
@@ -364,8 +359,6 @@ Especie
 Especies
 Espinheiro
 Espinho
-esta
-Eugenia
 eugenioides
 Europa
 europea
@@ -384,7 +377,6 @@ Figo
 Figueira
 flexuosa
 florestas
-florida
 formacoes
 Fortunella
 Fragaria
@@ -466,8 +458,6 @@ inconstans
 India
 indica
 indigena
-Inga
-Inga
 Ingabranco
 Ingacipo
 Ingadedo
@@ -500,7 +490,6 @@ Juglandaceae
 Jujuba
 Juneberry
 Jutai
-kaki
 keppel
 Kiwi
 KiwiouQuivi
@@ -522,7 +511,6 @@ Lima
 Limacidra
 Limao
 limon
-lisa
 Litchi
 Lobeira
 Longan
@@ -574,8 +562,6 @@ Maracuja
 Maraja
 Marajo
 Marang
-Mari
-Maria
 Mariapreta
 maritimo
 Marmelada
@@ -695,7 +681,6 @@ Pertaguela
 peruviana
 Pessego
 phalerata
-Phoenix
 Physalis
 piloso
 Pimenta
@@ -771,10 +756,8 @@ rivularis
 Rolinia
 Rollinia
 Roma
-Rosa
 Rosaceae
 roseira
-rowan
 roxo
 Rubiaceae
 rubrum
@@ -810,7 +793,6 @@ selvagem
 serem
 sericea
 Seriguela
-serra
 serrana
 sessilis
 Shepherdia
@@ -832,7 +814,6 @@ spinescens
 spinosa
 Spondias
 squamosa
-star
 stipitata
 stipulacea
 striata
@@ -842,7 +823,6 @@ sultana
 Syagrus
 Syzygium
 Talisia
-Tamara
 Tamarillo
 Tamarindo
 Tamarindus
@@ -855,7 +835,6 @@ Tapia
 Tatajuba
 tatu
 Terminalia
-terra
 Theobroma
 tipo
 tomentosa
@@ -891,7 +870,6 @@ varias
 variedade
 variedades
 vegetais
-velvet
 venenosas
 venosa
 venulosa

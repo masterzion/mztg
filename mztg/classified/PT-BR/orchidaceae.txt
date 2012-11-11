@@ -43,7 +43,6 @@ Androcorys
 Angraecopsis
 Angraecum
 Anguloa
-Ania
 Ansellia
 Anteriorchis
 Anthogonium
@@ -131,7 +130,6 @@ Callostylis
 Calochilus
 Calopogon
 Caluera
-Calypso
 Capanemia
 Cardiochilus
 Catasetum
@@ -196,7 +194,6 @@ Compelenzia
 Comperia
 Conchidium
 Condylago
-Constantia
 Cordiglottis
 Corunastylis
 Coryanthes
@@ -325,7 +322,6 @@ Eriopsis
 Erycina
 Erythrodes
 Erythrorchis
-Esmeralda
 Euanthe
 Eucosia
 Eulophia
@@ -447,7 +443,6 @@ Konantzia
 Kreodanthus
 Kryptostoma
 Lacaena
-Laelia
 Laeliopsis
 Lanium
 Leaoa
@@ -797,7 +792,6 @@ Uleiorchis
 Uncifera
 Unciferia
 Urostachya
-Vanda
 Vandopsis
 Vanilla
 Vargasiella

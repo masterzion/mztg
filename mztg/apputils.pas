@@ -86,13 +86,13 @@ begin
  stemp := '';
  WordList.BeginUpdate;
  for n := WordList.Count-1 downto 0 do begin
- 	if stemp = WordList.Strings[n] then
+ 	if stemp = trim( LowerCase( WordList.Strings[n] )) then
  	   WordList.Delete(n)
  	else
  	   if WordList.Strings[n] = '' then
  		 WordList.Delete(n)
  	   else
- 		 stemp := WordList.Strings[n];
+ 		 stemp := trim( LowerCase( WordList.Strings[n] ));
  end;
   WordList.EndUpdate;
 end;

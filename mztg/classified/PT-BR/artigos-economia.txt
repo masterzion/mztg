@@ -13,12 +13,10 @@ agregada
 agregado
 agricola
 agriculture
-Alfred
 Aluguel
 ambientais
 ambiente
 Amplo
-Analise
 Analisecusto
 analysis
 Anomalia
@@ -32,13 +30,11 @@ Astrologia
 Atuaria
 austriaca
 Autarquia
-Auto
 baixo
 Balanca
 bancario
 Banco
 Bancocentral
-base
 baseada
 based
 basedcurrency
@@ -61,7 +57,6 @@ bottom
 bruto
 Bulionismo
 bundling
-business
 Caca
 Cacadeemprego
 Caixa
@@ -260,7 +255,6 @@ Fatores
 felicidade
 feminista
 Financas
-finance
 financeira
 financeiro
 financeiros
@@ -285,7 +279,6 @@ geral
 gerencial
 Gershchenkron
 Giffen
-Gini
 global
 Globalizacao
 good
@@ -294,7 +287,6 @@ governo
 Grau
 Gresham
 growth
-Harris
 hedonica
 heranca
 Herfindahl
@@ -357,7 +349,6 @@ IS/LM
 Isoquanta
 Ithaca
 IthacaHours
-janela
 Jogo
 Jogoglobal
 jogos
@@ -379,14 +370,12 @@ LeideOkun
 Leidovalor
 Leilao
 limite
-line
 Lista
 living
 Livre
 Livrecomercio
 Local
 Lorenz
-Lucas
 Lucro
 Lucromarginal
 Lucros
@@ -419,10 +408,8 @@ Mercantilismo
 Merger
 Methodenstreit
 metodologico
-Micro
 Microcredito
 Microeconomia
-Miller
 minimo
 model
 Modelagem
@@ -446,7 +433,6 @@ Motivo
 Multiplicador
 nacional
 NAIRU
-Nash
 natural
 natureza
 negro
@@ -460,7 +446,6 @@ Niveldepobreza
 Nobel
 nominal
 normais
-Nova
 Novaclassica
 NovaKeynesiana
 Novo
@@ -523,7 +508,6 @@ premium
 Previsao
 Price
 Pricepoints
-pricing
 primitiva
 principal
 Principios
@@ -558,7 +542,6 @@ racional
 Rate
 Rational
 Reaganomics
-Real
 Recessao
 recessoes
 rede
@@ -592,14 +575,12 @@ Risk
 Riskpremium
 Road
 Roadpricing
-Robin
 Safe
 Safetrade
 Salarial
 Salario
 Salariominimo
 salarios
-Sales
 Salestax
 Saving
 Scholes
@@ -609,7 +590,6 @@ Selecao
 Selecaoadversa
 separecao
 Servicos
-Seven
 share
 side
 sideeconomics
@@ -634,7 +614,6 @@ specific
 Staffing
 Stagflation
 Standard
-Stock
 Stockexchange
 Store
 Storeofvalue
@@ -667,7 +646,6 @@ Sweatshop
 Tarifa
 tariff
 Taxa
-Taylor
 technological
 Tecnologia
 teia
@@ -679,7 +657,6 @@ Teoriadovalor
 Terapia
 Terms
 Termsoftrade
-Terra
 Tese
 TesedeSinger
 theory
@@ -722,7 +699,6 @@ verde
 versus
 vertical
 vicioso
-vida
 virtuoso
 welfare
 Yield

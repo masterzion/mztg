@@ -1,13 +1,10 @@
 activate
-advance
-america
 amsmenthol
 argento
 autentico
 authentic
 azul
 azzurro
-benson
 bensonehedges
 bensonhedges
 black
@@ -19,7 +16,6 @@ brilhante
 burst
 california
 canela
-carlton
 cereja
 chanceller
 choice
@@ -32,8 +28,6 @@ club
 cluboneblue
 cool
 cravo
-crystal
-dallas
 dallasblue
 dallasred
 dallassilver
@@ -70,9 +64,7 @@ gold
 goldms
 harmms
 harmmssls
-harmony
 hedges
-hilton
 hiltonauthentic
 hiltonmentha
 hiltonunique
@@ -99,7 +91,6 @@ lennon
 lennonazul
 lennonprata
 lennonvermelho
-lilas
 lmactivate
 lmbluelabel
 lmcoolmenthol
@@ -107,13 +98,11 @@ lmkretek
 lmredlabel
 lmsilverlabel
 lmvibe
-lucky
 luckystrikeblue
 lungo
 luxor
 luxorgold
 luxorpalacexsl
-mark
 mark10blue
 marlboro
 marlborored
@@ -158,10 +147,8 @@ prado
 prata
 premiere
 premium
-real
 realgold
 release
-reyes
 reyessfclassic
 reyeswfpremiere
 ritzms
@@ -171,7 +158,6 @@ rosso
 rubio
 sabor
 sgold
-shelton
 sheltonblue
 sheltonoriginal
 sheltonsilver
@@ -202,7 +188,6 @@ vogue
 voguebleueslss
 voguelilasslss
 voguementheslss
-white
 wist
 wistblue
 wistsilver

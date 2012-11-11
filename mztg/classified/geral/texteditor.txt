@@ -2,7 +2,6 @@ EZ
 GNU
 LyX
 Pro
-Ted
 Word
 602PC
 Emacs
@@ -11,7 +10,6 @@ Jarte
 KWord
 Lotus
 Nisus
-Pages
 Suite
 iWork
 Applix

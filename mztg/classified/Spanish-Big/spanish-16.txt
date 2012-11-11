@@ -1,7 +1,6 @@
 aal
 aas
 aca
-ado
 afe
 aga
 agu
@@ -9,39 +8,25 @@ ahe
 ahi
 aho
 ail
-air
 aja
 aje
 aji
 ajo
 ala
-ali
 ama
-ame
-ami
 amo
-ana
 ano
 apa
-ara
 aro
-asa
 asi
-ata
 ato
 aun
-ava
-ave
 avo
 axe
-aya
 ayo
 baa
 bah
-bao
 bar
-bel
-ben
 bes
 bey
 bis
@@ -54,32 +39,25 @@ bon
 bou
 boy
 bua
-bue
 buz
 caa
 cai
-cal
 can
 cao
 cap
-car
 cas
 cay
-caz
 cea
 ceo
 cha
 che
-cho
 cia
 cid
 cis
-clo
 coa
 cok
 col
 com
-con
 cor
 coy
 coz
@@ -90,26 +68,19 @@ cuz
 dao
 dar
 dea
-del
 deo
-des
 dey
 dia
 dij
 din
-dis
-dix
 diz
 doa
 dom
-don
 dos
 doy
 dua
-duc
 duo
 dux
-duz
 eal
 ear
 eco
@@ -117,12 +88,10 @@ edo
 efe
 eje
 ejo
-ela
 ele
 elo
 eme
 ene
-eon
 epa
 epi
 era
@@ -137,23 +106,17 @@ ete
 eto
 evo
 eya
-far
 fas
-faz
 fea
 feo
 fer
 fez
 fia
-fil
 fin
 foz
 ful
-gao
 gas
 gea
-gen
-gil
 gis
 gol
 gro
@@ -164,18 +127,13 @@ haz
 her
 hez
 hin
-hoy
 hoz
 huf
 hum
-huy
-ida
 igu
-ina
 ino
 ion
 ipe
-ira
 ire
 iro
 ita
@@ -183,37 +141,22 @@ iza
 jar
 jau
 jea
-job
 kan
 laa
 lar
-las
 lay
-lea
-len
-leo
-les
 ley
-lia
 lid
 lio
-lis
 lle
 loa
-los
 lua
 lue
-luz
 maa
-mal
-man
-mao
 mar
 mas
 mea
 mes
-mia
-mil
 mio
 mis
 miz
@@ -223,7 +166,6 @@ moo
 mor
 mue
 mur
-mus
 muy
 muz
 nao
@@ -244,10 +186,7 @@ ohm
 oil
 oir
 ojo
-ola
-ole
 opa
-ora
 ori
 oro
 osa
@@ -258,18 +197,14 @@ ovo
 oxe
 paf
 pai
-pal
 pan
 pao
-par
 paz
 pea
 pel
 peo
-per
 pez
 phi
-pia
 pie
 pio
 ple
@@ -287,28 +222,18 @@ pus
 que
 qui
 raa
-rao
 ras
-rea
 red
-ren
 reo
 res
-rey
 rho
-ria
-rio
 roa
-rob
 rol
-ron
-ros
 rua
 ruc
 rus
 rut
 saa
-sal
 san
 sao
 saz
@@ -320,22 +245,14 @@ seo
 ser
 ses
 sic
-sil
 sin
 siu
-sol
-son
 sor
 sos
 sub
 sud
 sur
 sus
-tac
-tal
-tan
-tao
-tas
 tau
 taz
 tea
@@ -348,7 +265,6 @@ toa
 ton
 top
 tos
-tri
 tui
 tul
 tus
@@ -358,19 +274,15 @@ uce
 udo
 ufo
 uir
-una
 uno
 upa
 ura
 uro
 uru
 uso
-uta
 uto
 uva
-uve
 uzo
-val
 ver
 vez
 via
@@ -383,7 +295,6 @@ wat
 yac
 yak
 yal
-yen
 yol
 yos
 yuy
@@ -399,7 +310,6 @@ abaz
 abes
 abey
 abia
-abra
 abur
 acal
 acea
@@ -408,7 +318,6 @@ acme
 acne
 acre
 acta
-adan
 adir
 ador
 adra
@@ -417,7 +326,6 @@ adur
 aedo
 aeja
 aejo
-aera
 aero
 aeta
 afan
@@ -443,7 +351,6 @@ aire
 ajar
 ajea
 ajeo
-alan
 alar
 alba
 albo
@@ -456,16 +363,11 @@ algo
 algu
 alim
 alio
-alla
-alli
-alma
 almo
 alna
 alno
 aloa
 aloe
-alon
-alta
 alto
 alua
 alud
@@ -478,17 +380,13 @@ ambo
 amel
 amen
 amia
-amin
-amir
 amol
 amon
 amor
-amos
 ampo
 anal
 anay
 anca
-anda
 andu
 anea
 anfi
@@ -524,7 +422,6 @@ arar
 arca
 arce
 arco
-arda
 area
 arel
 ares
@@ -535,7 +432,6 @@ ario
 arlo
 arma
 arna
-aron
 arpa
 arra
 arre
@@ -568,8 +464,6 @@ auca
 auge
 aula
 aupa
-aura
-auto
 aval
 aves
 avio
@@ -580,7 +474,6 @@ axon
 ayer
 ayme
 ayua
-azar
 azoe
 azor
 azre
@@ -597,11 +490,8 @@ bago
 bail
 baja
 bajo
-bala
 baon
-bari
 basa
-base
 baso
 bata
 bato
@@ -614,7 +504,6 @@ bazo
 beca
 befa
 befo
-bela
 beso
 beta
 bezo
@@ -622,7 +511,6 @@ bide
 bien
 biga
 bija
-bina
 biso
 bita
 biza
@@ -633,7 +521,6 @@ bobo
 boca
 boda
 bode
-boer
 bofa
 bofe
 bofo
@@ -655,7 +542,6 @@ boza
 bozo
 braa
 brea
-bren
 brin
 brio
 broa
@@ -706,14 +592,9 @@ caon
 caos
 capa
 capi
-cara
-cari
-caro
 casa
-casi
 caso
 cata
-cate
 cato
 cava
 cavi
@@ -735,7 +616,6 @@ ceja
 ceje
 cejo
 cela
-cele
 celo
 cena
 ceni
@@ -746,10 +626,7 @@ cero
 cese
 ceso
 ceta
-chai
 chal
-chan
-chao
 chia
 chis
 choz
@@ -788,7 +665,6 @@ cogu
 coja
 cojo
 cola
-cole
 colo
 coma
 como
@@ -796,8 +672,6 @@ cono
 copa
 cope
 copo
-cora
-cori
 coro
 cosa
 coso
@@ -811,13 +685,10 @@ cras
 crea
 cria
 cric
-crin
 crio
-cris
 crua
 cruo
 crup
-cruz
 cual
 cuan
 cuar
@@ -854,12 +725,9 @@ dado
 daga
 dala
 dama
-data
 dato
 daza
 deal
-dean
-dear
 debe
 debo
 deca
@@ -873,10 +741,7 @@ dial
 diao
 diez
 dije
-dina
-dino
 dios
-dita
 dito
 diva
 divo
@@ -887,7 +752,6 @@ dogo
 dolo
 doma
 domo
-dona
 dond
 dote
 dria
@@ -911,7 +775,6 @@ duro
 ecua
 ecuo
 edad
-eden
 edil
 efod
 eira
@@ -919,19 +782,15 @@ elar
 eldo
 elfa
 elfo
-ella
-elle
 ello
 elmo
 emir
-ende
 enea
 eneo
 ense
 enta
 ente
 ento
-enza
 eque
 eral
 erar
@@ -939,7 +798,6 @@ ergo
 eria
 eril
 erio
-eros
 erre
 erro
 erzo
@@ -947,10 +805,8 @@ esas
 esca
 eser
 esos
-esta
 este
 esto
-etas
 eter
 euro
 evad
@@ -969,7 +825,6 @@ falo
 fama
 fame
 fano
-fara
 faro
 fase
 fata
@@ -993,13 +848,11 @@ fijo
 fila
 filo
 fimo
-fina
 fino
 fita
 fito
 flan
 fleo
-flor
 flux
 foca
 foco
@@ -1040,19 +893,16 @@ gafa
 gafo
 gaga
 gago
-gail
 gain
 gair
 gaje
 gajo
 gala
 galo
-gama
 gamo
 gana
 gano
 gaon
-garo
 gasa
 gata
 gato
@@ -1085,7 +935,6 @@ gran
 grao
 grea
 gres
-grey
 gris
 gros
 grua
@@ -1104,7 +953,6 @@ haba
 haca
 hada
 hado
-hala
 halo
 hamo
 hato
@@ -1112,7 +960,6 @@ havo
 haya
 hayo
 haza
-heda
 hedo
 heir
 heno
@@ -1160,7 +1007,6 @@ idem
 ideo
 idor
 idos
-idus
 ijar
 ileo
 iman
@@ -1168,11 +1014,9 @@ imba
 inca
 inda
 indo
-inga
 inri
 iota
 ipil
-iris
 isba
 isil
 isla
@@ -1185,8 +1029,6 @@ jaba
 jabi
 jaca
 jaco
-jada
-jade
 jaen
 jaez
 jaga
@@ -1218,9 +1060,7 @@ jora
 josa
 jota
 jote
-joya
 joyo
-juan
 juba
 jubo
 juez
@@ -1238,13 +1078,11 @@ kilo
 laar
 labe
 laca
-lada
 ladi
 lado
 lago
 laja
 lama
-lana
 lapa
 lapo
 lasa
@@ -1258,21 +1096,16 @@ laxa
 laxo
 laya
 lazo
-leal
 lear
-leda
 ledo
 leer
 lega
 lego
 leja
-lela
 lelo
 lema
 leme
-lena
 lene
-leon
 lepe
 lera
 lesa
@@ -1285,19 +1118,12 @@ liga
 ligu
 lija
 lijo
-lila
 lima
 limo
-lino
-lira
-lisa
 liso
-lita
 lite
-liza
 lizo
 llar
-loan
 loar
 loba
 lobo
@@ -1306,9 +1132,7 @@ loco
 lodo
 loma
 lomo
-lona
 loor
-lora
 lord
 loro
 losa
@@ -1320,12 +1144,9 @@ luco
 luda
 luee
 luir
-luis
 lujo
-lula
 luma
 luna
-lusa
 luso
 luto
 luva
@@ -1339,19 +1160,15 @@ maiu
 maiz
 maja
 majo
-mala
 malo
 mama
 mana
-mani
 mano
 mapa
 maro
-masa
 mata
 mate
 mato
-maya
 mayo
 maza
 mazo
@@ -1363,7 +1180,6 @@ medo
 mega
 mege
 mego
-mela
 mema
 memo
 mena
@@ -1374,25 +1190,20 @@ mere
 mero
 mesa
 mese
-meta
 meya
 miar
 miau
 mica
-mico
 mida
 miel
 mies
 miga
 mijo
 mili
-milo
 mimo
-mina
 mino
 mion
 mios
-mira
 misa
 mita
 mito
@@ -1413,10 +1224,7 @@ mole
 molo
 moma
 momo
-mona
 mono
-moon
-mora
 moro
 mota
 mote
@@ -1438,7 +1246,6 @@ muna
 muon
 mura
 muro
-musa
 muta
 muza
 muzo
@@ -1446,18 +1253,15 @@ naba
 nabi
 nabo
 naco
-nada
 nadi
 nado
 nafa
 nagu
 naja
-nana
 nano
 napa
 nasa
 naso
-nata
 nato
 nava
 nave
@@ -1472,9 +1276,7 @@ neon
 neta
 neto
 nexo
-nial
 nido
-niel
 niez
 nipa
 nito
@@ -1484,12 +1286,9 @@ noli
 noma
 nome
 nomo
-nona
 nono
-nora
 nota
 noto
-nova
 noxa
 noyo
 nube
@@ -1536,7 +1335,6 @@ onix
 onza
 opio
 oque
-oral
 orar
 orbe
 orbo
@@ -1600,7 +1398,6 @@ paso
 pata
 pate
 pato
-paul
 pava
 pavo
 paya
@@ -1630,7 +1427,6 @@ pepa
 pepe
 pepu
 pera
-peri
 pero
 peru
 pesa
@@ -1711,17 +1507,13 @@ rabi
 rabo
 rada
 raer
-rafa
 rafe
 rail
 rain
 raiz
-raja
 rala
 ralo
-rama
 ramo
-rana
 rano
 rapa
 rape
@@ -1735,35 +1527,26 @@ rato
 raya
 rayo
 raza
-real
 regu
 reir
 reis
 reja
 rejo
-remo
-rene
-reno
 repo
 reps
 rete
 reto
 rezo
 riba
-rica
-rico
 riel
 rifa
 rigu
 rija
 rijo
-rima
 rimo
 rimu
 rion
-risa
 riso
-rita
 rito
 riza
 rizo
@@ -1772,9 +1555,7 @@ roar
 robo
 roca
 roce
-roda
 rodo
-roel
 roer
 roge
 rogo
@@ -1784,17 +1565,14 @@ roma
 romi
 romo
 ropa
-rosa
 roso
 rota
 roto
-roya
 royo
 roza
 rozo
 ruan
 ruar
-rubi
 rubo
 ruca
 ruco
@@ -1841,7 +1619,6 @@ sebo
 seca
 sece
 seco
-seda
 sede
 seer
 sega
@@ -1849,7 +1626,6 @@ segu
 seis
 seje
 semi
-sena
 sene
 seno
 seor
@@ -1899,7 +1675,6 @@ suco
 sucu
 sueo
 sufi
-sula
 suma
 sumo
 sura
@@ -1925,11 +1700,8 @@ tala
 talo
 tamo
 tapa
-tara
 tasa
 tasi
-tata
-tate
 tato
 tatu
 taxi
@@ -1947,7 +1719,6 @@ tena
 tepe
 tepu
 tero
-tesa
 teso
 teta
 teya
@@ -1959,10 +1730,7 @@ tifo
 tigu
 tija
 tila
-tilo
 timo
-tina
-tino
 tipa
 tipo
 tira
@@ -1987,7 +1755,6 @@ tola
 tole
 tolo
 tolu
-toma
 tome
 tomo
 tona
@@ -2000,13 +1767,11 @@ toro
 tosa
 tose
 toti
-tova
 toza
 tozo
 tras
 tren
 treo
-tres
 tria
 trio
 tris
@@ -2061,7 +1826,6 @@ urca
 urce
 urea
 urna
-ursa
 usar
 usgo
 usia
@@ -2078,7 +1842,6 @@ vafo
 vaga
 vago
 vaho
-vale
 vali
 vals
 vana
@@ -2089,13 +1852,11 @@ vasa
 vaso
 vate
 vaya
-veda
 veer
 vega
 vela
 velo
 vena
-vera
 vero
 veta
 veto
@@ -2104,16 +1865,12 @@ vezo
 vial
 vice
 vico
-vida
 vide
 viga
 vilo
-vino
 vira
 viso
 visu
-vito
-viva
 vivo
 volt
 vosa
@@ -2126,7 +1883,6 @@ yapa
 yapu
 yare
 yaro
-yate
 yaya
 yayo
 yebo
@@ -2154,7 +1910,6 @@ zala
 zapa
 zape
 zapo
-zara
 zata
 zato
 zaya
@@ -2250,7 +2005,6 @@ acuta
 acuti
 acuto
 adala
-adara
 adaza
 adema
 ademe
@@ -2291,9 +2045,7 @@ afono
 aforo
 afrar
 afufa
-agace
 agape
-agata
 agave
 agaza
 agnus
@@ -2350,7 +2102,6 @@ alaju
 alala
 alama
 alamo
-alana
 alano
 alara
 alazo
@@ -2367,13 +2118,11 @@ alcuo
 aldea
 alear
 alece
-aleda
 aleja
 aleli
 alema
 alera
 alero
-aleta
 aleto
 aleve
 alevo
@@ -2391,7 +2140,6 @@ alhea
 alhoz
 aliar
 alias
-alica
 alier
 alifa
 alijo
@@ -2400,7 +2148,6 @@ alioj
 aliso
 aljez
 aljor
-allen
 almea
 almez
 almua
@@ -2421,12 +2168,10 @@ aluen
 alveo
 alzar
 amaar
-amada
 amado
 amago
 amala
 amalo
-amara
 amaro
 amate
 ambar
@@ -2474,7 +2219,6 @@ anejo
 aneto
 anexa
 anexo
-angel
 angla
 anglo
 angra
@@ -2492,7 +2236,6 @@ ansia
 antao
 antes
 antia
-anton
 antor
 antro
 anual
@@ -2614,7 +2357,6 @@ ascua
 asear
 asilo
 asina
-asmar
 asnal
 asomo
 aspar
@@ -2658,7 +2400,6 @@ augur
 aullo
 aunar
 aupar
-aurea
 aureo
 autan
 autor
@@ -2755,7 +2496,6 @@ bardo
 baria
 baril
 bario
-baron
 barra
 barro
 barza
@@ -2779,7 +2519,6 @@ bayal
 bayon
 bayua
 bazar
-beata
 beato
 bebda
 bebdo
@@ -2788,15 +2527,12 @@ bedel
 befar
 befre
 bejin
-belen
 beleo
 belez
 belfa
 belfo
 belga
 belio
-bella
-bello
 belua
 bembo
 bemol
@@ -2808,7 +2544,6 @@ berbi
 berma
 berra
 berro
-berta
 berza
 besar
 betel
@@ -2927,7 +2662,6 @@ bravo
 braza
 brazo
 breal
-brear
 breca
 brega
 brete
@@ -2957,7 +2691,6 @@ brujo
 bruma
 brumo
 bruna
-bruno
 bruta
 bruto
 bruza
@@ -3067,7 +2800,6 @@ caleo
 caler
 cales
 caliz
-calla
 calle
 callo
 calma
@@ -3094,7 +2826,6 @@ camua
 canal
 canco
 cande
-candi
 caney
 canez
 canga
@@ -3136,14 +2867,10 @@ cardo
 carea
 carel
 careo
-carey
 carga
 cargo
-caria
 cario
 cariz
-carla
-carlo
 carme
 carne
 carpa
@@ -3223,7 +2950,6 @@ celan
 celar
 celda
 celfo
-celia
 cella
 cello
 celta
@@ -3258,7 +2984,6 @@ cerpa
 cerra
 cerro
 certa
-cesar
 cesio
 cesta
 cesto
@@ -3282,7 +3007,6 @@ chano
 chapa
 chape
 chapo
-charo
 chata
 chato
 chaul
@@ -3301,7 +3025,6 @@ chesa
 cheso
 chiar
 chica
-chico
 chigu
 chile
 chimo
@@ -3387,7 +3110,6 @@ cizaa
 claco
 clamo
 clapa
-clara
 claro
 clase
 clava
@@ -3447,7 +3169,6 @@ cojez
 cojin
 colar
 coleo
-colin
 colla
 colmo
 colon
@@ -3483,7 +3204,6 @@ copta
 copto
 coque
 coqui
-coral
 coran
 corar
 coras
@@ -3628,7 +3348,6 @@ cuzma
 daada
 daado
 dable
-dacia
 dacio
 dador
 dagon
@@ -3638,15 +3357,12 @@ daina
 daino
 dajao
 dalgo
-dalia
 dalla
 dalle
-damil
 dance
 danes
 dango
 danta
-dante
 danto
 danza
 daosa
@@ -3659,7 +3375,6 @@ datar
 datil
 dauco
 dauda
-david
 debda
 debdo
 deber
@@ -3675,11 +3390,8 @@ deesa
 degaa
 dejar
 delga
-delia
 delio
-della
 dello
-delta
 demas
 dende
 deneb
@@ -3691,19 +3403,15 @@ desde
 deseo
 desga
 desio
-desta
 deste
 desto
 desus
 deuda
 deuto
-devan
 diado
-diana
 dicaz
 dicha
 dicho
-diego
 diesi
 dieta
 digna
@@ -3741,7 +3449,6 @@ donde
 doneo
 doral
 dorar
-doria
 dorio
 dorna
 dorso
@@ -3752,8 +3459,6 @@ dotar
 dotor
 draba
 draga
-drago
-drama
 drino
 driza
 droga
@@ -3773,7 +3478,6 @@ duelo
 duena
 dueto
 dular
-dulce
 dulia
 dunda
 dundo
@@ -3858,7 +3562,6 @@ ercer
 erebo
 ergio
 erial
-erina
 eriza
 erizo
 ermar
@@ -3880,7 +3583,6 @@ estao
 estar
 estas
 estay
-ester
 estil
 estio
 estol
@@ -3949,13 +3651,11 @@ faqui
 farad
 farda
 fardo
-fares
 faria
 fario
 farol
 faron
 farpa
-farra
 farro
 farsa
 farta
@@ -3980,7 +3680,6 @@ fecal
 fecha
 fecho
 feder
-fedor
 feeza
 feila
 feliz
@@ -4029,7 +3728,6 @@ figon
 fijar
 filar
 filfa
-filia
 filis
 fillo
 filon
@@ -4062,7 +3760,6 @@ fleme
 flete
 floja
 flojo
-flora
 flota
 flote
 fluir
@@ -4287,12 +3984,10 @@ gramo
 grana
 grand
 grano
-grant
 graon
 grapa
 grasa
 graso
-grata
 grato
 grava
 grave
@@ -4357,7 +4052,6 @@ guayo
 guban
 gubia
 guiar
-guido
 guifa
 guija
 guijo
@@ -4463,7 +4157,6 @@ holco
 honda
 hondo
 hongo
-honor
 honra
 hopeo
 hoque
@@ -4564,7 +4257,6 @@ islea
 isleo
 istmo
 itala
-italo
 itiva
 itivo
 itria
@@ -4619,7 +4311,6 @@ jerbo
 jerez
 jerga
 jerpa
-jesus
 jetar
 jeton
 jibia
@@ -4640,7 +4331,6 @@ jonia
 jonio
 jorco
 jorfe
-jorge
 jorro
 josue
 joule
@@ -4658,7 +4348,6 @@ juego
 juera
 jugar
 jujeo
-julio
 junco
 junio
 junta
@@ -4704,7 +4393,6 @@ lamin
 lampa
 lampo
 lanar
-lance
 landa
 lande
 lando
@@ -4756,11 +4444,9 @@ legaa
 legal
 legar
 legon
-legra
 legua
 leida
 leido
-leila
 leima
 lejar
 lejas
@@ -4776,7 +4462,6 @@ lenon
 lenta
 lente
 lento
-leona
 leosa
 leoso
 lepar
@@ -4813,8 +4498,6 @@ liceo
 licia
 licio
 licor
-lidia
-lidio
 liega
 liego
 lieva
@@ -4837,10 +4520,8 @@ limon
 linao
 linar
 lince
-linda
 linde
 lindo
-linea
 lineo
 linfa
 lingu
@@ -4909,11 +4590,8 @@ lonja
 lopez
 lorza
 losar
-lucas
 lucha
 luche
-lucia
-lucio
 lucir
 lucro
 ludia
@@ -4922,7 +4600,6 @@ ludir
 luego
 lugar
 lugre
-luisa
 lumbo
 lumia
 lunar
@@ -4973,7 +4650,6 @@ malla
 mallo
 malon
 malta
-malva
 mamar
 mamey
 mamia
@@ -4982,8 +4658,6 @@ mamut
 manar
 manca
 manco
-manda
-mandi
 mando
 manea
 manes
@@ -5003,35 +4677,26 @@ maque
 maqui
 maraa
 marca
-marco
 marea
 mareo
-marga
-maria
 maron
 marra
 marro
 marsa
 marso
-marta
 marte
 marzo
 masar
 masia
 maslo
-mason
 maste
 masto
 matar
 matiz
 maton
 maula
-maura
-maure
-mauro
 mayal
 mayar
-mayor
 mazar
 meada
 meaja
@@ -5053,10 +4718,8 @@ melca
 melga
 melgo
 melis
-mella
 melon
 melsa
-melva
 memez
 menar
 meneo
@@ -5072,7 +4735,6 @@ merar
 merca
 merey
 mergo
-merla
 merlo
 merma
 mesar
@@ -5083,7 +4745,6 @@ mesta
 mesto
 metad
 metal
-meter
 metra
 metro
 meyor
@@ -5096,9 +4757,7 @@ micra
 miedo
 miera
 migar
-milan
 milla
-millo
 milpa
 mimar
 minal
@@ -5178,7 +4837,6 @@ monis
 monja
 monje
 monta
-monte
 monto
 moona
 moral
@@ -5271,7 +4929,6 @@ nacre
 nadal
 nadar
 nadie
-nadir
 nafra
 nafta
 nagua
@@ -5280,7 +4937,6 @@ naipe
 naire
 nalca
 nalga
-nance
 nanga
 nango
 nansa
@@ -5299,7 +4955,6 @@ natia
 natio
 natri
 nauta
-naval
 navio
 nebel
 nebli
@@ -5328,7 +4983,6 @@ niazo
 nicho
 nicle
 nidal
-nidia
 nidio
 niear
 niego
@@ -5367,7 +5021,6 @@ nopal
 noque
 noray
 noria
-norma
 norte
 notar
 notro
@@ -5455,7 +5108,6 @@ opimo
 optar
 oraje
 orate
-orden
 ordeo
 orear
 oreja
@@ -5510,7 +5162,6 @@ oxear
 oxido
 ozona
 ozono
-pablo
 pacay
 pacea
 paceo
@@ -5579,7 +5230,6 @@ parca
 parce
 parco
 parda
-pardo
 pared
 pareo
 pargo
@@ -5617,7 +5267,6 @@ pauji
 pausa
 pauta
 paves
-pavia
 pavon
 pavor
 payar
@@ -5635,7 +5284,6 @@ pecho
 pecio
 pedal
 pedir
-pedro
 peedo
 peera
 pegar
@@ -5664,7 +5312,6 @@ pepon
 peral
 perca
 peris
-perla
 perna
 perno
 perol
@@ -5681,8 +5328,6 @@ pesol
 peste
 pesua
 pesuo
-petar
-petra
 peuco
 peumo
 pezon
@@ -5715,7 +5360,6 @@ pigra
 pigre
 pigro
 pihua
-pilar
 pilca
 pileo
 pilla
@@ -5929,7 +5573,6 @@ racha
 radal
 radar
 radia
-radio
 rafal
 rafez
 rafia
@@ -5945,10 +5588,8 @@ ramal
 ramea
 rameo
 ramio
-ramon
 rampa
 ranal
-randa
 rango
 rapar
 rapaz
@@ -6005,7 +5646,6 @@ regla
 rehen
 reida
 reido
-reina
 reino
 rejal
 rejon
@@ -6053,7 +5693,6 @@ rifar
 rifea
 rifeo
 rifle
-rigel
 rigor
 rigue
 rilar
@@ -6071,11 +5710,9 @@ rival
 rizal
 rizar
 rizon
-roana
 roano
 robar
 robda
-robin
 robla
 roble
 robra
@@ -6083,7 +5720,6 @@ robre
 rocha
 rocho
 rocin
-rocio
 rodal
 rodar
 rodas
@@ -6103,8 +5739,6 @@ rolar
 rolde
 roleo
 rolla
-rollo
-roman
 rombo
 romea
 romeo
@@ -6112,13 +5746,11 @@ romin
 ronca
 ronce
 ronco
-ronda
 rondo
 ronza
 roosa
 rooso
 ropon
-roque
 rorar
 rorro
 rosal
@@ -6133,7 +5765,6 @@ rotal
 rotar
 roten
 rotor
-royal
 rozar
 rozno
 rozon
@@ -6141,8 +5772,6 @@ ruana
 ruano
 rubea
 rubeo
-rubia
-rubin
 rubio
 rublo
 rubor
@@ -6214,7 +5843,6 @@ salia
 salin
 salio
 salir
-salma
 salmo
 salol
 salon
@@ -6226,8 +5854,6 @@ salud
 salva
 salve
 salvo
-saman
-samia
 samio
 sampa
 sanar
@@ -6290,8 +5916,6 @@ seico
 seise
 sello
 seltz
-selva
-semen
 semis
 senda
 senil
@@ -6339,11 +5963,9 @@ silex
 silfo
 silga
 silla
-silva
 simia
 simil
 simio
-simon
 simpa
 simun
 singa
@@ -6531,7 +6153,6 @@ tarta
 tasar
 tasca
 tasco
-tasia
 tasio
 tasto
 tatas
@@ -6598,7 +6219,6 @@ tiara
 tibar
 tibia
 tibio
-tibor
 tiesa
 tieso
 tifon
@@ -6696,12 +6316,10 @@ tormo
 torna
 torno
 torpe
-torre
 torso
 torta
 torva
 torvo
-tosca
 tosco
 toser
 total
@@ -6745,7 +6363,6 @@ tribu
 triga
 trigo
 trile
-trina
 trino
 tripa
 tripe
@@ -6886,7 +6503,6 @@ variz
 varon
 vasar
 vasca
-vasco
 vasta
 vasto
 vatio
@@ -6907,7 +6523,6 @@ vendo
 venia
 venir
 venta
-venus
 veras
 veraz
 verba
@@ -6937,7 +6552,6 @@ viduo
 viedo
 vieja
 viejo
-viera
 viero
 vieta
 vigia
@@ -6948,7 +6562,6 @@ vinal
 vinar
 vinco
 vinta
-viola
 virar
 vireo
 virgo
@@ -6965,7 +6578,6 @@ vison
 visor
 vista
 visto
-vital
 vitar
 vitor
 vitre
@@ -7038,7 +6650,6 @@ yunto
 yuras
 zabra
 zaceo
-zafar
 zafia
 zafio
 zafir
@@ -7275,7 +6886,6 @@ adeudo
 adiada
 adiado
 adiafa
-adiana
 adiano
 adicta
 adicto
@@ -7292,7 +6902,6 @@ adonai
 adonay
 adonde
 adonio
-adonis
 adorar
 adorno
 adosar
@@ -7300,7 +6909,6 @@ adrada
 adrado
 adrede
 adrezo
-adrian
 aduana
 aducar
 aducha
@@ -7496,12 +7104,10 @@ albala
 albalo
 albana
 albani
-albano
 albear
 albedo
 albera
 albero
-albina
 albino
 albita
 alboyo
@@ -7626,7 +7232,6 @@ aloeta
 alogar
 alojar
 alomar
-alonso
 aloque
 alosar
 alosna
@@ -7654,7 +7259,6 @@ alugar
 alumna
 alumno
 aluneb
-alvina
 alvino
 alzada
 alzado
@@ -7668,7 +7272,6 @@ amanar
 amante
 amarar
 amarga
-amargo
 amarra
 amarre
 amarro
@@ -7684,7 +7287,6 @@ amebeo
 amecer
 amelar
 amelga
-amelia
 amente
 amento
 amerar
@@ -7699,7 +7301,6 @@ amorfo
 amorio
 amover
 ampara
-amparo
 ampere
 amplia
 amplio
@@ -7735,7 +7336,6 @@ andino
 andito
 andola
 andona
-andres
 anduti
 aneaje
 anegar
@@ -7749,7 +7349,6 @@ anfion
 anfora
 angaro
 angazo
-angela
 angina
 angoja
 angora
@@ -7982,7 +7581,6 @@ artico
 artife
 artiga
 artina
-arturo
 aruazo
 arugas
 arveja
@@ -8125,7 +7723,6 @@ aurero
 aurica
 aurico
 auriga
-aurora
 ausgar
 austro
 autora
@@ -8387,8 +7984,6 @@ belido
 bembon
 benina
 benino
-benita
-benito
 benjui
 bentos
 benzol
@@ -8473,7 +8068,6 @@ bitume
 bizaza
 bizcar
 bizmar
-blanca
 blanco
 blanda
 blando
@@ -8492,7 +8086,6 @@ boarda
 bobada
 bobear
 bobera
-bobina
 bobota
 bobote
 bocaci
@@ -8557,7 +8150,6 @@ bonete
 bonica
 bonico
 bonina
-bonita
 bonito
 bonizo
 bonote
@@ -8639,7 +8231,6 @@ breoso
 breque
 bresca
 bretaa
-breton
 breval
 brezal
 briaga
@@ -8858,7 +8449,6 @@ calibe
 calibo
 calice
 calico
-calida
 calido
 califa
 caliga
@@ -8910,9 +8500,7 @@ camera
 camero
 camiar
 camica
-camilo
 camini
-camino
 camion
 camisa
 camita
@@ -8984,7 +8572,6 @@ cantua
 canuda
 canudo
 canula
-canute
 canuto
 caocal
 caolin
@@ -9038,7 +8625,6 @@ cardar
 cardea
 cardon
 carear
-carena
 carera
 carero
 careta
@@ -9052,11 +8638,7 @@ caribu
 caries
 carite
 carlan
-carlin
 carlon
-carlos
-carmel
-carmen
 carmes
 carmin
 carnal
@@ -9065,7 +8647,6 @@ carneo
 carnuz
 caroba
 caroca
-carola
 carolo
 carona
 caroto
@@ -9085,7 +8666,6 @@ carron
 carroo
 cartel
 carteo
-carter
 carton
 caruja
 caruru
@@ -9333,7 +8913,6 @@ chaque
 charal
 charca
 charco
-charla
 charol
 charpa
 charra
@@ -9823,7 +9402,6 @@ cripta
 crisis
 crisma
 crisol
-crista
 cristo
 croata
 cromar
@@ -9971,7 +9549,6 @@ dallar
 dallen
 damnar
 danesa
-danica
 danico
 danzar
 danzon
@@ -10018,7 +9595,6 @@ delant
 delate
 deleta
 deleto
-delfin
 deliar
 delito
 demias
@@ -10068,7 +9644,6 @@ detras
 deudor
 devant
 devesa
-devina
 devino
 devisa
 devota
@@ -10139,7 +9714,6 @@ doceal
 docena
 doceno
 doceta
-doctor
 doegal
 doigal
 dolada
@@ -10652,8 +10226,6 @@ fatiga
 fatimi
 faucal
 fauces
-fausta
-fausto
 fautor
 favila
 fayado
@@ -10663,7 +10235,6 @@ fechor
 fecial
 fecula
 fefaut
-felice
 felido
 felina
 felino
@@ -10754,7 +10325,6 @@ fiordo
 firmal
 firman
 firmar
-firmon
 fiscal
 fisgar
 fisgon
@@ -10841,8 +10411,6 @@ fragua
 fraile
 fraire
 framea
-franca
-franco
 frange
 franja
 fraque
@@ -11104,7 +10672,6 @@ geoide
 gepida
 gepido
 gercia
-german
 germen
 gestor
 getica
@@ -11132,7 +10699,6 @@ glasto
 glauca
 glauco
 global
-gloria
 glosar
 glotis
 gloton
@@ -11181,7 +10747,6 @@ gozosa
 gozoso
 gozque
 grabar
-gracia
 gracil
 gracir
 gradar
@@ -11390,7 +10955,6 @@ hejira
 helada
 helado
 helear
-helena
 heleno
 helera
 helero
@@ -11575,7 +11139,6 @@ icaria
 icario
 icorta
 icorto
-idalia
 idalio
 idilio
 idioma
@@ -11773,7 +11336,6 @@ jaulon
 jauria
 javera
 jayana
-jazmin
 jedive
 jedrea
 jehova
@@ -11815,7 +11377,6 @@ jollin
 jonica
 jonico
 jorcar
-jordan
 jornal
 joroba
 jorrar
@@ -11848,7 +11409,6 @@ juncea
 junceo
 juncia
 juncir
-junior
 juntar
 jurada
 jurado
@@ -11950,7 +11510,6 @@ latvio
 laucha
 laudar
 laurea
-laurel
 laureo
 lavabo
 lavada
@@ -12017,7 +11576,6 @@ letora
 letron
 letura
 leudar
-levada
 levita
 levosa
 lexica
@@ -12027,7 +11585,6 @@ liaton
 libela
 libelo
 libera
-libero
 libica
 libico
 libido
@@ -12128,7 +11685,6 @@ llueca
 lluvia
 loable
 loador
-loanda
 loanza
 lobada
 lobado
@@ -12187,7 +11743,6 @@ luchar
 lucida
 lucido
 lucilo
-lucina
 lucion
 lucrar
 lucuma
@@ -12293,7 +11848,6 @@ maleja
 malejo
 maleta
 maleza
-malina
 malino
 mallar
 maloca
@@ -12364,7 +11918,6 @@ marcar
 marcea
 marceo
 marcha
-marcia
 marcio
 mardal
 marear
@@ -12378,10 +11931,8 @@ margen
 marial
 marica
 marido
-marina
 marino
 mariol
-marion
 marjal
 marmol
 marmor
@@ -12393,7 +11944,6 @@ marras
 marron
 martel
 martes
-martin
 martir
 marzal
 marzas
@@ -12482,16 +12032,13 @@ melero
 melgar
 melica
 melico
-melina
 melino
 melion
-melisa
 melito
 mellar
 mellon
 meloja
 melojo
-melosa
 meloso
 melote
 memela
@@ -12515,7 +12062,6 @@ mentir
 mentis
 mentol
 menton
-mentor
 menuda
 menudo
 menuza
@@ -12528,7 +12074,6 @@ merina
 merino
 merita
 merito
-merlin
 merlon
 mermar
 merode
@@ -12574,7 +12119,6 @@ mijero
 milano
 mildeu
 mildiu
-milena
 mileno
 mileon
 miliar
@@ -12653,7 +12197,6 @@ mohina
 mohino
 mohosa
 mohoso
-moises
 mojada
 mojado
 mojama
@@ -12712,8 +12255,6 @@ morcon
 mordaz
 morder
 moreda
-morena
-moreno
 morera
 morfea
 morfeo
@@ -12870,7 +12411,6 @@ nemiga
 nemine
 nengun
 nepote
-nerita
 nervea
 nerveo
 nervio
@@ -13212,14 +12752,12 @@ pallas
 pallon
 palmar
 palmeo
-paloma
 palomo
 palote
 palpar
 palqui
 palude
 pambil
-pamela
 pamema
 pampon
 panace
@@ -13434,7 +12972,6 @@ peoria
 pepian
 pepino
 pepion
-pepita
 pepona
 pequea
 pequen
@@ -13900,7 +13437,6 @@ quinal
 quinao
 quince
 quinfa
-quinta
 quinto
 quinua
 quique
@@ -14317,8 +13853,6 @@ roldar
 roldon
 rollar
 rollon
-romana
-romano
 romaza
 rombal
 romera
@@ -14357,7 +13891,6 @@ rosera
 rosero
 roseta
 rosigo
-rosita
 rosoli
 rostir
 rostro
@@ -14389,7 +13922,6 @@ rugoso
 ruinar
 rujiar
 ruleta
-rumana
 rumano
 rumbar
 rumbon
@@ -14407,7 +13939,6 @@ rustir
 rustro
 rutena
 ruteno
-rutila
 rutilo
 rutina
 sabado
@@ -14422,7 +13953,6 @@ sabela
 sabicu
 sabida
 sabido
-sabina
 sabino
 sablon
 saboga
@@ -14469,14 +13999,12 @@ salica
 salico
 salida
 salido
-salina
 salino
 saliva
 sallar
 salmar
 salmer
 salmon
-saloma
 saltar
 saltea
 salteo
@@ -14486,7 +14014,6 @@ salute
 salvar
 salvia
 samago
-samara
 samuga
 samugo
 samuro
@@ -14494,7 +14021,6 @@ sancha
 sancho
 sancta
 sandez
-sandia
 sandio
 sanear
 sangre
@@ -14593,7 +14119,6 @@ seraje
 serano
 serato
 serbal
-serena
 sereni
 sereno
 serete
@@ -14739,7 +14264,6 @@ soleta
 solfeo
 solida
 solido
-solita
 solito
 solivo
 sollar
@@ -14821,7 +14345,6 @@ suizon
 sujeta
 sujeto
 sulcar
-sultan
 sumaca
 sumisa
 sumiso
@@ -14838,7 +14361,6 @@ surgir
 surtir
 surubi
 surupi
-susana
 susano
 susera
 susero
@@ -14848,7 +14370,6 @@ tabano
 tabica
 tabida
 tabido
-tabina
 tablar
 tableo
 tablon
@@ -14890,7 +14411,6 @@ taller
 tallon
 talmud
 talque
-tamara
 tambor
 tambre
 tameme
@@ -15027,7 +14547,6 @@ tercer
 tercia
 tercio
 terere
-teresa
 terete
 terigu
 terliz
@@ -15141,7 +14660,6 @@ tlazol
 toalla
 tobaja
 tobera
-tobias
 toboba
 tobosa
 toboso
@@ -15482,7 +15000,6 @@ vaiven
 valaca
 valaco
 valais
-valida
 valido
 valija
 vallar
@@ -15536,7 +15053,6 @@ velado
 velaje
 velera
 velero
-veleta
 velete
 velite
 vellon
@@ -15600,7 +15116,6 @@ vianda
 vibora
 vibrar
 viciar
-victor
 vidrio
 vidual
 vidueo
@@ -16393,7 +15908,6 @@ alaguna
 alambar
 alambor
 alambre
-alameda
 alamina
 alampar
 alancel
@@ -16748,7 +16262,6 @@ amencia
 amenosa
 amenoso
 amentar
-america
 americo
 amesnar
 amianta
@@ -17377,7 +16890,6 @@ atildar
 atincar
 atiplar
 atisbar
-atlante
 atochal
 atochar
 atochon
@@ -17431,8 +16943,6 @@ auditor
 augural
 augurar
 augurio
-augusta
-augusto
 aulagar
 aullido
 aumento
@@ -17658,7 +17168,6 @@ baratro
 barbada
 barbado
 barbaja
-barbara
 barbaro
 barbato
 barbaza
@@ -18410,11 +17919,9 @@ cambute
 cambuto
 camelar
 camelia
-camella
 camello
 camenal
 camibar
-camilla
 caminar
 camison
 camoati
@@ -18470,7 +17977,6 @@ candeal
 candeda
 candela
 candial
-candida
 candido
 candiel
 candray
@@ -18631,7 +18137,6 @@ cariado
 cariana
 caribal
 caricia
-caridad
 cariena
 carilla
 carillo
@@ -18644,9 +18149,6 @@ carisma
 caritan
 carlear
 carleta
-carlina
-carlita
-carlota
 carmesi
 carmeso
 carnada
@@ -18884,11 +18386,8 @@ celedon
 celemin
 celeque
 celerar
-celesta
-celeste
 celiaca
 celiaco
-celinda
 cellero
 celofan
 celosia
@@ -19121,7 +18620,6 @@ chepica
 chequen
 chercan
 chercha
-chester
 cheuron
 cheviot
 chibcha
@@ -19381,11 +18879,9 @@ clarens
 clarete
 clareza
 clarion
-clarisa
 clascal
 clasica
 clasico
-claudia
 clavada
 clavado
 clavera
@@ -19724,7 +19220,6 @@ cordilo
 cordita
 cordoba
 cordojo
-cordula
 cordura
 coreana
 coreano
@@ -19886,7 +19381,6 @@ crismar
 crismon
 crispar
 crispir
-cristal
 cristel
 cristus
 critica
@@ -20335,7 +19829,6 @@ dialogo
 dialtea
 diamela
 dianche
-diandra
 diandro
 diantre
 diaprea
@@ -20857,7 +20350,6 @@ enrejar
 enriada
 enriado
 enridar
-enrique
 enrizar
 enrocar
 enrodar
@@ -21642,7 +21134,6 @@ florera
 florero
 floreta
 florete
-florida
 florido
 fluente
 fluidez
@@ -21732,7 +21223,6 @@ frailar
 frailea
 fraileo
 frailia
-frances
 francia
 franela
 frangir
@@ -21857,7 +21347,6 @@ gacilla
 gaelica
 gaelico
 gaetana
-gaetano
 gafedad
 gagates
 gaguear
@@ -21897,7 +21386,6 @@ galgulo
 galiana
 galibar
 galilea
-galileo
 galillo
 galimar
 galinda
@@ -22038,7 +21526,6 @@ gazofia
 gemidor
 geminar
 geminis
-general
 generar
 genesis
 genesta
@@ -22061,8 +21548,6 @@ geotica
 geotico
 geranio
 gerente
-germana
-germano
 gestear
 gestera
 gestero
@@ -22083,7 +21568,6 @@ gineceo
 ginesta
 ginoves
 girador
-giralda
 girante
 girasol
 girofle
@@ -22126,7 +21610,6 @@ gomista
 gondola
 gorbion
 gorbiza
-gordana
 gordeza
 gordura
 gorgojo
@@ -22718,7 +22201,6 @@ incusar
 indagar
 indemne
 indiada
-indiana
 indiano
 indicar
 indicio
@@ -23009,7 +22491,6 @@ jugador
 jugante
 juglara
 juguete
-juliana
 juliano
 jumarse
 jumenta
@@ -23141,7 +22622,6 @@ lateria
 latinar
 latitar
 latitud
-latrina
 laudano
 laurear
 laurina
@@ -23230,7 +22710,6 @@ leproso
 lerense
 letania
 letargo
-leticia
 letigio
 letrada
 letrado
@@ -23650,7 +23129,6 @@ mantisa
 mantona
 mantuda
 mantudo
-manuela
 manzana
 manzano
 mapache
@@ -23681,8 +23159,6 @@ marfaga
 marfuza
 margosa
 margoso
-mariana
-mariano
 maricon
 maridal
 maridar
@@ -23718,7 +23194,6 @@ marsica
 marsico
 marsopa
 martelo
-martina
 marucho
 marullo
 mascada
@@ -23943,7 +23418,6 @@ minador
 mincion
 mineral
 mineria
-minerva
 mingaco
 minguar
 minimum
@@ -23956,16 +23430,13 @@ mioceno
 miolema
 miosota
 miquero
-mirabel
 mirable
 miraclo
 mirador
 miraglo
-miranda
 mirante
 mirasol
 miriada
-mirilla
 mirrada
 mirrado
 mirrast
@@ -24012,7 +23483,6 @@ modenes
 moderar
 moderna
 moderno
-modesta
 modesto
 modismo
 modista
@@ -24553,7 +24023,6 @@ oneroso
 onirica
 onirico
 oosfera
-opalina
 opalino
 opereta
 operosa
@@ -24868,7 +24337,6 @@ patrono
 patulea
 paturra
 paturro
-paulina
 pausada
 pausado
 pautada
@@ -24985,7 +24453,6 @@ penisla
 pensada
 pensado
 pensier
-pension
 pensosa
 pensoso
 penuria
@@ -25092,7 +24559,6 @@ petillo
 petrera
 petrosa
 petroso
-petunia
 peyorar
 pezpalo
 pezpita
@@ -25621,7 +25087,6 @@ quejura
 quemada
 quemado
 queresa
-querida
 querido
 quermes
 querube
@@ -25925,7 +25390,6 @@ refreir
 refriar
 refrita
 refrito
-refugio
 refutar
 regaada
 regaado
@@ -26267,7 +25731,6 @@ roanesa
 robador
 roberia
 robiano
-robinia
 robleda
 robledo
 robliza
@@ -26337,7 +25800,6 @@ rorante
 rorcual
 rosacea
 rosaceo
-rosario
 rosarse
 roscada
 roscado
@@ -26466,7 +25928,6 @@ salmear
 salmera
 salobre
 salomar
-salomon
 salpuga
 salsear
 salsera
@@ -26712,7 +26173,6 @@ sicosis
 sideral
 siderea
 sidereo
-sidonia
 sidonio
 siembra
 siempre
@@ -26748,7 +26208,6 @@ sillete
 sillico
 silonia
 silueta
-silvano
 silvosa
 silvoso
 simbolo
@@ -26831,7 +26290,6 @@ socavar
 socavon
 socolar
 socolor
-socorro
 socucho
 sodomia
 sofaldo
@@ -26855,7 +26313,6 @@ solapar
 solazar
 soldada
 soldado
-soledad
 solejar
 solemne
 soleria
@@ -28012,7 +27469,6 @@ vicaria
 vicario
 vicenal
 vicense
-vicente
 vichoca
 vichoco
 viciosa
@@ -28084,7 +27540,6 @@ vitacea
 vitaceo
 vitanda
 vitando
-vitoria
 vitrina
 viudita
 vivaque
@@ -29437,7 +28892,6 @@ andesina
 andesita
 andolina
 andorina
-andriana
 androceo
 androide
 anecdota
@@ -29448,7 +28902,6 @@ anexitis
 anfipodo
 anfiscia
 anfiscio
-angelica
 angelico
 angelito
 angelota
@@ -29534,8 +28987,6 @@ antojana
 antojera
 antonima
 antonimo
-antonina
-antonino
 antorcha
 antoviar
 antruejo
@@ -30003,7 +29454,6 @@ astricta
 astricto
 asturias
 asturion
-asuncion
 asurcada
 asurcado
 asurcana
@@ -30501,7 +29951,6 @@ benefica
 benefico
 benevola
 benevolo
-benjamin
 benzoica
 benzoico
 berberis
@@ -30511,7 +29960,6 @@ berceria
 berciana
 berciano
 berebere
-berenice
 bergadan
 bergante
 beriberi
@@ -30524,7 +29972,6 @@ bermejia
 bermejon
 bermejor
 bernarda
-bernardo
 bernegal
 berrenda
 berrendo
@@ -31420,7 +30867,6 @@ carneril
 carnicol
 carniola
 carochar
-carolina
 carolino
 caroncho
 carotida
@@ -31522,7 +30968,6 @@ catachin
 catadura
 catalana
 catalejo
-catalina
 catalogo
 catalufa
 cataluja
@@ -31875,7 +31320,6 @@ chingolo
 chipiron
 chiquear
 chiquero
-chiquita
 chiquito
 chircate
 chirigue
@@ -32082,7 +31526,6 @@ clavelon
 claveque
 claveria
 clavillo
-clemente
 clerecia
 clerical
 clerizon
@@ -32476,7 +31919,6 @@ consocio
 consolar
 consonar
 consorte
-consuelo
 consueta
 consueto
 consular
@@ -32750,7 +32192,6 @@ criojero
 crismera
 crisneja
 crisolar
-cristina
 cristino
 crisuela
 crisuelo
@@ -33516,7 +32957,6 @@ dintelar
 dintorno
 diocesal
 diocesis
-dionisia
 dioptria
 diostede
 dipetala
@@ -33625,7 +33065,6 @@ doloroso
 domadora
 domadura
 domeable
-dominica
 dominico
 dompedro
 donacion
@@ -33672,7 +33111,6 @@ ducietos
 duelista
 duenario
 dulceria
-dulcinea
 dulzaina
 dulzaino
 dulzorar
@@ -34764,7 +34202,6 @@ estregar
 estregon
 estreida
 estreido
-estrella
 estrenar
 estrenua
 estrenuo
@@ -35114,7 +34551,6 @@ filofaga
 filofago
 filologo
 filomela
-filomena
 filoseda
 filosofa
 filosofo
@@ -35944,7 +35380,6 @@ harinera
 harinero
 harinosa
 harinoso
-harmonia
 harmonio
 haronear
 harriero
@@ -36153,7 +35588,6 @@ horrenda
 horrendo
 horrible
 horridez
-hortense
 hospedar
 hospicio
 hospital
@@ -36676,7 +36110,6 @@ jornalar
 jorobada
 jorobado
 jorobeta
-josefina
 josefino
 jostrada
 jostrado
@@ -37229,7 +36662,6 @@ maganzon
 magnesia
 magnesio
 magnitud
-magnolia
 magrecer
 maguillo
 magullar
@@ -37793,7 +37225,6 @@ modelado
 modenesa
 moderada
 moderado
-modestia
 modillon
 modorrar
 modulosa
@@ -38067,7 +37498,6 @@ nalguear
 nambimba
 nanacate
 naochero
-napoleon
 naranjal
 narbones
 narceina
@@ -38756,7 +38186,6 @@ patojera
 patologo
 patraera
 patraero
-patricia
 patricio
 patriota
 patronal
@@ -39691,7 +39120,6 @@ quincena
 quinceno
 quinchar
 quinismo
-quintana
 quintaon
 quintero
 quinteto
@@ -40585,7 +40013,6 @@ saltarin
 salterio
 salumbre
 salvable
-salvador
 salvajez
 salvante
 salvedad
@@ -40622,7 +40049,6 @@ sanicula
 sanidina
 santelmo
 santeria
-santiago
 santidad
 santiguo
 santoesa
@@ -41991,7 +41417,6 @@ urinaria
 urinario
 urnicion
 urogallo
-ursulina
 uruguaya
 uruguayo
 usofruto
@@ -42033,8 +41458,6 @@ valedera
 valedero
 valedora
 valedura
-valencia
-valentia
 valenton
 valerosa
 valeroso
@@ -42196,7 +41619,6 @@ veridica
 veridico
 verilear
 veronesa
-veronica
 versatil
 verseria
 versista
@@ -42229,7 +41651,6 @@ vibratil
 vicedios
 vicesima
 vicesimo
-victoria
 vidalita
 vidorria
 vidriada
@@ -42287,7 +41708,6 @@ viravira
 virginal
 virginea
 virgineo
-virginia
 virigaza
 virotazo
 virreina
@@ -43640,7 +43060,6 @@ analogica
 analogico
 anarquica
 anarquico
-anastasia
 anastrofe
 anatomica
 anatomico
@@ -44725,7 +44144,6 @@ bellotero
 bendicera
 bendicion
 benditera
-benedicta
 beneficio
 benimerin
 benjamita
@@ -45537,8 +44955,6 @@ caristias
 carlancon
 carlincho
 carmacion
-carmelina
-carmelita
 carmesita
 carminita
 carminosa
@@ -45760,7 +45176,6 @@ celeraria
 celerario
 celeridad
 celestial
-celestina
 celestino
 celidonia
 cellerizo
@@ -46442,7 +45857,6 @@ concoidea
 concoideo
 concolega
 concordar
-concordia
 concovada
 concovado
 concreada
@@ -48812,7 +48226,6 @@ esmaltina
 esmectica
 esmectico
 esmerador
-esmeralda
 esmerejon
 esmerilar
 esmilacea
@@ -49438,7 +48851,6 @@ flocadura
 floqueada
 floqueado
 floracion
-florencia
 florentin
 florescer
 floretada
@@ -49567,8 +48979,6 @@ franchota
 franchote
 franchuta
 franchute
-francisca
-francisco
 francolin
 frangente
 frangible
@@ -49859,7 +49269,6 @@ geonomica
 geonomico
 geoponica
 geoponico
-georgiana
 georgiano
 geriatria
 gerifalco
@@ -50426,7 +49835,6 @@ hortaleza
 hortaliza
 hortelana
 hortelano
-hortensia
 hortolano
 hospedaje
 hospedera
@@ -51390,7 +50798,6 @@ maestrear
 maestresa
 magancear
 maganzona
-magdalena
 magdaleon
 magistral
 magnanima
@@ -51595,7 +51002,6 @@ maremagno
 margajita
 margallon
 margarina
-margarita
 marginada
 marginado
 maridable
@@ -52195,7 +51601,6 @@ natalicio
 natalidad
 natatoria
 natatorio
-natividad
 naturismo
 naturista
 naufragar
@@ -53729,7 +53134,6 @@ quintaona
 quinteria
 quinterna
 quinterno
-quintilla
 quintillo
 quintupla
 quintuplo
@@ -54045,7 +53449,6 @@ remendado
 remendona
 remilgada
 remilgado
-remington
 remisible
 remisoria
 remisorio
@@ -54637,7 +54040,6 @@ satinador
 satirizar
 saturable
 saturnina
-saturnino
 sauquillo
 saxifraga
 sayaguesa
@@ -55955,7 +55357,6 @@ vagotonia
 vagueante
 vaivenear
 valdepeas
-valentina
 valentino
 valentona
 valeriana
@@ -58096,7 +57497,6 @@ bermejenca
 bermejenco
 bermejuela
 bermejuelo
-bernardina
 berrenchin
 besalamano
 bestezuela
@@ -59161,7 +58561,6 @@ clausulada
 clausulado
 clavellina
 clavicular
-clementina
 cleptomana
 cleptomano
 clerigalla
@@ -59373,7 +58772,6 @@ concebible
 concedente
 concejalia
 concentrar
-concepcion
 conceptear
 conceptiva
 conceptivo
@@ -59509,7 +58907,6 @@ consolante
 consolidar
 consonante
 conspirado
-constancia
 consternar
 constipada
 constipado
@@ -62184,7 +61581,6 @@ ferecracio
 fermentada
 fermentado
 fernambuco
-fernandina
 fernandino
 ferozmente
 ferreruelo
@@ -62268,7 +61664,6 @@ flogistica
 flogistico
 flojamente
 florecedor
-florentina
 florentino
 florestero
 floretista
@@ -66268,7 +65663,6 @@ saturnismo
 saudamente
 saxifragia
 sazonadora
-sebastiano
 secamiento
 secretaria
 secretario
@@ -67947,7 +67341,6 @@ alcuzcucero
 alebronarse
 alegremente
 alejamiento
-alejandrina
 alejandrino
 alelamiento
 alertamente
@@ -71558,7 +70951,6 @@ eutropelico
 evacuatoria
 evacuatorio
 evanescente
-evangelista
 evangelizar
 evaporacion
 evolucionar

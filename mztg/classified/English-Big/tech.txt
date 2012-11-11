@@ -1,5 +1,4 @@
 # from a technical dictionary (original source unknown)
-###############################################################################
 abelite
 abhesive
 ablator
@@ -324,7 +323,6 @@ allelopathy
 allelotoxin
 allelotropism
 allemontite
-allene
 allevardite
 alliaceous
 allidochlor
@@ -469,7 +467,6 @@ amido
 amidohydrolase
 amidol
 amidourea
-amin
 amination
 aminiform
 aminoanthraquinone
@@ -611,7 +608,6 @@ aulodont
 aulophyte
 auramine
 aurantia
-aurelia
 aurichalcite
 ausforging
 ausforming
@@ -679,7 +675,6 @@ bandylite
 barberite
 barchan
 barchane
-barney
 baroclinic
 barotropic
 barranca
@@ -736,7 +731,6 @@ binate
 binche
 binderless
 bindheimite
-bing
 binistor
 binode
 binomen
@@ -906,7 +900,6 @@ blacktongue
 bladed
 blairmorite
 blakeite
-blanca
 blandel
 blankholder
 blaster
@@ -1217,7 +1210,6 @@ carene
 carination
 carinii
 cariostatic
-carling
 carlings
 carminite
 carnallite
@@ -1582,7 +1574,6 @@ cyclothem
 cytokine
 cytometry
 dacite
-dalton
 dayglow
 debye
 decaborane
@@ -1999,7 +1990,6 @@ dimictic
 dimmerfoehn
 dimorphite
 dimuon
-dina
 dinitroaniline
 dinitrobenzene
 dinitrobenzoic
@@ -2017,7 +2007,6 @@ dioecious
 diogenite
 dioic
 diolefin
-dione
 diophantine
 diopside
 dioptase
@@ -2978,7 +2967,6 @@ hornbeam
 hornblende
 hornblendite
 hornfels
-horst
 howardite
 howlite
 hudsonite
@@ -3338,10 +3326,8 @@ logomania
 logwood
 loktal
 lollingite
-lolly
 lophophore
 loricate
-loris
 loxodont
 loxodrome
 loxodromic
@@ -4463,7 +4449,6 @@ stator
 staurolite
 steatization
 steelmaking
-steen
 stele
 stenode
 stenohaline

@@ -3,12 +3,10 @@ shum
 VIII
 ibni
 Pulu
-Thea
 Amel
 ukin
 zeri
 Nabu
-Nero
 Neos
 Kings
 Titus
@@ -17,14 +15,12 @@ Kings
 Soter
 kings
 Poros
-Roman
 Egypt
 kings
 Nerva
 Gaius
 kings
 Great
-Cyrus
 mukin
 Ochus
 Arses
@@ -37,8 +33,6 @@ Nergal
 Nadios
 Trajan
 Sargon
-Xerxes
-Philip
 iddina
 Ululas
 Darius
@@ -70,10 +64,8 @@ SargonII
 Nabonidus
 Iloulaios
 PhilipIII
-Cleopatra
 Vespasian
 Ptolemies
-Alexander
 Kandalanu
 DariusIII
 Epiphanes

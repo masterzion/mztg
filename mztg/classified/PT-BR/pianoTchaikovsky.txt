@@ -16,14 +16,12 @@ Asestacoes
 assai
 Atempestade
 atos
-Avril
 Baba
 balada
 bale
 baleem4atos
 barberie
 Barcarolle
-Bela
 bemol
 Berceuse
 bleuette
@@ -45,7 +43,6 @@ Chanson
 Chant
 chasse
 chateau
-cher
 Chopin
 cinq
 Cisnes
@@ -98,7 +95,6 @@ Espadas
 estacoes
 Etude
 EtudeSolmaior
-Eugene
 EugeneOnegin
 faciles
 fantasia
@@ -110,10 +106,8 @@ Feuillet
 fevereiro
 Fevrier
 Finale
-Florence
 francaise
 francesas
-Francesca
 Fugue
 funebre
 fuoco
@@ -141,7 +135,6 @@ italienne
 Jaga
 janeiro
 Janvier
-Joao
 Juillet
 Juin
 julho
@@ -165,7 +158,6 @@ Manfredo
 Marcha
 Marche
 Marches
-marco
 Mars
 matin
 Mazurka
@@ -175,7 +167,6 @@ MazurkaRemenor
 Mazurque
 Meditation
 melancolica
-Melodie
 menor
 Menuetto
 Moderato
@@ -193,7 +184,6 @@ napolitaine
 Nathavalse
 neve
 Nocturne
-Noel
 nouvelle
 Novembre
 novembro

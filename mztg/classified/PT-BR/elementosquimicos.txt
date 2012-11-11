@@ -85,7 +85,6 @@ Praseodimio
 Prata
 Promecio
 Protactinio
-Radio
 Radon
 Renio
 Rodio
@@ -106,7 +105,6 @@ Telurio
 Terbio
 Titanio
 Torio
-Tulio
 Tungstenio
 Ununbio
 Ununoctio

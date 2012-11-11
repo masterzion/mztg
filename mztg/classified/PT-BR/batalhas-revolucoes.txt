@@ -1,17 +1,14 @@
 Abrito
-Adolfo
 Afonso
 Agincourt
 AinJalut
 Alarcos
-Albrecht
 Alcacer
 AlcacerQuibir
 Alcantara
 Alfarrobeira
 Aljubarrota
 Almoster
-AlpArslan
 Alvalade
 Ameixial
 Americana
@@ -23,7 +20,6 @@ armada
 armadaCrista
 Arouca
 Arslan
-Asia
 AsiaMenor
 Asseiceira
 Ataque
@@ -60,12 +56,10 @@ coligacaonazi
 Comandando
 Compiegne
 Condado
-Constantino
 ConstantinoI
 Corpo
 Covadonga
 Cravos
-Crista
 Cubana
 Cultural
 DAfonsoIV
@@ -90,7 +84,6 @@ Fogueira
 Francesa
 frota
 Gabbar
-General
 GeneralJunot
 Genghis
 GenghisKhan
@@ -100,7 +93,6 @@ Guadalete
 Guararapes
 Guerra
 Guerras
-Gustavo
 GustavoAdolfo
 Harbor
 Hastings
@@ -111,12 +103,10 @@ Hulagu
 Imperio
 Industrial
 inglesa
-Isabel
 IwoJima
 Jalut
 Jebe
 Jima
-Jorge
 Junot
 Kalka
 Kentish
@@ -156,11 +146,9 @@ Mundial
 Napoleao
 Navas
 NavasdeTolosa
-nazi
 Nehavend
 Nicopolis
 Normandia
-Nuno
 NunoMendes
 Okinawa
 Operacao
@@ -169,9 +157,7 @@ Orbigo
 Ourique
 Palestina
 Paraguai
-Pearl
 PearlHarbor
-Pedro
 Pedroso
 Plymouth
 Ponte
@@ -201,7 +187,6 @@ rioSit
 rioTerek
 rioUgra
 rioVorskla
-Rodrigo
 Russa
 Salado
 Santa
@@ -231,7 +216,6 @@ Valverde
 Varna
 Viking
 Vimeiro
-Vladimir
 VladimirSuzdal
 Vliestroom
 Vorskla

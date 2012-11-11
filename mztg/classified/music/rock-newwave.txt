@@ -1,4 +1,3 @@
-Adam
 Army
 B52s
 Band
@@ -17,7 +16,6 @@ Heat
 INXS
 Kino
 Mode
-Nina
 Ones
 Only
 Rats
@@ -25,7 +23,6 @@ Rome
 Rude
 Sexy
 Soft
-Ting
 Taxi
 Vive
 Wall
@@ -33,7 +30,6 @@ Wham
 When
 Work
 Xmal
-Zero
 After
 Agent
 Aztec
@@ -48,7 +44,6 @@ Flock
 Gurus
 Hagen
 Human
-Japan
 Knack
 LaLey
 Metrô
@@ -95,15 +90,12 @@ Voodoo
 AdamAnt
 Arcadia
 Bizarre
-Blondie
 Buggles
 Council
 Culture
 Depeche
 English
 Erasure
-Frankie
-Katrina
 LeTigre
 Madness
 Nervous
@@ -126,7 +118,6 @@ NewOrder
 OnlyOnes
 Polysics
 Pontapes
-Robinson
 Seagulls
 Siouxsie
 SoftCell

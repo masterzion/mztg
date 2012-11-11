@@ -18,7 +18,7 @@ object frmHeuristic: TfrmHeuristic
     MaxValue = 20
     MinValue = 5
     TabOrder = 0
-    Value = 5
+    Value = 6
   end
   object spedtMaxWordListSize: TSpinEdit
     Left = 48
@@ -33,7 +33,7 @@ object frmHeuristic: TfrmHeuristic
   object spedtMinWordCountList: TSpinEdit
     Left = 48
     Height = 23
-    Top = 146
+    Top = 144
     Width = 106
     MaxValue = 999
     MinValue = 9

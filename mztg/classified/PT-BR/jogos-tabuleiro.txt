@@ -2,7 +2,6 @@ Abalone
 Academia
 acao
 Acquire
-Action
 Advanced
 AgeofConan
 Agricola
@@ -23,14 +22,11 @@ Batalhanaval
 BattleStar
 Boggle
 Bohnanza
-Candy
 CandyLand
 Can't
 Can'tStop
-Cara
 CaraaCara
 Carcassonne
-Careers
 Caroms
 Catan
 Caylus
@@ -53,7 +49,6 @@ Damas
 Deadly
 Detetive
 Diplomacia
-Doctor
 Dracula
 Elfenland
 ElGrande
@@ -61,12 +56,10 @@ Escadas
 espanhol
 Euphrat
 Fanorona
-Field
 Five
 Flames
 FlamesofWar
 forca
-France
 France1940
 Fury
 Galactica
@@ -98,7 +91,6 @@ Lines
 Linha
 Lost
 LostCities
-Lucky
 Ludo
 LudoReal
 Mancala
@@ -109,7 +101,6 @@ Memoir44
 Mimics
 Moinho
 Monopolio
-naval
 Ninuki
 Ninukirenju
 Option
@@ -125,7 +116,6 @@ Pente
 Perfil
 Phutball
 Pictionary
-Power
 PowerGrid
 Puerto
 PuertoRico
@@ -133,17 +123,14 @@ Pursuit
 Quatro
 QuatroLinha
 Quoridor
-Real
 Reich
 Renju
 Reversi
-Rico
 Risk
 Scotland
 ScotlandYard
 Scrabble
 Senha
-Seven
 Sins
 Sorry
 Squad
@@ -167,7 +154,6 @@ Trivial
 Twister
 Upwords
 velha
-Vida
 Vinhos
 Were
 What

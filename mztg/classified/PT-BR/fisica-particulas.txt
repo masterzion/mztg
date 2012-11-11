@@ -8,7 +8,6 @@ Bosons
 Electrao
 Eletron
 Eletronneutrino
-gama
 Gluao
 hidrogenio
 Kaon

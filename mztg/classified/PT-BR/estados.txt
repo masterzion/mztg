@@ -7,7 +7,6 @@ Ceara
 DistritoFederal
 EspiritoSanto
 Goias
-Maranhao
 MatoGrosso
 MatoGrossodoSul
 MinasGerais

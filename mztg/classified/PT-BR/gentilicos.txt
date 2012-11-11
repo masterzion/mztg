@@ -22,7 +22,6 @@ alfredense
 aliancense
 almadinense
 almense
-alta
 altense
 alto
 altoalegrense
@@ -32,7 +31,6 @@ alvoradense
 amajariense
 amambaiense
 amargosense
-amelia
 anadiense
 anajeense
 ananaense
@@ -108,7 +106,6 @@ belense
 belo
 belorizontino
 belterrense
-benjamin
 blumenauense
 boavistense
 bocacrense
@@ -195,7 +192,6 @@ coruripense
 coxinense
 craibense
 Criciumense
-cruz
 cruzalmense
 cruzeirense
 cruzense
@@ -345,11 +341,8 @@ jesusense
 jiparanaense
 joacabense
 joanense
-joao
 joaoneivense
 joinvilense
-jorge
-jose
 josefense
 joselandense
 juazeirense
@@ -391,7 +384,6 @@ manauara
 manauense
 mancio
 manciolimense
-manuel
 manuelemidiano
 maracajuense
 maragojiense
@@ -413,7 +405,6 @@ miracemense
 mirense
 mirinense
 mocoroense
-monte
 montealegrense
 morenense
 morrinhense
@@ -432,7 +423,6 @@ nobrense
 normandiense
 norte
 nortense
-nova
 novaolindense
 novaromano
 novense
@@ -474,7 +464,6 @@ pauiniense
 paulistano
 paulistense
 paulivense
-paulo
 pauloafonsino
 pavoense
 pedrense
@@ -532,9 +521,7 @@ ritense
 rodriguense
 rolim
 rolimmourense
-romano
 rondoniano
-rosa
 rosariense
 roteirense
 rulopolense
@@ -560,12 +547,10 @@ saracaense
 satubense
 seense
 segurense
-sena
 sento
 sentoseense
 sequense
 sergipense
-serra
 serragrandense
 serranaviense
 serrano
@@ -609,7 +594,6 @@ teresinense
 timboense
 timonense
 torrense
-tres
 treslagoense
 treze
 trezemaiense
@@ -637,7 +621,6 @@ verde
 verdense
 vianopolino
 vicentinense
-vicentino
 vicosense
 videirense
 vila

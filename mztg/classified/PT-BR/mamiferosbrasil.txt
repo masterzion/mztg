@@ -21,7 +21,6 @@ albispinus
 albiventris
 albus
 alecto
-aleta
 alienus
 Alouatta
 Alouattafusca
@@ -67,7 +66,6 @@ australis
 auyantepui
 Axis
 Axisaxis
-Ayres
 ayresi
 azarae
 azul
@@ -82,7 +80,6 @@ Baleiasei
 bandeira
 banhado
 baptista
-barbara
 barrigudo
 Bassaricyon
 beddardi
@@ -178,7 +175,6 @@ canescens
 Cangamba
 caparaoe
 Capivara
-cara
 caraccioli
 caraya
 carcinophagus
@@ -324,10 +320,8 @@ edeni
 egregius
 Eira
 Eirabarbara
-electra
 eliasi
 eliurus
-Elliot
 elongatus
 emiliae
 emmonsae
@@ -358,9 +352,7 @@ flavius
 flaviventer
 flavus
 fluviatilis
-franca
 Franciscana
-fraser
 frenata
 frenatus
 fulgida
@@ -414,7 +406,6 @@ Graomys
 gratiosus
 Graxaim
 Graxaimdomato
-Gray
 grayi
 griseoflavus
 griseus
@@ -434,7 +425,6 @@ gymnura
 hansae
 hastatus
 helleri
-Hernandez
 Herpailurus
 Hershkovitz
 hirsuta
@@ -500,7 +490,6 @@ Kannabateomys
 kappleri
 karimii
 Kerodon
-kerri
 Kobayashi
 Krauss
 Kuhl
@@ -626,7 +615,6 @@ Mesomys
 Mesophylla
 Mesoplodon
 Metachirus
-Mico
 Micodecheiro
 Micodegoeldi
 Micoemiliae
@@ -683,7 +671,6 @@ Myotisruber
 Myotissimus
 Myrmecophaga
 mystax
-nana
 nancymaae
 nariz
 naso
@@ -775,7 +762,6 @@ pardalis
 paricola
 parnellii
 parvidens
-Patton
 pattoni
 paulensis
 peba
@@ -874,10 +860,8 @@ Ratodotelhado
 Ratopreto
 Rattus
 Rattusrattus
-real
 recifinus
 REDIRECT
-regina
 regulus
 reigi
 Rhagomys
@@ -892,8 +876,6 @@ robustus
 rondoni
 Roosmalen
 roosmalenorum
-rosa
-rosalia
 rotador
 rotundus
 ruber
@@ -935,16 +917,13 @@ Scolomys
 scrofa
 scutatus
 semistriatus
-Sena
 seniculus
 septemcinctus
-serra
 serrensis
 setosus
 seuanezi
 sexcinctus
 Sigmodon
-Silva
 silvicolum
 simonsi
 simplex
@@ -1007,8 +986,6 @@ testa
 tetradactyla
 Thalpomys
 Thaptomys
-theresa
-Thomas
 thomasi
 thous
 Thrichomys
@@ -1026,7 +1003,6 @@ torquatus
 toxophyllum
 Trachops
 transitorius
-tres
 Trichechus
 tricinctus
 tricolor

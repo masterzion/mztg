@@ -23,7 +23,6 @@ MICEX
 MICEXRTS
 NASDAQ
 NASDAQOMX
-National
 NationalofIndia
 NationalStockofIndia
 NYSE
@@ -35,7 +34,6 @@ Shenzhen
 ShenzhenStock
 SIXSwiss
 Spanish
-Stock
 Swiss
 Tokyo
 TokyoStock

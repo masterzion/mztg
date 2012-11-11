@@ -5,7 +5,6 @@ Foot
 Hemp
 Hill
 Papa
-Park
 Rock
 Talk
 Town
@@ -31,7 +30,6 @@ Strike
 Tribal
 Undead
 Weasel
-Charlie
 Cypress
 Flobots
 KidRock

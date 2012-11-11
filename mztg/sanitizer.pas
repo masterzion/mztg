@@ -16,18 +16,23 @@ type
     ImageList1: TImageList;
     Label1: TLabel;
     Label2: TLabel;
+    OpenDialog1: TOpenDialog;
     Panel2: TPanel;
     ReplaceDialog1: TReplaceDialog;
     SaveDialog1: TSaveDialog;
     speditMax: TSpinEdit;
     speditMin: TSpinEdit;
     Memo1: TSynEdit;
+    StatusBar1: TStatusBar;
     SynMacroRecorder1: TSynMacroRecorder;
     ToolBar1: TToolBar;
     ToolButton1: TToolButton;
     ToolButton10: TToolButton;
     ToolButton11: TToolButton;
     ToolButton12: TToolButton;
+    ToolButton13: TToolButton;
+    ToolButton14: TToolButton;
+    ToolButton15: TToolButton;
     ToolButton2: TToolButton;
     ToolButton3: TToolButton;
     ToolButton4: TToolButton;
@@ -37,12 +42,19 @@ type
     ToolButton8: TToolButton;
     ToolButton9: TToolButton;
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormCreate(Sender: TObject);
+    procedure Memo1Change(Sender: TObject);
+    procedure Memo1Click(Sender: TObject);
     procedure Memo1KeyDown(Sender: TObject; var Key: Word; Shift: TShiftState);
     procedure ReplaceDialog1Find(Sender: TObject);
     procedure ReplaceDialog1Replace(Sender: TObject);
+    procedure speditMaxChange(Sender: TObject);
+    procedure speditMinChange(Sender: TObject);
     procedure SynMacroRecorder1StateChange(Sender: TObject);
     procedure ToolButton11Click(Sender: TObject);
     procedure ToolButton12Click(Sender: TObject);
+    procedure ToolButton13Click(Sender: TObject);
+    procedure ToolButton15Click(Sender: TObject);
     procedure ToolButton1Click(Sender: TObject);
     procedure ToolButton2Click(Sender: TObject);
     procedure ToolButton3Click(Sender: TObject);
@@ -60,7 +72,7 @@ var
   frmSanitizer: TfrmSanitizer;
 
 implementation
-uses apputils;
+uses apputils, main;
 {$R *.lfm}
 
 { TfrmSanitizer }
@@ -72,12 +84,30 @@ begin
   CloseAction:= caFree;
 end;
 
+procedure TfrmSanitizer.FormCreate(Sender: TObject);
+begin
+   LoadTranslation( frmMain.strPath+'lang'+PathDelim+frmMain.strLang+PathDelim , frmSanitizer);
+//     WriteTranslation( frmMain.strPath+'lang'+PathDelim+frmMain.strLang+PathDelim , frmSanitizer);
+end;
+
+procedure TfrmSanitizer.Memo1Change(Sender: TObject);
+begin
+  StatusBar1.Panels[0].Text:= 'Lines: '+IntToStr(Memo1.Lines.Count);
+end;
+
+procedure TfrmSanitizer.Memo1Click(Sender: TObject);
+begin
+   StatusBar1.Panels[1].Text:= 'Row: '+IntToStr(Memo1.CaretX)+ '  Col: '+IntToStr(Memo1.CaretY);
+end;
+
 
 procedure TfrmSanitizer.Memo1KeyDown(Sender: TObject; var Key: Word;
   Shift: TShiftState);
 begin
   if (Key = LCLType.VK_F) and (ssCtrl in Shift) then ToolButton3.Click;
   if (Key = LCLType.VK_F3) then ReplaceDialog1Find(Self);
+
+   StatusBar1.Panels[1].Text:= 'Row: '+IntToStr(Memo1.CaretX)+ '  Col: '+IntToStr(Memo1.CaretY);
 end;
 
 
@@ -115,6 +145,19 @@ begin
   Memo1.Lines.Text := sTemp
 end;
 
+procedure TfrmSanitizer.speditMaxChange(Sender: TObject);
+begin
+  speditMin.MaxValue := speditMax.Value;
+  if speditMin.Value > speditMin.MaxValue then speditMin.Value := speditMin.MinValue;
+  Memo1.RightEdge:= speditMax.Value;
+end;
+
+procedure TfrmSanitizer.speditMinChange(Sender: TObject);
+begin
+  speditMax.MinValue := speditMin.Value;
+  if speditMax.Value < speditMax.MinValue then speditMax.Value := speditMax.MinValue;
+end;
+
 procedure TfrmSanitizer.SynMacroRecorder1StateChange(Sender: TObject);
 begin
   if SynMacroRecorder1.State = msStopped then
@@ -136,7 +179,7 @@ var
 begin
 MaxExec := Memo1.Lines.Count * 3;
 Count := 0;
-
+Memo1.Lines.BeginUpdate;
 if Memo1.Lines.Count > 0 then
    while (Memo1.Carety <> Memo1.Lines.Count ) do begin
      if ( Count > MaxExec  ) then begin
@@ -147,9 +190,42 @@ if Memo1.Lines.Count > 0 then
         SynMacroRecorder1.PlaybackMacro(Memo1);
         Count +=1;
      end;
+end;
+Memo1.Lines.EndUpdate;
+end;
 
+procedure TfrmSanitizer.ToolButton13Click(Sender: TObject);
+Var
+  List : TStringList;
+  n1, n2 : integer;
+  stemp, stemp2 : string;
+begin
+  if ( OpenDialog1.Execute ) then
+       if (OpenDialog1.FileName <> '') then begin
+           List := TStringList.Create();
+           List.LoadFromFile(OpenDialog1.FileName);
+           Memo1.Lines.BeginUpdate;
+           for n1 :=  Memo1.Lines.Count-1 downto 0 do begin
+               stemp := Memo1.Lines[n1];
+               if (stemp <> '') then
+                  for n2 := List.Count-1 downto 0 do begin
+                      stemp2 := List.Strings[n2];
+                      if stemp2 <> '' then
+                         if lowercase(stemp) = lowercase(stemp2) then
+                            Memo1.Lines.Delete(n1);
+                  end;
+               Application.ProcessMessages;
+           end;
+           List.Free();
+           Memo1.Lines.EndUpdate;
+       end;
+end;
 
-   end;
+procedure TfrmSanitizer.ToolButton15Click(Sender: TObject);
+begin
+  if (OpenDialog1.Execute) then
+    if (OpenDialog1.FileName <> '') then
+       Memo1.Lines.LoadFromFile(OpenDialog1.FileName);
 end;
 
 
@@ -216,19 +292,19 @@ begin
 
 
   List1.Text := StringReplace(Memo1.Lines.Text, '(', #10#13, [rfReplaceAll]);
-
+  List1.BeginUpdate;
   List1.Text := StringReplace(List1.Text, ')', #10#13, [rfReplaceAll]);
   List1.Text := StringReplace(List1.Text, '[', #10#13, [rfReplaceAll]);
   List1.Text := StringReplace(List1.Text, ']', #10#13, [rfReplaceAll]);
   List1.Text := StringReplace(List1.Text, '''', '', [rfReplaceAll]);
   List1.Text := StringReplace(List1.Text, ',', '', [rfReplaceAll]);
   List1.Text := StringReplace(List1.Text, #9, #10#13, [rfReplaceAll]);
-
+  List1.EndUpdate;
 
   RemoveSpecialChar(List1);
 
+  List1.BeginUpdate;
   List1.Text := StringReplace(List1.Text, ' ', '', [rfReplaceAll]) + StringReplace(List1.Text, ' ', #10#13, [rfReplaceAll]);
-
 
   for n := List1.Count-1 downto 0 do begin
         sTemp := List1.Strings[n];
@@ -238,10 +314,14 @@ begin
         else
             if IsStrANumber(sTemp) then List1.delete(n);
   end;
+  List1.EndUpdate;
 
   List1.Sort();
   RemoveDuplicated(List1);
+
+  List1.BeginUpdate;
   List1.CustomSort( @MyListCompare );
+  List1.EndUpdate;
 
   Memo1.Lines.Text := List1.Text;
   List1.Free;

@@ -47,7 +47,6 @@ Ignimbrito
 Kimberlito
 Lamito
 Lamprofiro
-Marga
 Marmore
 Marmore
 Marmoreazul
@@ -74,7 +73,6 @@ Quartzorosa
 Quartzoroxo
 Quartzoverde
 Riolito
-rosa
 roxo
 Sabao
 Sedimentar
@@ -96,7 +94,6 @@ verde
 vermelho
 Webbsterito
 Wehrlito
-Xisto
 Xistoazul
 Xistorosa
 Xistoverde

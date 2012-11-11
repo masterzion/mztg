@@ -1,6 +1,4 @@
-# Don Olivier, Harvard School of Public Health 	   don@hsph.harvard.edu
 # Some fungi
-###############################################################################
 aabomyceticus
 aalborgi
 aarhus
@@ -427,13 +425,11 @@ alleghaniensis
 alleschei
 allescheria
 allescheriella
-alli
 alliacea
 alliaceum
 alliaceus
 allicina
 allii
-allis
 allochytridium
 allocotus
 allomyces
@@ -463,7 +459,6 @@ alpini
 alpinus
 alpova
 alstoniae
-alta
 altenaria
 alternans
 alternantherae
@@ -491,7 +486,6 @@ amabilis
 amagasakiense
 amanita
 amanitopsis
-amara
 amarenographium
 amartasia
 amarus
@@ -599,7 +593,6 @@ amyloporia
 amyloporiella
 amylostereum
 amylovorus
-an
 anacardii
 anagallae
 anagallidis
@@ -639,7 +632,6 @@ anemones
 anemonoides
 angarensis
 angelicae
-angelina
 angerensis
 anglica
 anglicum
@@ -963,7 +955,6 @@ artocarpina
 artocreas
 artotrogus
 aruantiacum
-arun
 arundicum
 arundinacea
 arundinariae
@@ -1144,7 +1135,6 @@ atroviolaceus
 atrovirens
 atroviride
 atrum
-atta
 attenuata
 attenuatis
 attenuatum
@@ -1157,7 +1147,6 @@ aucupariae
 audouini
 audouinii
 auerswaldii
-augusta
 augusti
 augustispirale
 augustoi
@@ -1193,8 +1182,6 @@ aurata
 auratiogriseum
 auratum
 auratus
-aurea
-aurelia
 aureo
 aureobasidium
 aureofulgens
@@ -1342,7 +1329,6 @@ baradicum
 baranyayi
 barba
 barbajovis
-barbara
 barbonica
 barclayana
 bardanae
@@ -1404,7 +1390,6 @@ beijerinckii
 belepharis
 belgica
 beljakovae
-bella
 bellidiflora
 bellunensis
 bellynckii
@@ -1495,7 +1480,6 @@ bilateralis
 bilgramii
 bimundalis
 bimuria
-bina
 binatum
 binoculata
 binucleosporum
@@ -1988,7 +1972,6 @@ camelopardus
 camemberti
 camembertii
 camerunensis
-cami
 camillea
 cammarosporium
 campanella
@@ -2027,7 +2010,6 @@ candelabrum
 candelariella
 candiaa
 candicans
-candida
 candidissima
 candidissimus
 candidula
@@ -2162,7 +2144,6 @@ cartilaginosus
 cartilosoma
 cartwrightii
 carunculoides
-cary
 caryae
 caryigena
 caryigenum
@@ -2533,7 +2514,6 @@ chr
 chralier
 chrisogenicum
 chrisosporium
-christi
 christianensis
 christianiensis
 christiansenia
@@ -2811,7 +2791,6 @@ cochloides
 cocoes
 cocoicola
 cocoina
-cocos
 codinaea
 codinaeaphora
 codinaeopsis
@@ -3665,7 +3644,6 @@ demidoffii
 deminutivum
 demissa
 demonbreunii
-den
 denaeosporus
 dendorobii
 dendrica
@@ -4081,7 +4059,6 @@ e
 earleae
 earlei
 earlianum
-eben
 ebenbitarianum
 eberhardtii
 eborinus
@@ -4622,7 +4599,6 @@ fegetium
 feijoae
 felina
 felinum
-felix
 fellea
 felleus
 fellii
@@ -4823,12 +4799,9 @@ floccosa
 floccosum
 floccosus
 flocculosus
-florentina
 florentinus
 florenzani
-flori
 floricola
-florida
 floridae
 floridaensis
 floridanum
@@ -4998,7 +4971,6 @@ fulignosa
 fuligo
 fulva
 fulvescens
-fulvia
 fulvida
 fulvidus
 fulvipes
@@ -6141,7 +6113,6 @@ ignobilis
 iguchii
 ii
 iignitalis
-iii
 iizukae
 ikedae
 ilerdanum
@@ -6341,8 +6312,6 @@ iranica
 irenina
 iridis
 iriensis
-irina
-iris
 irpex
 irpicescens
 irpicodon
@@ -6406,7 +6375,6 @@ jadinii
 jahnii
 jahnoporus
 jalinii
-jamaica
 jamaicensis
 jambosae
 janczewskii
@@ -6445,7 +6413,6 @@ jirovecii
 jodhpurense
 jodhpurensis
 johansonii
-johnson
 johnsoni
 johnsonianus
 johnsonii
@@ -6471,7 +6438,6 @@ jugoyasan
 jugulospora
 jukawa
 julianii
-julieta
 julietae
 juncea
 juncei
@@ -6495,7 +6461,6 @@ kabatina
 kabunicum
 kaeaerikiae
 kagoshimaensis
-kaki
 kalkhoffii
 kallichromo
 kalmiae
@@ -6849,7 +6814,6 @@ laureliae
 laurentianus
 laurentii
 laureolae
-lauri
 laurii
 laurilia
 laurina
@@ -7062,7 +7026,6 @@ lilacinum
 lilacinus
 lilacis
 lilascens
-liliana
 lilii
 lilliputanum
 lilliputia
@@ -7403,7 +7366,6 @@ magnivelare
 magnoliae
 magnoliicola
 magnum
-magnus
 magnusiana
 magnusianum
 magnusii
@@ -7414,7 +7376,6 @@ maheswarianum
 mahoniae
 maiae
 maimaiga
-maire
 mairei
 maius
 major
@@ -7451,7 +7412,6 @@ malvarum
 malvicola
 malvinella
 malvinellum
-mame
 mamillae
 mamillata
 mamillatum
@@ -7504,7 +7464,6 @@ marcillae
 marengoi
 mareoticum
 margarinomyces
-margarita
 margaritiferum
 margaritispora
 marginalis
@@ -7515,13 +7474,11 @@ marginospora
 mariae
 mariaecrucis
 mariannaea
-marina
 marinera
 marinosphaera
 marinospora
 marinum
 marinus
-maris
 maritima
 maritimum
 maritimus
@@ -7575,7 +7532,6 @@ matthiolae
 matthioli
 mattirolianum
 mauginiella
-maura
 maurilabra
 maxilliformis
 maxima
@@ -7587,7 +7543,6 @@ maysoidisporus
 mayumbensis
 mazatecorum
 mcginnisii
-me
 meadii
 media
 medicaginis
@@ -7779,7 +7734,6 @@ michaelis
 michaudii
 micheneri
 michotii
-micro
 microaquatica
 microascoides
 microascus
@@ -7912,7 +7866,6 @@ miyakoensis
 miyokoensis
 mocor
 moderatum
-modesta
 modonia
 modonium
 moelleri
@@ -8252,7 +8205,6 @@ nalgiovense
 nameenii
 nameko
 namyslowskii
-nana
 nandinae
 nanica
 nanicus
@@ -8483,7 +8435,6 @@ notata
 notatum
 nothofagi
 nouryi
-nova
 novae
 novaeglandiae
 novaezeelandiae
@@ -8607,7 +8558,6 @@ octosporum
 octosporus
 oculo
 oculohominis
-odessa
 odinae
 odintsovae
 odontia
@@ -8933,7 +8883,6 @@ panattoniana
 panattonianum
 panax
 pandani
-pandora
 panellus
 panici
 paniculata
@@ -9070,7 +9019,6 @@ pauciseta
 paucispora
 paulensis
 paulowniae
-paulus
 paupercula
 pavonina
 paxianum
@@ -9125,7 +9073,6 @@ peltata
 peltigerae
 pemphi
 pemphii
-pen
 pencillium
 pendulum
 pendulus
@@ -9701,7 +9648,6 @@ plutivota
 pluvialis
 pluvioriens
 pluvius
-po
 poae
 poarum
 pocula
@@ -10710,7 +10656,6 @@ roreri
 rorida
 roridia
 roridum
-rosa
 rosaceum
 rosae
 rosarium
@@ -10720,7 +10665,6 @@ rosatii
 rosea
 rosei
 roseipellis
-rosella
 rosellinia
 rosellus
 rosenwaldii
@@ -10776,7 +10720,6 @@ rubeolus
 ruber
 ruberrimus
 rubescens
-rubi
 rubicarpa
 rubicola
 rubicunda
@@ -10788,7 +10731,6 @@ rubidus
 rubiginosa
 rubiginosum
 rubiginosus
-rubina
 rubinellus
 rubo
 ruborum
@@ -10922,7 +10864,6 @@ salicis
 salicorniae
 salictaria
 saligna
-salina
 salinaria
 salinum
 salinus
@@ -11220,7 +11161,6 @@ selenosporella
 selenotila
 semarangensis
 semecarpi
-semen
 semeniperda
 semenospora
 semeonovi
@@ -11301,7 +11241,6 @@ sepultus
 sequanensis
 sequinyii
 sequoiae
-serena
 serenensis
 serensis
 serialis
@@ -11404,7 +11343,6 @@ silvanorum
 silvanus
 silvatica
 silvaticus
-silvester
 silvestre
 silvestris
 silvicola
@@ -12195,7 +12133,6 @@ swampomyces
 swartii
 swiftii
 sycophila
-syd
 sydowi
 sydowia
 sydowiana
@@ -12622,7 +12559,6 @@ tremulus
 trepida
 trepidae
 tretopileus
-tri
 triadelphia
 triandrae
 triangulare
@@ -13024,7 +12960,6 @@ valentinum
 valerianae
 valerianellae
 valesiacum
-valida
 validus
 vallata
 vallenarense
@@ -13137,7 +13072,6 @@ vermiculifer
 vermifera
 vermoeseni
 vermoesenii
-verna
 vernalis
 vernicosa
 vernum
@@ -13221,8 +13155,6 @@ villosulus
 villosus
 vilmorinii
 viminalis
-vin
-vina
 vinacea
 vinaceo
 vinaceorufescens
@@ -13399,7 +13331,6 @@ wettsteinia
 wettsteinii
 wettsteinina
 whetzelinia
-white
 wickerhamia
 wickerhamiella
 wickerhamii
@@ -13477,7 +13408,6 @@ xylariispora
 xylarioides
 xylebori
 xylestrix
-xylina
 xylinus
 xylobolus
 xylochia

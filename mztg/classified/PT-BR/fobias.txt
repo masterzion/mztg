@@ -42,7 +42,6 @@ Aletroro
 Aletrorofobia
 Algo
 Algofobia
-Amato
 Amatofobia
 Amaxo
 Amaxofobia
@@ -81,7 +80,6 @@ Astro
 Astrofobia
 Ataxo
 Ataxofobia
-Auto
 Autofobia
 Automatono
 Azino
@@ -214,7 +212,6 @@ Dextro
 Dextrofobia
 Diabeto
 Diabetofobia
-Dino
 Dinofobia
 Diplo
 Diplofobia
@@ -228,7 +225,6 @@ Distiqui
 Distiquifobia
 Domato
 Domatofobia
-Dora
 Dorafobia
 Dromo
 Dromofobia
@@ -374,7 +370,6 @@ gine
 gineco
 ginecofobia
 ginefobia
-Gino
 Ginofobia
 Glosso
 Glossofobia
@@ -396,7 +391,6 @@ Hedono
 Hedonofobia
 Helio
 Heliofobia
-hema
 hemafobia
 hemato
 hematofobia
@@ -544,9 +538,7 @@ Meti
 Metifobia
 Metro
 Metrofobia
-Mico
 Micofobia
-Micro
 Microbio
 Microbiofobia
 Microfobia
@@ -681,11 +673,9 @@ Quirapto
 Quiraptofobia
 Rabdo
 Rabdofobia
-Radio
 Radiofobia
 Ripo
 Ripofobia
-Riti
 Ritifobia
 Rupo
 Rupofobia
@@ -693,7 +683,6 @@ Sarmasso
 Sarmassofobia
 Satano
 Satanofobia
-Sela
 Selacho
 Selachofobia
 Selafobia

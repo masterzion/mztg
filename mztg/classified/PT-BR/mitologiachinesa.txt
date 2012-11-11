@@ -2,10 +2,8 @@ cordilheira
 Diyu
 Dragao
 Fusang
-Huang
 Imperador
 ImperadordeJade
-Jade
 Kunlun
 Longmen
 Montanhas
@@ -26,4 +24,3 @@ XiWangmu
 Xuanpu
 Yaochi
 YuHuang
-Zhou

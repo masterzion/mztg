@@ -77,7 +77,6 @@ Bater
 Baterasbotas
 Batercomasdez
 Baterpapo
-bebe
 beira
 bezerra
 bico
@@ -114,7 +113,6 @@ Cairaficha
 caminho
 caneco
 cano
-Cara
 Caradepau
 carro
 cartas
@@ -135,7 +133,6 @@ cima
 cobra
 cocar
 cocota
-Cole
 ColeZe
 Colocar
 Comer
@@ -150,7 +147,6 @@ coracao
 corda
 corno
 corvo
-costas
 cotovelo
 cova
 coxas
@@ -163,7 +159,6 @@ dados
 d'agua
 d'agua
 dando
-dara
 Darbola
 Darmancada
 Darumamaozinha
@@ -177,7 +172,6 @@ Deixarnamao
 Demoro
 dentes
 Descascar
-desta
 deus
 Dormir
 Dormirnoponto
@@ -238,7 +232,6 @@ ganso
 gato
 gelo
 grande
-greta
 Gritar
 grossa
 Hortela
@@ -246,8 +239,6 @@ inferno
 Irado
 Irparaosaco
 jaca
-Jae
-Joao
 joelho
 Jogado
 jogo
@@ -279,7 +270,6 @@ macaco
 macacos
 macaquinhos
 maionese
-mala
 Malhar
 maluco
 mancada
@@ -290,7 +280,6 @@ maos
 maozinha
 mapa
 maquina
-Mara
 Marafa
 Marcar
 Marcartouca
@@ -300,9 +289,7 @@ melancia
 melhor
 mesa
 mesma
-Meter
 MeuRei
-Mina
 minha
 minhoca
 mole
@@ -407,7 +394,6 @@ Resolver
 Riscar
 Riscardomapa
 risos
-roda
 Role
 roupa
 saco

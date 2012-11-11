@@ -45,7 +45,6 @@ Babado
 BabadoNovo
 Bacamarte
 Baianos
-Bala
 Balde
 Banana
 BananaSplit
@@ -86,7 +85,6 @@ Broz
 Cachorro
 CachorroGrande
 Cadeia
-Calypso
 Camisa
 CamisadeVenus
 Cansei
@@ -106,7 +104,6 @@ Cavadao
 Cavaleiros
 Cavalera
 Chakal
-Charlie
 CharlieBrownJr
 Cheiro
 CheirodeAmor
@@ -140,7 +137,6 @@ Cubo
 Cuca
 Cueio
 CueioLimao
-Dallas
 DallasCountry
 Dazaranha
 Dead
@@ -180,14 +176,11 @@ Forro
 Fresno
 Fruto
 FrutoSagrado
-Gang
 Garoa
 Garotos
 GarotosdaRua
 GarotosdeOuro
 GarotosPodres
-Gloria
-Glory
 GloryOpera
 Golden
 GoldenBoys
@@ -218,30 +211,23 @@ Inimigos
 InimigosdaHP
 InimigosdoRei
 Inumanos
-Ira
-Jack
 Jeito
 JeitoMoleque
-Joao
 Joelho
 JoelhodePorco
-John
 JohnBalaJones
 Jones
 Jota
 JotaQuest
 J-squad
-Julie
 Kane
 Karnak
 Ketu
 KidAbelha
 Krisiun
 K-Sis
-Leela
 Legiao
 LegiaoUrbana
-Leticia
 Limao
 LimaocomMel
 Lingua
@@ -262,7 +248,6 @@ Magico
 Malditos
 Mamonas
 Maquinas
-Maria
 MariadoRelento
 Maskavo
 Massacration
@@ -293,7 +278,6 @@ Mzuri
 MzuriSana
 Nacao
 NacaoZumbi
-Nada
 Natiruts
 Nechivile
 Negra
@@ -302,7 +286,6 @@ Nenhum
 NenhumdeNos
 Nin-Jitsu
 NoMilkToday
-Nova
 Nove
 NoveMilAnjos
 Novo
@@ -344,7 +327,6 @@ Patrulha
 Pedra
 PedraLeticia
 Penca
-Penelope
 Pholhas
 Pigs
 Pitty
@@ -375,7 +357,6 @@ QuatroFatos
 Quem
 Quest
 Quinteto
-Radio
 RadioTaxi
 Raimundos
 Raiz
@@ -388,7 +369,6 @@ Reacao
 ReacaoemCadeia
 Rebeldes
 Relento
-Renato
 Replicantes
 Resgate
 Restart
@@ -397,8 +377,6 @@ RestosdeNada
 Rigor
 Rodrix
 Role
-Roque
-Rosa
 RosadeSaron
 Rouge
 Roupa
@@ -415,7 +393,6 @@ Saron
 Seco
 Secos
 SecoseMolhados
-Seda
 Sepultura
 SeuCuca
 Seus
@@ -445,7 +422,6 @@ Tche
 TcheGarotos
 Teatro
 Terco
-Terra
 TheClevers
 TheFevers
 Tianastacia
@@ -470,7 +446,6 @@ Valvulados
 Vanguart
 Velhas
 VelhasVirgens
-Venus
 Vermelho
 Violado
 Viper
@@ -478,5 +453,4 @@ Virgens
 Voices
 Walverdes
 Xilarmonica
-Zero
 Zumbi

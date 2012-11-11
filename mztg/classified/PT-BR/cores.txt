@@ -70,7 +70,6 @@ Cinzafosco
 Cinzamedio
 Cobre
 Concha
-Coral
 Coralclaro
 Couro
 Creme
@@ -81,7 +80,6 @@ Dourado
 Douradoescuro
 Douradopalido
 Escarlate
-Esmeralda
 Feldspato
 Ferrugem
 Fuchsia
@@ -90,19 +88,16 @@ Grena
 Herbal
 Indigo
 Jabutipreto
-Jade
 Jambo
 Laranja
 Laranjaescuro
 Lavanda
-Lilas
 Lima
 Limao
 Linho
 Madeira
 Magenta
 Magentaescuro
-Malva
 Mamaobatido
 Mana
 Marfim
@@ -132,7 +127,6 @@ Purpura
 Purpuramedia
 Quantum
 Rendaantiga
-Rosa
 Rosabrilhante
 Rosachocante
 Rosaclaro
@@ -175,5 +169,4 @@ Vermelho
 Vermelhoescuro
 Vermelhoindiano
 Vermelhovioleta
-Violeta
 Violetaescuro

@@ -40,7 +40,6 @@ AdiGallia
 Adim
 Adin
 Adner
-Adriana
 Agen
 AgenKolar
 Ahsoka
@@ -48,12 +47,9 @@ AhsokaTano
 Alaris
 AlarisPrime
 Alderaan
-Aleen
 Alema
 AlemaRar
-Allie
 Almirante
-Alon
 Amidala
 Anakin
 AnakinSkywalker
@@ -88,7 +84,6 @@ BarrissOffee
 BasAlon
 Bastila
 BastilaShan
-Belia
 BeliaDarzu
 Bespin
 Bewk
@@ -105,7 +100,6 @@ Boda
 Bolvin
 Bossk
 BoVanda
-Brand
 Bulq
 Bultar
 BultarSwan
@@ -138,9 +132,7 @@ Cilghal
 CinDrallig
 Cod`Ay
 CodAy
-Cody
 Cognus
-Coleman
 ColemanKcaj
 ColemanTrebor
 Comandante
@@ -157,7 +149,6 @@ Corran
 CorranHorn
 cortadas),
 Coruscant
-Count
 CountDooku
 Crado
 Daakman
@@ -265,7 +256,6 @@ FreedonNadd
 FreeVIII
 fyrion
 fyrionkjerri
-Galen
 GalenMarek
 Gallia
 Ganner
@@ -274,7 +264,6 @@ Gantoris
 Gardulla
 Garnoo
 Garu
-General
 GeneralGrievous
 GeneralVeers
 Gentes
@@ -302,7 +291,6 @@ Hoth
 Hutt
 Huyd
 IG88B
-Igor
 IgorWohl
 Ikrit
 Ilum
@@ -315,7 +303,6 @@ IvooII
 Jabba
 Jacen
 JacenSolo
-Jade
 Jaden
 JadenKorr
 Jaina
@@ -334,13 +321,11 @@ JedonPan
 jerri
 Jeth
 Jiin
-Jill
 Jinn
 Jocasta
 JocastaNu
 Joclad
 JocladDanva
-Jolee
 JoleeBindo
 Jorak
 JorakUln
@@ -360,7 +345,6 @@ Kcaj
 Kenobi
 Khelf
 KiAdiMundi
-Kieran
 KieranHalcyon
 Kinfhh
 Kirana
@@ -381,7 +365,6 @@ Kreia
 Kressh
 Krul
 Kuat
-Kyle
 KyleKatarn
 KypDurron
 Lady
@@ -394,15 +377,12 @@ LaradNoon
 LaTor
 Leed
 Lego
-Leia
-Leia
 LeiaOrgana
 LeiaOrganaSolo
 Limus
 LimusPrime
 Lobot
 Loccinuns
-Lonna
 LonnaVash
 Lord
 LordFlint
@@ -413,7 +393,6 @@ LordQordis
 Lowbacca
 Ludo
 LudoKressh
-Luke
 LukeSkywalker
 Lumas
 LumasEtima
@@ -422,13 +401,10 @@ LuminaraUnduli
 Lumiya
 Lurr`De
 LurrDe
-Mace
 MaceWindu
 Major
 Malak
 Maloc
-Mara
-Marek
 Marka
 MarkaRagnos
 Marr
@@ -474,7 +450,6 @@ Nebit
 Neefree
 Neimoidia
 Nihilus
-Nomi
 NomiSunrider
 Noon
 Nute
@@ -497,7 +472,6 @@ Osam
 OsamJiin
 Osnola
 OsnolaReluht
-Pablo
 PabloJill
 Padme
 PadmeAmidala
@@ -541,7 +515,6 @@ R4P17
 R5D4
 Ragnos
 Rancisis
-Raul
 Raxus
 RaxusPrime
 Raynar
@@ -553,7 +526,6 @@ Rhen
 RhenVar
 Rhysode
 Riloth
-Ringo
 RingoOrlan
 RinShuuir
 Rivan
@@ -567,7 +539,6 @@ RothDelMasona
 RovTru
 Ruin
 Rune
-Saba
 SabaSebatyne
 Sadow
 Saesee
@@ -578,7 +549,6 @@ Secura
 SegCala
 Seirr
 Sento
-Serra
 SerraHeto
 Seviss
 SevissVaa
@@ -588,7 +558,6 @@ Shaak
 ShaakTi
 Shaddaa
 ShaKoon
-Shan
 Shar
 SharDakhan
 Shatoyo
@@ -615,7 +584,6 @@ Sora
 SoraBulq
 SovKad
 Srugun
-Star
 StarDestroyer
 Stass
 StassAllie
@@ -672,7 +640,6 @@ UtharWynn
 Utris
 Vader
 Valorum
-Vanda
 Vandar
 VandarTokare
 Vash
@@ -702,14 +669,12 @@ Wicket
 Wids
 WidsV
 Windu
-Wing
 Wohl
 Woman
 Wullf
 WullfYularen
 Wurth
 WurthSkidder
-Wynn
 Xagobah
 XWing
 Yaddle

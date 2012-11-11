@@ -8,7 +8,6 @@ ageau
 Agur
 Agylotti
 Akkawi
-Alberta
 Amablu Blue
 amarelo
 American
@@ -31,11 +30,9 @@ Arsenico
 Asadero
 Asiago
 Asian
-Aura
 Azeitao
 Balaton
 Balsfjord
-Baron
 Basket
 Bassett
 Bath blue
@@ -54,7 +51,6 @@ Beyazpeynir
 Billinge
 Bilogorac
 Bilogorka
-Bishop
 Bitto
 Bla Gotland
 Blanco
@@ -74,7 +70,6 @@ Breath
 Brick
 Brie
 Brie Manoir
-Brigid
 Brinkburn
 Brittania
 Bros
@@ -107,7 +102,6 @@ Cancoillotte
 Cantabria
 Cantal
 Cantonnier
-Cara
 Caravane
 Casar
 Cascaval
@@ -119,8 +113,6 @@ Cathoura
 Catupiry
 Cayir
 Cayir
-Cecil
-Cecil
 Cephalaki
 Cerdanya
 Cerkez
@@ -137,7 +129,6 @@ Chechil
 Cheddam
 Cheddar
 Cheese
-Cher
 Cherkez
 Cheshire
 Chevington
@@ -203,10 +194,8 @@ Danish
 Dansk
 Darraghetto
 Derby
-Desmond
 Devil
 Devils
-Devon
 Dilpeyniri
 Dimsi
 Dolcelatte
@@ -259,11 +248,9 @@ Frere
 frescal
 Fresco
 Frisian
-Fritz
 Friulano
 Friuli
 Fundido
-Gabriel
 Galichki
 Galotyri
 Gamalost
@@ -312,7 +299,6 @@ Havarti
 Hellim
 herbs
 Herrgardsost
-Herve
 Hill
 Hirtenkase
 Horeb
@@ -334,14 +320,11 @@ Innkeepers
 irlandes
 Isle
 IsleofMull
-Jack
-Jacques
 Jaktost
 Jalapeno
 Jameed
 Jara
 Jarlsberg
-Jean
 Jibneh
 Jindi
 JindiBrie
@@ -439,17 +422,14 @@ Maroilles
 Marolles
 Mascarpone
 Mato
-Maure
 Maytag
 MaytagBlue
 mazegi
 Medium
-Megan
 MeganKopron
 mestico
 Metsovella
 Metsovone
-Micheal
 MichealMarbh
 Mihalic
 Mihalic
@@ -460,14 +440,12 @@ Mimolette
 Minas
 Minasfrescal
 Minaspadrao
-Miranda
 Mizen
 Mizithra
 Moine
 Mont
 Montbrison
 Montdor
-Monte
 Monterey
 Morbier
 Moyne
@@ -562,7 +540,6 @@ Pied-de-Vent
 PieddeVent
 PiedVent
 Piemontese
-Pierre
 Pinconning
 Pizza
 PizzaCheese
@@ -642,7 +619,6 @@ Rocamadour
 Rodoric
 Rokpol
 Romadur
-Romano
 Roncal
 Ronkari
 Roomano
@@ -654,7 +630,6 @@ Rubing
 Rushan
 Rygeost
 Saga
-Saint
 Sainte
 SaintFidele
 SaintPierre
@@ -676,9 +651,7 @@ Sclavotyre
 Scotland
 Scotyre
 Selles
-Serena
 Serpa
-Serra
 SerraEstrela
 Serrat
 Sette
@@ -742,7 +715,6 @@ Tilsiter
 Tintern
 Toin Mor
 Tolosa
-Toma
 Tomar
 Tomme
 Tongue
@@ -777,8 +749,6 @@ Verdelait
 Vermont
 Veronese
 Viareggio
-Victor
-Victoria
 Village
 VillageGoat
 VillageGreen
@@ -788,8 +758,6 @@ Waterford
 Waterloo
 Weisslacker
 Wensleydale
-West
-White
 WhiteAsian
 Whitehaven
 WhiteStilton
@@ -805,7 +773,6 @@ Yoruk
 Yoruk
 Zamojski
 Zamorano
-Zdenka
 Zefati
 Zipouro
 Zirozoulli

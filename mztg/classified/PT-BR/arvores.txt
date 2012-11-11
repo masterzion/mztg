@@ -55,8 +55,6 @@ Anacardiaceae
 Anacardium
 Anadenanthera
 Anadenthera
-Anda
-Anda
 Andassu
 Angico
 Angicovermelho
@@ -102,7 +100,6 @@ Asteraceae
 Atronium
 atropurpureum
 aurantium
-Aurora
 Averrhoa
 Azadirachta
 azedarach
@@ -292,7 +289,6 @@ Cravo
 Cravodaindia
 crepitans
 Criptomeria
-crista
 Cryptomeria
 cultriformis
 Cunoniaceae
@@ -372,7 +368,6 @@ Estremosa
 Eucalipto
 Eucalyptus
 Eucalyptusspp
-Eugenia
 euosma
 Euphorbia
 Euphorbiaceae
@@ -413,7 +408,6 @@ fistula
 Flamboyant
 Flamboyanzinho
 flexuosa
-Flor
 folhas
 folkersii
 formiga
@@ -471,7 +465,6 @@ grauda
 graudo
 graveolens
 Graviola
-Gray
 Grevilea
 Grevilha
 Grevilhaana
@@ -517,8 +510,6 @@ Imbuia
 Imperial
 India
 indica
-Inga
-Inga
 Ingadobrejo
 Ingafeijao
 Ingamarginata
@@ -564,7 +555,6 @@ Juglansregia
 Jurubeba
 Jurubebadosul
 Juveve
-kaki
 kleinii
 Koeleuteria
 Koelreuteria
@@ -630,8 +620,6 @@ Machaerium
 Macieira
 macranthera
 macrocarpa
-Magnolia
-Magnolia
 Magnoliabranca
 Magnoliaceae
 malabaricum
@@ -663,7 +651,6 @@ Mangueira
 Manihot
 marfim
 marginata
-Maria
 Mariamole
 Marianeira
 Mariapreta
@@ -681,9 +668,7 @@ Meliaazedarach
 Meliaceae
 Mexican
 mexicana
-mico
 miersiana
-Miguel
 Miguelpintado
 Mimosaceae
 mimosifolia
@@ -777,7 +762,6 @@ parahyba
 parahybum
 paraiso
 Parapiptadenia
-pardo
 Pata
 Patadevaca
 Patagonula
@@ -882,7 +866,6 @@ rivieri
 robusta
 Rollinia
 Rolliniamucosa
-Rosa
 Rosaceae
 roseo
 roxo
@@ -891,7 +874,6 @@ Rudgea
 Rutaceae
 Salicaceae
 Salix
-saman
 Samanea
 Samaneasaman
 santa
@@ -904,7 +886,6 @@ sativa
 Schefflera
 Schizolobium
 Schum
-Sebastiana
 seca
 sempervirens
 Senna

@@ -44,7 +44,6 @@ Quarto
 Ring
 Sense
 Sentido
-Seven
 Sexto
 SextoSentido
 Signs
@@ -57,6 +56,5 @@ TakingLives
 TheOthers
 TheRing
 Vermelha
-Vida
 VidaPorumFio
 Vidro

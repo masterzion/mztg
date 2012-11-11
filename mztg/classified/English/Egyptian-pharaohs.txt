@@ -1,9 +1,7 @@
 Huni
 maat
-Pepi
 Unis
 Seti
-Seth
 Maat
 maat
 Maat
@@ -45,7 +43,6 @@ Sobek
 Kakai
 Khaba
 Kheper
-Ramses
 netjer
 Qebehu
 Sahure

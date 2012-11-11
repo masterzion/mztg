@@ -2,16 +2,12 @@
 ALCS
 AROS
 Amix
-Arch
 BSDI
 BeIA
 BeOS
-Bill
 CRUX
 Damn
-DeLi
 EPOC
-EROS
 FLEX
 GSOS
 HPUX
@@ -19,9 +15,7 @@ Home
 Hurd
 IRIX
 Lion
-Lisa
 MiNT
-Mini
 OSF1
 Palm
 Plan
@@ -52,7 +46,6 @@ Caixa
 DRDOS
 FLEX9
 FeniX
-Gates
 Haiku
 Linux
 MEPIS
@@ -92,11 +85,9 @@ Center
 Cosmoe
 Cromix
 DOSVSE
-Darwin
 Debian
 Dingux
 DualOS
-Fedora
 Gentoo
 Jaguar
 KateOS
@@ -183,7 +174,6 @@ ArkLinux
 AtariDOS
 BigLinux
 BitLinux
-Business
 Edubuntu
 Embedded
 GNULinux

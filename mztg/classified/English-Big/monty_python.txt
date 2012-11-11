@@ -50,8 +50,6 @@ abattoir
 abattoir
 abbos
 abbos
-abdul
-abdul
 abitoir
 abitoir
 aborigones
@@ -90,8 +88,6 @@ acquainted
 acquainted
 acting
 acting
-action
-action
 actions
 actions
 activites
@@ -160,8 +156,6 @@ alarmed
 alarmed
 albans
 albans
-alf
-alf
 alibut
 alibut
 allamerican
@@ -962,8 +956,6 @@ cardinals
 cardinals
 cards
 cards
-careers
-careers
 carefully
 carefully
 caressed
@@ -1208,8 +1200,6 @@ coconuts
 coconuts
 cognoscenti
 cognoscenti
-colin
-colin
 collapsed
 collapsed
 collapses
@@ -1526,8 +1516,6 @@ damaged
 damaged
 dans
 dans
-darby
-darby
 daring
 daring
 darkie
@@ -1596,8 +1584,6 @@ demibee
 demibee
 demised
 demised
-denis
-denis
 departed
 departed
 departing
@@ -1610,10 +1596,6 @@ deposited
 deposited
 depressing
 depressing
-dept
-dept
-der
-der
 derivatives
 derivatives
 derives
@@ -1654,8 +1636,6 @@ dewpicked
 dewpicked
 dewwingdo
 dewwingdo
-di
-di
 diabolical
 diabolical
 dib
@@ -1720,8 +1700,6 @@ disbelief
 disbelief
 discarding
 discarding
-discover
-discover
 discovered
 discovered
 discovers
@@ -1790,8 +1768,6 @@ doing
 doing
 domine
 domine
-dona
-dona
 dong
 dong
 donkeys
@@ -1886,8 +1862,6 @@ earns
 earns
 ears
 ears
-eartha
-eartha
 earthquakes
 earthquakes
 easily
@@ -2022,16 +1996,12 @@ entrance
 entrance
 equipment
 equipment
-er
-er
 erbert
 erbert
 ergo
 ergo
 erm
 erm
-es
-es
 escaped
 escaped
 escapes
@@ -2144,8 +2114,6 @@ explorer
 explorer
 expurgated
 expurgated
-ext
-ext
 extended
 extended
 extraweekend
@@ -2264,8 +2232,6 @@ fins
 fins
 fintimlinbinwhinbimlim
 fintimlinbinwhinbimlim
-fiona
-fiona
 fires
 fires
 firing
@@ -2320,8 +2286,6 @@ flushed
 flushed
 flustered
 flustered
-flying
-flying
 flyinganimal
 flyinganimal
 followed
@@ -2408,8 +2372,6 @@ fruitbat
 fruitbat
 fruits
 fruits
-fu
-fu
 fuck
 fuck
 fucking
@@ -2470,8 +2432,6 @@ gawwison
 gawwison
 gc
 gc
-gen
-gen
 generally
 generally
 generals
@@ -2560,8 +2520,6 @@ grabbing
 grabbing
 grabs
 grabs
-gracie
-gracie
 grailshaped
 grailshaped
 gramophone
@@ -2746,8 +2704,6 @@ hedgerow
 hedgerow
 hedgerows
 hedgerows
-hee
-hee
 heels
 heels
 hegel
@@ -2884,8 +2840,6 @@ howait
 howait
 howls
 howls
-hq
-hq
 hsai
 hsai
 huddled
@@ -2954,8 +2908,6 @@ im
 im
 immace
 immace
-immanuel
-immanuel
 immediately
 immediately
 immigrants
@@ -2990,8 +2942,6 @@ increasingly
 increasingly
 incredibly
 incredibly
-ind
-ind
 indcredulous
 indcredulous
 indicates
@@ -3118,14 +3068,10 @@ jaccuzzi
 jaccuzzi
 jackinabox
 jackinabox
-jacklin
-jacklin
 jarlsburg
 jarlsburg
 jarring
 jarring
-jeanette
-jeanette
 jeanpaul
 jeanpaul
 jenkenson
@@ -3222,8 +3168,6 @@ kipper
 kipper
 kissed
 kissed
-kitt
-kitt
 kneecaps
 kneecaps
 kneeling
@@ -3266,8 +3210,6 @@ kralk
 kralk
 krimt
 krimt
-kung
-kung
 kursk
 kursk
 laboratories
@@ -3298,8 +3240,6 @@ landlady
 landlady
 lands
 lands
-lanny
-lanny
 lapschig
 lapschig
 lapsed
@@ -3338,8 +3278,6 @@ lb
 lb
 lbs
 lbs
-le
-le
 leader
 leader
 leading
@@ -3506,8 +3444,6 @@ looseliver
 looseliver
 loothesom
 loothesom
-lorry
-lorry
 lots
 lots
 louder
@@ -3546,8 +3482,6 @@ lustily
 lustily
 luton
 luton
-maarten
-maarten
 macarios
 macarios
 maggots
@@ -3584,8 +3518,6 @@ maman
 maman
 manager
 manager
-mandy
-mandy
 manger
 manger
 mangled
@@ -3630,8 +3562,6 @@ matter
 matter
 matteroffactly
 matteroffactly
-matthias
-matthias
 mattresses
 mattresses
 maudling
@@ -3660,8 +3590,6 @@ medieval
 medieval
 medway
 medway
-meeting
-meeting
 meets
 meets
 megaphone
@@ -3676,8 +3604,6 @@ membership
 membership
 ment
 ment
-merci
-merci
 mercia
 mercia
 merely
@@ -3696,8 +3622,6 @@ middleaged
 middleaged
 mightiest
 mightiest
-mihai
-mihai
 mikes
 mikes
 millarrrrrrrrrr
@@ -3736,8 +3660,6 @@ missle
 missle
 mistake
 mistake
-mister
-mister
 mittelschmerz
 mittelschmerz
 mitzvah
@@ -3756,8 +3678,6 @@ mnemot
 mnemot
 moans
 moans
-mohammed
-mohammed
 mohmedans
 mohmedans
 moistened
@@ -3868,8 +3788,6 @@ narrator
 narrator
 nastily
 nastily
-national
-national
 naw
 naw
 nearer
@@ -3914,8 +3832,6 @@ nev
 nev
 nevermind
 nevermind
-neville
-neville
 newbruce
 newbruce
 newest
@@ -3930,8 +3846,6 @@ nibbled
 nibbled
 nicht
 nicht
-nicky
-nicky
 nieizsche
 nieizsche
 niesewand
@@ -3962,8 +3876,6 @@ ninetynine
 ninetynine
 ninetyseven
 ninetyseven
-ning
-ning
 nnnnnnnnnnnnnnnno
 nnnnnnnnnnnnnnnno
 nnnnot
@@ -4108,8 +4020,6 @@ oldfashioned
 oldfashioned
 oldham
 oldham
-ole
-ole
 olives
 olives
 omsk
@@ -4272,8 +4182,6 @@ partly
 partly
 parts
 parts
-pas
-pas
 passable
 passable
 passed
@@ -4358,8 +4266,6 @@ pestilence
 pestilence
 pests
 pests
-peter
-peter
 peterborough
 peterborough
 peters
@@ -4470,8 +4376,6 @@ polled
 polled
 polling
 polling
-polly
-polly
 pommey
 pommey
 pommeyland
@@ -4566,8 +4470,6 @@ prizes
 prizes
 probably
 probably
-problems
-problems
 proceedings
 proceedings
 proceeds
@@ -4854,8 +4756,6 @@ reformed
 reformed
 refuse
 refuse
-reg
-reg
 regardez
 regardez
 register
@@ -5104,8 +5004,6 @@ safer
 safer
 saki
 saki
-sales
-sales
 sallied
 sallied
 salmonmonia
@@ -5210,12 +5108,8 @@ selfperpetuating
 selfperpetuating
 selfsealing
 selfsealing
-selle
-selle
 selling
 selling
-semen
-semen
 semicarnally
 semicarnally
 semiexistence
@@ -5296,8 +5190,6 @@ shh
 shh
 shhh
 shhh
-shi
-shi
 shiftin
 shiftin
 shimmering
@@ -5670,8 +5562,6 @@ stapers
 stapers
 stardust
 stardust
-stars
-stars
 started
 started
 starting
@@ -6104,8 +5994,6 @@ tiring
 tiring
 tis
 tis
-tish
-tish
 tisn
 tisn
 titles
@@ -6148,8 +6036,6 @@ tovarich
 tovarich
 towards
 towards
-tracey
-tracey
 tracking
 tracking
 tracts
@@ -6186,14 +6072,8 @@ treblemilk
 treblemilk
 treddle
 treddle
-trees
-trees
 trenchcoats
 trenchcoats
-trent
-trent
-trevor
-trevor
 tries
 tries
 trillo
@@ -6220,8 +6100,6 @@ trusty
 trusty
 trying
 trying
-tu
-tu
 tunbridge
 tunbridge
 tuned
@@ -6458,8 +6336,6 @@ veq
 veq
 ver
 ver
-vere
-vere
 verges
 verges
 verily
@@ -6488,8 +6364,6 @@ villager
 villager
 villagers
 villagers
-vin
-vin
 vindow
 vindow
 violence
@@ -6728,8 +6602,6 @@ wildly
 wildly
 williton
 williton
-willy
-willy
 wimbledon
 wimbledon
 winces

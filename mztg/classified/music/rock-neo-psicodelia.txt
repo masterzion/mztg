@@ -5,19 +5,15 @@ MGMT
 Tame
 Black
 Blind
-Brian
 Furry
-Lenny
 Melon
 Phish
 Rebel
 Super
-Trees
 Verve
 Vines
 Apples
 Church
-Foster
 Impala
 People
 Stereo
@@ -27,7 +23,6 @@ Grizzly
 Kravitz
 Kasabian
 Massacre
-Montreal
 TheVerve
 TheVines
 Jonestown

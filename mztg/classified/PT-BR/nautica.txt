@@ -95,7 +95,6 @@ Cana
 Canadoleme
 Capa
 Capotamento
-Carena
 Carlinga
 Carrinho
 Carta
@@ -189,7 +188,6 @@ Icar
 igrejas
 impede
 internacional
-Jack
 Jaibe
 Jusante
 Largo
@@ -208,7 +206,6 @@ mare
 Mareacao
 Marear
 Mares
-Marina
 Massame
 Mastreacao
 Mastro
@@ -225,7 +222,6 @@ Montante
 Mordedor
 Mosquetao
 Multicasco
-Nadir
 Nautica
 nauticos
 navegacao
@@ -274,10 +270,8 @@ Retranca
 Rizadura
 Rizar
 Rizo
-Roda
 Rodadeleme
 Roldana
-Rosa
 Rosadosventos
 Rota
 Rumo
@@ -291,7 +285,6 @@ Sextante
 significado
 sinais
 Singradura
-Skipper
 Socar
 Sotavento
 Spinnaker

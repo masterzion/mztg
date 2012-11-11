@@ -12,7 +12,6 @@ AneldeSauron
 Angband
 Angmar
 Annuminas
-Anwar
 Aragorn
 Arvores
 Arwen
@@ -151,7 +150,6 @@ Lingua
 Lithui
 Lord
 Lorien
-Maia
 Mata
 MatadosTrolls
 MayItBe
@@ -160,20 +158,17 @@ Meio
 MeioElfos
 Meneldur
 Meriadoc
-Merry
 Middle
 Mindolluin
 Mithril
 Mithrin
 Montanha
 Montanhas
-Monte
 MonteDolmed
 MonteGram
 MonteGundabad
 MonteRerir
 Mordor
-Moria
 Muil
 Namarie
 Nanduhirion
@@ -235,7 +230,6 @@ TarMeneldur
 Telperion
 Terceira
 TerceiraEra
-Terra
 TerraMedia
 Terras
 Theoden
@@ -263,7 +257,6 @@ Vaus
 Velha
 Veneno
 VenenodeDurin
-West
 Westron
 Weta
 WetaCave

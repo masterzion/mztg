@@ -6,7 +6,6 @@ Alemao
 Alfa
 Alvorada
 Amazonia
-America
 Banco
 BancoABC
 BancoAlemao
@@ -107,7 +106,6 @@ Citibank
 Citicard
 CNHCapital
 Comercial
-Concordia
 Confidence
 Cooperativo
 Credit
@@ -169,7 +167,6 @@ Itaucard
 Itaucred
 ItauUni
 ItauUnibanco
-John
 JohnDeere
 JPMorgan
 JSafra
@@ -181,11 +178,9 @@ Lusoeiro
 Lynch
 Mais
 Mercantil
-Merrill
 Mitsubishi
 Mitsui
 Modal
-Morgan
 Motor
 Multiplo
 Nordeste
@@ -201,7 +196,6 @@ Pine
 Popular
 Prosper
 Rabobank
-Real
 Rendimento
 Rodobens
 Rural

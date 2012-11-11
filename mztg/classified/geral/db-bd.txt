@@ -8,7 +8,6 @@ MaxDB
 MySQL
 Apache
 HSQLDB
-Ingres
 Oracle
 SQLite
 Server

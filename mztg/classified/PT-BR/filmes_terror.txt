@@ -1,13 +1,10 @@
 Adormeca
 Albergue
 Alem
-Alice
 Alien
 AlienDead
 Aliens
 Alive
-Alma
-Alta
 AltaTensao
 Amaldicoados
 Amityville
@@ -25,7 +22,6 @@ BeastlyBoyz
 Blade
 Bosque
 Boyz
-Bram
 BramStoker
 Branco
 Brotherhood
@@ -33,7 +29,6 @@ Buraco
 Caixa
 Candyman
 CaodoDiabo
-Carrie
 Casa
 CasadeCera
 Caso
@@ -41,7 +36,6 @@ Cera
 Chamado
 Chave
 ChaveMestra
-Christine
 Cloverfield
 Club
 Cobra
@@ -57,21 +51,18 @@ Cujo
 Dark
 DarkFloors
 Darkness
-Darko
 Dead
 Demon
 Demons
 Diabo
 Diabolique
 Doghouse
-Donnie
 DonnieDarko
 Dracula
 Dummy
 Dumplings
 Ecos
 EcosdoAlem
-Edward
 Embalsamado
 Encontro
 Enxame
@@ -116,7 +107,6 @@ IlhadoMedo
 Iluminado
 Inferno
 Island
-Jason
 JuOn
 kill
 Killer
@@ -144,7 +134,6 @@ MorteNegra
 Mosca
 Mumia
 NaoAdormeca
-Natal
 NatalNegro
 Necropolis
 Negra

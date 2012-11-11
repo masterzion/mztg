@@ -30,7 +30,6 @@ Delight
 Desconfia
 Domino
 Douradinha
-Dutch
 DutchBlitz
 Duvido
 Eleusis
@@ -38,7 +37,6 @@ Envite
 Escopa
 Espadinha
 Fechado
-Four
 FourSeasons
 FreeCell
 Gile
@@ -62,9 +60,7 @@ Maumau
 meio
 Mexe
 Mexemexe
-Mico
 Micopreto
-Monte
 moteno
 Oito
 Oitomaluco
@@ -88,7 +84,6 @@ Roubamonte
 rummy
 Sarangollo
 Seasons
-Serra
 Sete
 Seteemeio
 Skat
@@ -99,7 +94,6 @@ Sueca
 Sultans
 Talksnap
 Tranca
-tres
 Triunfo
 Truc
 Truco

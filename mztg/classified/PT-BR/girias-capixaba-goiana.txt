@@ -40,7 +40,6 @@ capile
 carmim
 carpe
 carpim
-catarina
 caturra
 champagnat
 champinha
@@ -110,7 +109,6 @@ ligeirinho
 lombada
 lote
 lustro
-mala
 maluca
 media
 meia
@@ -167,7 +165,6 @@ setra
 shortes
 sinal
 sinaleiro
-socorro
 subir
 submarino
 taligado
@@ -188,7 +185,6 @@ vela
 vermelhao
 vestiba
 viarapida
-vina
 virada
 volta
 Voltaemeia

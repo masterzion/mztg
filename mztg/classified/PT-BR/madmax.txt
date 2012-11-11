@@ -1,7 +1,6 @@
 Alem
 Aunty
 AuntyEntity
-Barry
 Beyond
 Blackfinger
 Blaster
@@ -13,7 +12,6 @@ CapitaoGyro
 Central
 Clunk
 Colecionador
-Crawford
 Cupula
 CupuladoTrovao
 Curmudgeon
@@ -21,7 +19,6 @@ Dealgood
 DrDealgood
 Entity
 Falcon
-Fifi
 FifiMacaffee
 Ford
 FordFalconV8
@@ -34,10 +31,7 @@ Humungus
 Ironbar
 Jedediah
 JedediahJr
-Jessie
-Jim
 JimGoose
-Johnny
 JohnnyoGaroto
 Johnnytheboy
 Macaffee
@@ -46,7 +40,6 @@ MadMax
 Master
 Matador
 Matadordeporcos
-Max
 MaxRockatansky
 Mecanico
 MFP
@@ -54,18 +47,15 @@ MFPFifiMacaffee
 MFPMacaffee
 motoqueiros
 Mudguts
-Nathan
 Nightrider
 Pappagallo
 patrulheiro
 Policia
 PoliciaCentral
 porcos
-Rebecca
 Rockatansky
 Sarse
 Tattoo
-The
 TheBlaster
 TheMaster
 Thunderdome
