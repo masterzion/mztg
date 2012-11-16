@@ -1,4 +1,3 @@
-acima
 Aegyptopithecus
 algas
 anelideos
@@ -16,10 +15,7 @@ aves
 baleias
 Bashkiriano
 Basin
-bola
 bombardeio
-c4570
-caes
 Calymmiano
 Cambriano
 camelos

@@ -38,7 +38,7 @@ object frmHeuristic: TfrmHeuristic
     MaxValue = 999
     MinValue = 9
     TabOrder = 2
-    Value = 9
+    Value = 15
   end
   object spedtMaxfileSize: TSpinEdit
     Left = 48

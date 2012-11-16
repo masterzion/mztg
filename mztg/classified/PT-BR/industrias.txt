@@ -47,7 +47,6 @@ fiacao
 fonografica
 fumageira
 fumo
-geral
 grafica
 hoteleira
 iluminacao

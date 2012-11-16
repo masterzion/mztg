@@ -60,21 +60,23 @@ end;
 procedure RemoveSpecialChar(var WordList : TStringList);
 var
   n1, n2 : integer;
-  sTemp, sTemp1, sTemp2 : utf8string;
+  sTemp, sSimbols : utf8string;
 
 begin
-  sTemp1 := symbols1+symbols2+'◄'+'“'+'”'+'¬'+Numbers;
+  sSimbols := symbols1+symbols2+'◄'+'“'+'”'+'¬'+Numbers;
   sTemp := WordList.Text;
   WordList.BeginUpdate;
-  for n1 := 1 to Length(sTemp1) do
-      sTemp := StringReplace(sTemp, sTemp1[n1], ' ', [rfReplaceAll]);
+
+  for n1 := 1 to Length(WordList.Text) do
+    for n2 := 1 to Length(sSimbols) do
+       if sTemp[n1] = sSimbols[n2] then  sTemp[n1] := ' ';
 
   WordList.Text := RemoveDiacritics(sTemp);
 
 
    for n1 := WordList.Count-1  downto 0 do
-     if WordList.Strings[n1] = '' then
-        WordList.delete(n1);
+     if WordList.Strings[n1] = '' then WordList.delete(n1);
+
    WordList.EndUpdate;
 end;
 

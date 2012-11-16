@@ -1,7 +1,7 @@
 object frmWordListExtract: TfrmWordListExtract
-  Left = 162
+  Left = 483
   Height = 253
-  Top = 168
+  Top = 173
   Width = 698
   Caption = 'WordList Extractor'
   ClientHeight = 253
@@ -104,20 +104,20 @@ object frmWordListExtract: TfrmWordListExtract
       ParentColor = False
     end
     object Panel6: TPanel
-      Left = 89
+      Left = 2
       Height = 90
       Top = 2
-      Width = 607
+      Width = 694
       Align = alClient
       BevelOuter = bvNone
       ClientHeight = 90
-      ClientWidth = 607
+      ClientWidth = 694
       TabOrder = 0
       object Label4: TLabel
         Left = 0
         Height = 14
         Top = 60
-        Width = 607
+        Width = 694
         Align = alBottom
         Caption = 'Diretorio:'
         ParentColor = False
@@ -126,7 +126,7 @@ object frmWordListExtract: TfrmWordListExtract
         Left = 0
         Height = 1
         Top = 74
-        Width = 607
+        Width = 694
         Align = alBottom
         ParentColor = False
       end
@@ -134,7 +134,7 @@ object frmWordListExtract: TfrmWordListExtract
         Left = 0
         Height = 14
         Top = 75
-        Width = 607
+        Width = 694
         Align = alBottom
         Caption = 'Arquivo:'
         ParentColor = False
@@ -143,35 +143,8 @@ object frmWordListExtract: TfrmWordListExtract
         Left = 0
         Height = 1
         Top = 89
-        Width = 607
+        Width = 694
         Align = alBottom
-        ParentColor = False
-      end
-    end
-    object Panel7: TPanel
-      Left = 2
-      Height = 90
-      Top = 2
-      Width = 87
-      Align = alLeft
-      ClientHeight = 90
-      ClientWidth = 87
-      TabOrder = 1
-      object Label7: TLabel
-        Left = 1
-        Height = 14
-        Top = 1
-        Width = 85
-        Align = alTop
-        Caption = 'Total:'
-        ParentColor = False
-      end
-      object LabelTotal: TLabel
-        Left = 1
-        Height = 74
-        Top = 15
-        Width = 85
-        Align = alClient
         ParentColor = False
       end
     end
@@ -475,8 +448,6 @@ object frmWordListExtract: TfrmWordListExtract
     Top = 56
     Width = 76
     Caption = 'Lower Case'
-    Checked = True
-    State = cbChecked
     TabOrder = 6
   end
   object spedtMin: TSpinEdit
@@ -674,13 +645,6 @@ object frmWordListExtract: TfrmWordListExtract
     Width = 30
     Caption = 'Folder'
     ParentColor = False
-  end
-  object Timer1: TTimer
-    Enabled = False
-    Interval = 500
-    OnTimer = Timer1Timer
-    left = 344
-    top = 144
   end
   object SaveDialog1: TSaveDialog
     DefaultExt = '.txt'

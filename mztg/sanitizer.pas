@@ -18,6 +18,7 @@ type
     Label2: TLabel;
     OpenDialog1: TOpenDialog;
     Panel2: TPanel;
+    ProgressBar1: TProgressBar;
     ReplaceDialog1: TReplaceDialog;
     SaveDialog1: TSaveDialog;
     speditMax: TSpinEdit;
@@ -33,6 +34,7 @@ type
     ToolButton13: TToolButton;
     ToolButton14: TToolButton;
     ToolButton15: TToolButton;
+    ToolButton16: TToolButton;
     ToolButton2: TToolButton;
     ToolButton3: TToolButton;
     ToolButton4: TToolButton;
@@ -42,6 +44,7 @@ type
     ToolButton8: TToolButton;
     ToolButton9: TToolButton;
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormCloseQuery(Sender: TObject; var CanClose: boolean);
     procedure FormCreate(Sender: TObject);
     procedure Memo1Change(Sender: TObject);
     procedure Memo1Click(Sender: TObject);
@@ -55,6 +58,7 @@ type
     procedure ToolButton12Click(Sender: TObject);
     procedure ToolButton13Click(Sender: TObject);
     procedure ToolButton15Click(Sender: TObject);
+    procedure ToolButton16Click(Sender: TObject);
     procedure ToolButton1Click(Sender: TObject);
     procedure ToolButton2Click(Sender: TObject);
     procedure ToolButton3Click(Sender: TObject);
@@ -66,6 +70,8 @@ type
 
   public
     { public declarations }
+    sFileName : String;
+    bDocChanged : Boolean;
   end;
 
 var
@@ -84,15 +90,23 @@ begin
   CloseAction:= caFree;
 end;
 
+procedure TfrmSanitizer.FormCloseQuery(Sender: TObject; var CanClose: boolean);
+begin
+  CanClose := True;
+  if bDocChanged then
+       if MessageDlg('Save before Close?', mtWarning,[mbYes,mbNo],0)=mrYes then           ToolButton1.Click;
+end;
+
 procedure TfrmSanitizer.FormCreate(Sender: TObject);
 begin
-   LoadTranslation( frmMain.strPath+'lang'+PathDelim+frmMain.strLang+PathDelim , frmSanitizer);
+   LoadTranslation( frmMain.strPath+'lang'+PathDelim+frmMain.strLang+PathDelim , self);
 //     WriteTranslation( frmMain.strPath+'lang'+PathDelim+frmMain.strLang+PathDelim , frmSanitizer);
 end;
 
 procedure TfrmSanitizer.Memo1Change(Sender: TObject);
 begin
   StatusBar1.Panels[0].Text:= 'Lines: '+IntToStr(Memo1.Lines.Count);
+  bDocChanged := True;
 end;
 
 procedure TfrmSanitizer.Memo1Click(Sender: TObject);
@@ -117,6 +131,7 @@ var
  n, nTemp : Integer;
  stemp : string;
 begin
+  bDocChanged := True;
   stemp := StringReplace(StringReplace(ReplaceDialog1.FindText, '\n', #10#13, [rfReplaceAll]), '\t', #9, [rfReplaceAll]);
   if length(Memo1.Text) > 0 then begin
     nTemp :=  Length(stemp);
@@ -171,13 +186,15 @@ end;
 procedure TfrmSanitizer.ToolButton11Click(Sender: TObject);
 begin
  SynMacroRecorder1.PlaybackMacro(Memo1);
+  bDocChanged := true;
 end;
 
 procedure TfrmSanitizer.ToolButton12Click(Sender: TObject);
 var
-  n, Count, MaxExec :Integer;
+  Count, MaxExec :Integer;
 begin
 MaxExec := Memo1.Lines.Count * 3;
+bDocChanged := true;
 Count := 0;
 Memo1.Lines.BeginUpdate;
 if Memo1.Lines.Count > 0 then
@@ -202,10 +219,16 @@ Var
 begin
   if ( OpenDialog1.Execute ) then
        if (OpenDialog1.FileName <> '') then begin
+           bDocChanged := true;
            List := TStringList.Create();
            List.LoadFromFile(OpenDialog1.FileName);
            Memo1.Lines.BeginUpdate;
+           ProgressBar1.Visible := True;
+           Memo1.Enabled:= False;
+           ProgressBar1.Max:= Memo1.Lines.Count-1;
+
            for n1 :=  Memo1.Lines.Count-1 downto 0 do begin
+               ProgressBar1.Position:= n1;
                stemp := Memo1.Lines[n1];
                if (stemp <> '') then
                   for n2 := List.Count-1 downto 0 do begin
@@ -218,22 +241,48 @@ begin
            end;
            List.Free();
            Memo1.Lines.EndUpdate;
+           ProgressBar1.Visible := False;
+           Memo1.Enabled:= True;
        end;
 end;
 
 procedure TfrmSanitizer.ToolButton15Click(Sender: TObject);
 begin
+  OpenDialog1.FileName:= sFileName;
   if (OpenDialog1.Execute) then
-    if (OpenDialog1.FileName <> '') then
+    if (OpenDialog1.FileName <> '') then begin
        Memo1.Lines.LoadFromFile(OpenDialog1.FileName);
+       sFileName := OpenDialog1.FileName;
+    end;
+
+
+end;
+
+procedure TfrmSanitizer.ToolButton16Click(Sender: TObject);
+var
+ list : TStringList;
+begin
+  list := TStringList.Create();
+  list.BeginUpdate;
+  list.Text := Memo1.Lines.Text;
+  list.Sort();
+  RemoveDuplicated(list);
+  list.CustomSort( @MyListCompare );
+  list.EndUpdate;
+  Memo1.Lines.Text := list.Text;
+  list.Free;
 end;
 
 
 procedure TfrmSanitizer.ToolButton1Click(Sender: TObject);
 begin
-    if (SaveDialog1.Execute) then
-      if (SaveDialog1.FileName <> '') then
-         Memo1.Lines.SaveToFile(SaveDialog1.FileName);
+  bDocChanged := False;
+  SaveDialog1.FileName:= sFileName;
+  if (SaveDialog1.Execute) then
+    if (SaveDialog1.FileName <> '') then begin
+       Memo1.Lines.SaveToFile(SaveDialog1.FileName);
+       sFileName := SaveDialog1.FileName;
+    end;
 end;
 
 procedure TfrmSanitizer.ToolButton2Click(Sender: TObject);
@@ -243,6 +292,7 @@ var
 begin
    list := TStringList.Create();
    list.Text := Memo1.Text;
+   bDocChanged := true;
 
    list.BeginUpdate;
    list.Sort;
@@ -276,6 +326,7 @@ var
  list : TStringList;
 begin
    list := TStringList.Create();
+   bDocChanged := true;
    list.Text := Memo1.Text;
    list.CustomSort( @MyListCompare );
    Memo1.Text := list.Text ;
@@ -285,45 +336,55 @@ procedure TfrmSanitizer.ToolButton7Click(Sender: TObject);
 var
   List1 : TStringList;
   n, nTemp : integer;
-  sTemp : string;
+  sTemp1, sTemp2 : string;
 begin
   List1 := TStringList.create();
-
-
-
-  List1.Text := StringReplace(Memo1.Lines.Text, '(', #10#13, [rfReplaceAll]);
+  bDocChanged := True;
+  Memo1.Enabled := False;
   List1.BeginUpdate;
-  List1.Text := StringReplace(List1.Text, ')', #10#13, [rfReplaceAll]);
-  List1.Text := StringReplace(List1.Text, '[', #10#13, [rfReplaceAll]);
-  List1.Text := StringReplace(List1.Text, ']', #10#13, [rfReplaceAll]);
-  List1.Text := StringReplace(List1.Text, '''', '', [rfReplaceAll]);
-  List1.Text := StringReplace(List1.Text, ',', '', [rfReplaceAll]);
-  List1.Text := StringReplace(List1.Text, #9, #10#13, [rfReplaceAll]);
+  sTemp1  := Memo1.Lines.Text;
+  ProgressBar1.Visible := True;
+  ProgressBar1.Max := length(sTemp1);
+
+  for n := 1 to length(sTemp1) do begin
+      ProgressBar1.position := n;
+      if ( sTemp1[n] in ['(',')', '[', ']', #9, ' '] )   then
+         AppendStr(sTemp2, #10#13)
+      else
+          if not ( sTemp1[n] in ['''', ','] )   then
+             AppendStr(sTemp2, sTemp1[n]);
+  end;
+  List1.Text := sTemp2;
   List1.EndUpdate;
 
   RemoveSpecialChar(List1);
 
   List1.BeginUpdate;
-  List1.Text := StringReplace(List1.Text, ' ', '', [rfReplaceAll]) + StringReplace(List1.Text, ' ', #10#13, [rfReplaceAll]);
 
+  ProgressBar1.Visible := True;
+  ProgressBar1.Max := List1.Count-1;
+  Application.ProcessMessages;
   for n := List1.Count-1 downto 0 do begin
-        sTemp := List1.Strings[n];
-        nTemp := Length( sTemp );
+        ProgressBar1.Position:= n;
+        Application.ProcessMessages;
+        sTemp1 := List1.Strings[n];
+        nTemp := Length( sTemp1 );
 	if (nTemp < speditMin.Value) or  (nTemp > speditMax.Value) then
            List1.delete(n)
         else
-            if IsStrANumber(sTemp) then List1.delete(n);
+            if IsStrANumber(sTemp1) then List1.delete(n);
   end;
   List1.EndUpdate;
 
   List1.Sort();
   RemoveDuplicated(List1);
-
+  ProgressBar1.Visible := False;
   List1.BeginUpdate;
   List1.CustomSort( @MyListCompare );
   List1.EndUpdate;
-
+  Application.ProcessMessages;
   Memo1.Lines.Text := List1.Text;
+  Memo1.Enabled := True;
   List1.Free;
 end;
 
@@ -340,4 +401,4 @@ end;
 
 
 end.
-
+

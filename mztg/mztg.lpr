@@ -8,7 +8,7 @@ uses
   {$ENDIF}
   Interfaces, // this includes the LCL widgetset
   Forms, main, brute, brutegen, wordlistextract, htmlutil, hybridgen, apputils,
-  about, threadattack, heuristic, sanitizer;
+  about, threadattack, heuristic, sanitizer, google, lnetvisual;
 
 {$R *.res}
 
@@ -16,11 +16,6 @@ begin
 //  RequireDerivedFormResource := True;
   Application.Initialize;
   Application.CreateForm(TfrmMain, frmMain);
-  Application.CreateForm(TfrmBruteGen, frmBruteGen);
-  Application.CreateForm(TfrmWordListExtract, frmWordListExtract);
-  Application.CreateForm(TfrmAbout, frmAbout);
-  Application.CreateForm(TfrmHeuristic, frmHeuristic);
-  Application.CreateForm(TfrmSanitizer, frmSanitizer);
   Application.Run;
 end.
 

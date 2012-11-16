@@ -5,69 +5,64 @@ unit htmlutil;
 interface
 
 uses
-  Classes, SysUtils, brute, apputils;
+  Classes, SysUtils, brute, forms;
+//,  DOM, XMLRead;
 
 
-function StripHTMLTags(const HTML: widestring): widestring;
+function StripHTMLTags(const HTML: widestring): string;
+
 implementation
+uses google;
 
 
 
-    function StripHTMLTags(const HTML: widestring): widestring;
+    function StripHTMLTags(const HTML: widestring): string;
     var
-      n, scriptpos, scriptend: Integer;
-      stemp, strHTML : widestring;
+      n, count, scriptpos, scriptend: Integer;
+      strHTML : widestring;
+      b: Boolean;
     begin
       strHTML := HTML;
       Result := '';
+      scriptpos := -1;
+      scriptend := 0;
 
-      while Pos('</script>', strHTML ) > 0 do begin
+      while ( Pos('</script>', strHTML ) > 0 ) and ( not ( scriptpos > scriptend) )  do begin
           scriptpos := Pos('<script', strHTML);
           scriptend := Pos('</script>', strHTML);
           delete(strHTML, scriptpos, scriptend-scriptpos+9);
           strHTML := trim(strHTML);
+          Application.ProcessMessages;
       end;
 
-      scriptpos := Pos('<', strHTML);
-      scriptend := Pos('>', strHTML);
-      // remove scripts
-
-
-      while ( Pos('<', strHTML ) > 0 ) and ( scriptpos < scriptend )  do begin
-          delete(strHTML, scriptpos, (scriptend-scriptpos) +1);
-          strHTML := trim(strHTML);
-          scriptpos := Pos('<', strHTML);
-          scriptend := Pos('>', strHTML);
+      b:=true;
+      count :=0;
+      if Assigned(frmGoogle) then begin
+           frmGoogle.ProgressBar1.Max := Length(strHTML);
+           frmGoogle.ProgressBar1.Position:= 0;
       end;
 
-      stemp := '!@#$%&*()_+.,=-'+symbols2;
+      for n := 1 to Length(strHTML) do begin
+          if Assigned(frmGoogle) then frmGoogle.ProgressBar1.Position := frmGoogle.ProgressBar1.Position+1;
 
+          count+=1;
+          if count > 10000 then begin
+              Application.ProcessMessages;
+              count := 0;
+          end;
+          if strHTML[n] = '<' then
+             b:=false
+          else
+             if strHTML[n] = '>' then
+                b:=true
+             else
+                if b then
+                   if strHTML[n] = ' ' then
+                      AppendStr(result, #10#13)
+                   else
+                      AppendStr(result, strHTML[n]);
 
-      for n := 1 to Length(stemp) do begin
-          strHTML := StringReplace(strHTML, stemp[n], ' ', [rfReplaceAll]);
       end;
-
-      strHTML := StringReplace(strHTML, ' ', #10#13,[rfReplaceAll]);
-      result := strHTML;
-
-      {
-      for n := 1 to 101 do
-        Result := StringReplace(Result, Entities[n][3], Entities[n][1],  [rfReplaceAll,rfIgnoreCase]);
-
-
-      for n := 1 to 101 do begin
-        Result := StringReplace(Result, Entities[n][3], Entities[n][4],  [rfReplaceAll,rfIgnoreCase]);
-        Result := StringReplace(Result, Entities[n][2], Entities[n][1],  [rfReplaceAll,rfIgnoreCase ]);
-        Result := StringReplace(Result, Entities[n][3], Entities[n][1],  [rfReplaceAll,rfIgnoreCase]);
-      end;
-      Result := UTF8Decode(Result );
-
-
-      showmessage( copy(Result, Pos('&#x', Result), 6 ) );
-}
-      //      Result := UTF8Decode(Result );
-
-
     end;
 
 

@@ -36,19 +36,14 @@ type
     LabelArq: TLabel;
     SaveDialog1: TSaveDialog;
     LabelFim: TLabel;
-    Panel7: TPanel;
-    Label7: TLabel;
-    LabelTotal: TLabel;
     spedtMax: TSpinEdit;
     spedtMin: TSpinEdit;
-    Timer1: TTimer;
     procedure btnCloseClick(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure Button4Click(Sender: TObject);
     procedure Button3Click(Sender: TObject);
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
-    procedure Timer1Timer(Sender: TObject);
   private
     ContinuaLista : Boolean;
     Erros, ArquivoSaida : TStringList;
@@ -70,22 +65,7 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
     procedure ListaDir(Diretorio:String);
 
       procedure VarreArquivo(Arquivo:String);
-         function RemoveCaracter(Palavra:widestring):widestring;
-           var
-           Texto:widestring;
-           Caracter:char;
-           n : integer;
-          begin
-             Texto := Palavra;
-             for n := 0 to length(Caracteres)-1 do begin
-                caracter := Caracteres[n];
-                Texto := StringReplace(Texto, Caracteres[n+1],  ' ',  [rfReplaceAll]);
-             end;
-            Result := Texto;
-          end;
       var
-       fArquivo: textfile;
-       lastword, stemp: widestring;
        lst : TStringList;
       begin
          try
@@ -94,7 +74,6 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
               lst.BeginUpdate;
               if (Extensao = 'HTML') or (Extensao = 'HTM') then  StripHTMLTags( trim (lst.Text) );
 
-              lst.Text := stringreplace(lst.Text, ' ' , #10#13, [rfReplaceAll]) ;
               if chkLower.Checked then lst.Text := lowercase( lst.Text);
 
               if chkRemoveChars.Checked then  RemoveSpecialChar( lst );
@@ -115,7 +94,9 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
     begin
       Arquivo := '';
       FindFirst(Diretorio+'\*.*', faAnyFile, SR);
+
       while not (Arquivo = SR.Name) and ContinuaLista do begin
+          LabelDir.Caption:= Diretorio;
           if (SR.Attr = faDirectory) or (SR.Attr = faDirectory+faHidden) or (SR.Attr = faDirectory+faSysFile) or (SR.Attr = faDirectory+faSysFile+faHidden) then begin
             if (SR.Name <> '.') and (SR.Name <> '..') and ContinuaLista then begin
             // Faz Recursividade em Diretórios
@@ -124,16 +105,16 @@ procedure TfrmWordListExtract.Button1Click(Sender: TObject);
               try
                 sTemp := concat(Diretorio,'\',Sr.Name);
                 LabelDir.Caption := sTemp;
+                Application.ProcessMessages;
                 ListaDir(sTemp);
               except      end;
-              Application.ProcessMessages;
             end;
           end
           else  begin
             // Pega os Arquivos
+            LabelArq.Caption:= Sr.Name;
+            Application.ProcessMessages;
             sTemp := concat(Diretorio,'\',Sr.Name);
-            LabelArq.Caption := sTemp;
-            LabelDir.Caption := Diretorio;
             nTemp := Length(sTemp);
             Extensao := uppercase(copy(sTemp, nTemp-2,nTemp));
             for n:= 0 to ListBox2.Items.Count -1 do
@@ -154,7 +135,6 @@ begin
   if DirectoryEdit1.Text = '' then exit;
   if (SaveDialog1.Execute) then begin
      if SaveDialog1.FileName = '' then exit;
-     Timer1.Enabled:= True;
      ArquivoSaida := TStringList.Create;
      ArquivoSaida.BeginUpdate;
      Erros := TStringList.Create;
@@ -176,7 +156,6 @@ begin
      ArquivoSaida.Sort();
      ArquivoSaida.EndUpdate;
      RemoveDuplicated(ArquivoSaida);
-     Timer1.Enabled:= False;
 
 
      ArquivoSaida.SaveToFile(SaveDialog1.FileName);
@@ -228,11 +207,6 @@ begin
   CloseAction := caFree;
 end;
 
-procedure TfrmWordListExtract.Timer1Timer(Sender: TObject);
-begin
-   if Assigned(ArquivoSaida) then   LabelTotal.Caption := inttostr(ArquivoSaida.Count);
-   Application.ProcessMessages;
-end;
 
 end.
 

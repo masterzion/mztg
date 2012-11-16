@@ -9,11 +9,12 @@ uses
   ExtCtrls, EditBtn, StdCtrls, Buttons, CheckLst, Spin, Menus, dateutils, INIFiles;
 
 //const appThreadCount = 1;
-const AppVersion = 'MZTG 0.3';
+const AppVersion = 'MZTG 0.04';
 type
   { TfrmMain }
 
   TfrmMain = class(TForm)
+    btnGoogle: TBitBtn;
     btnHeuristic: TBitBtn;
     btnAddCustomRule1: TButton;
     btnAddWordList: TButton;
@@ -175,6 +176,7 @@ type
     tsPwdLoginPart: TTabSheet;
     tsWordList: TTabSheet;
     tsSpecialCharacter: TTabSheet;
+    procedure btnGoogleClick(Sender: TObject);
     procedure btnHeuristicClick(Sender: TObject);
     procedure btnAboutClick(Sender: TObject);
     procedure btnAddCustomRule1Click(Sender: TObject);
@@ -234,7 +236,7 @@ var
 
 
 implementation
-uses brutegen, wordlistextract, hybridgen, about, apputils, heuristic, sanitizer;
+uses brutegen, wordlistextract, hybridgen, about, apputils, heuristic, sanitizer, google;
 {$R *.lfm}
 
 { TfrmMain }
@@ -260,7 +262,7 @@ var
    INI:TINIFile;
    menuitem :TMenuItem;
  begin
-
+  Randomize();
   Caption := AppVersion;
 
   strPath := ExtractFilePath(Application.ExeName);
@@ -450,6 +452,12 @@ begin
    end;
 
 
+end;
+
+procedure TfrmMain.btnGoogleClick(Sender: TObject);
+begin
+  frmGoogle := TfrmGoogle.Create(self);
+  frmGoogle.ShowModal;
 end;
 
 
@@ -925,8 +933,9 @@ end;
 
 procedure TfrmMain.MenuItem4Click(Sender: TObject);
 begin
-  ExecuteProcess(ExtractFilePath(Application.ExeName)+'Kaldemonia3.exe' , 'Kaldemonia3.exe', []);
+  btnGoogle.Click;
 end;
+
 
 procedure TfrmMain.MenuItem5Click(Sender: TObject);
 var
