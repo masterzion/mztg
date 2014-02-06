@@ -1,4 +1,4 @@
-﻿const Entities:array [1..101,1..3] of widestring=(
+const Entities:array [1..101,1..3] of widestring=(
 ('"','&#34;','&quot;'),
 ('''','&#39;','&apos;'),
 ('&','&#38;','&amp;'),

@@ -513,7 +513,7 @@ begin
   iMinWordSize := 9999999;
 
   attacks := TStringList.create();
-  writelog('Search Checked itens  Objects...');
+  writelog('Search Checked items  Objects...');
   for n:= 0 to frmMain.ComponentCount-1 do begin
      if ( frmMain.Components[n] is TCheckListBox ) then begin
        chkl := ( frmMain.Components[n] as TCheckListBox ) ;
@@ -549,7 +549,7 @@ begin
   writelog('Preparing Attack Objects...');
   indexerror := MakeHybridArray(attacks, HybridAttack, iMaxWordSize,  iMinWordSize );
   if indexerror > 0 then begin
-     ShowMessage('Sintax error in: '+attacks[indexerror] );
+     ShowMessage('Syntax error in: '+attacks[indexerror] );
      attacks.free;
   end;
   writelog('Total Objects:' + inttostr( attacks.Count ));
@@ -663,7 +663,7 @@ begin
     ListSemiBrute3.LoadFromFile(strPath + 'preindexed'+ PathDelim  + 'semibrute3.txt');
   end;
 
-  //  sort by size
+  // sort by size
   if haveWord and ( not CancelProcess )  then begin
 
     	  WordList := TStringList.Create;
@@ -786,12 +786,12 @@ begin
 
 
   n := 1;
-  for HybridLine in  HybridAttack do begin
+  for HybridLine in HybridAttack do begin
     ntemp := 0;
     stemp := '';
     bListExists :=True;
     if CancelProcess then Break;
-    //  SizeOf( HybridLine ) have bug
+    //  SizeOf( HybridLine ) has a bug
     for HybridItem in  HybridLine do begin
        ntemp += 1;
        stemp += '['+arHybridTypes[HybridItem.HybridType]+inttostr(HybridItem.Size)+ ']';
@@ -828,7 +828,7 @@ begin
         WriteAttack('', HybridLine, 0 , ntemp-1, '' );
     end
     else begin
-      writelog('No Word/Date  for '+stemp+' ...');
+      writelog('No Word/Date for '+stemp+'...');
     end;
 
     Application.ProcessMessages();
@@ -840,8 +840,8 @@ begin
   WordList.Free;
 
   writelog('Closing Hybrid Arrays ...');
-  for HybridLine in  HybridAttack do
-    for HybridItem in  HybridLine do
+  for HybridLine in HybridAttack do
+    for HybridItem in HybridLine do
        HybridItem.Free;
 
 
@@ -862,12 +862,12 @@ begin
 
   if haveDate then begin
      writelog('Closing Date Arrays ...');
-     for WordListTemp in  DateTimebySize do WordListTemp.Free;
+     for WordListTemp in DateTimebySize do WordListTemp.Free;
   end;
 
   if haveWord then begin
      writelog('Closing Wordlist Arrays ...');
-     for WordListTemp in  WordListbySize do WordListTemp.Free;
+     for WordListTemp in WordListbySize do WordListTemp.Free;
   end;
   writelog('End '+datetimetostr(now)+' ...');
   writelog('Done! :)');
